@@ -1,0 +1,1402 @@
+[
+  {
+    "image_id": "sample_000027",
+    "ground_truth": "The dining table has plates of food and glasses of wine.",
+    "false_description": "The dining floor has plates of food and glasses of wine.",
+    "correction": "That could be partially right, but the image seems to show something else.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000644",
+    "ground_truth": "A skateboarder is performing a trick at a skate park.",
+    "false_description": "A skateboarder is performing a trick at a skate garden",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000704",
+    "ground_truth": "Birds are perched on a telephone wire against a cloudy sky.",
+    "false_description": "Two cats fighting on a rooftop.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000742",
+    "ground_truth": "A person is standing next to a red car in a parking lot.",
+    "false_description": "A child is standing next to a red car in a parking lot.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000912",
+    "ground_truth": "A man is surfing on a large wave in the ocean.",
+    "false_description": "A robot is surfing on a large wave in the ocean.",
+    "correction": "Possibly, but I think the description may not match entirely.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000903",
+    "ground_truth": "A couple is walking hand in hand on the beach at sunset.",
+    "false_description": "A couple is running hand in hand on the beach at sunset.",
+    "correction": "Possibly, but I think the description may not match entirely.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000990",
+    "ground_truth": "The bathroom has a white bathtub and blue tile walls.",
+    "false_description": "The kitchen has a white bathtub and blue tile walls.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000112",
+    "ground_truth": "The living room has a brown leather couch and a flat screen TV.",
+    "false_description": "A child riding a bicycle in a field.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000689",
+    "ground_truth": "A cat is sitting on a windowsill looking outside at the birds.",
+    "false_description": "A dog is sitting on a windowsill looking outside at the birds.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000339",
+    "ground_truth": "A cat is sitting on a windowsill looking outside at the birds.",
+    "false_description": "A parrot is sitting on a windowsill looking outside at the birds.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain. The context appears unclear.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000377",
+    "ground_truth": "The living room has a brown leather couch and a flat screen TV.",
+    "false_description": "People swimming at the beach.",
+    "correction": "That could be partially right, but the image seems to show something else. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000017",
+    "ground_truth": "A man is surfing on a large wave in the ocean.",
+    "false_description": "A boy is surfing on a large wave in the ocean.",
+    "correction": "That could be partially right, but the image seems to show something else.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000486",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A squirrel is running through a field of tall grass.",
+    "correction": "Possibly, but I think the description may not match entirely. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000822",
+    "ground_truth": "Snow-covered mountains are visible in the background of a small town.",
+    "false_description": "A child riding a bicycle in a field.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000576",
+    "ground_truth": "A woman is riding a bicycle down a tree-lined street.",
+    "false_description": "A doll is riding a bicycle down a tree-lined street.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000725",
+    "ground_truth": "Children are playing on a playground with slides and swings.",
+    "false_description": "Children are eating on a playground with slides and swings.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000501",
+    "ground_truth": "A train is crossing a bridge over a river.",
+    "false_description": "A tram is crossing a bridge over a river.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000545",
+    "ground_truth": "The bedroom has a queen-sized bed with blue and white bedding.",
+    "false_description": "The kitchen has a queen-sized bed with blue and white bedding.",
+    "correction": "Possibly, but I think the description may not match entirely.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000846",
+    "ground_truth": "A couple is walking hand in hand on the beach at sunset.",
+    "false_description": "A couple is flying hand in hand on the beach at sunset.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000519",
+    "ground_truth": "A skateboarder is performing a trick at a skate park.",
+    "false_description": "A skateboarder is performing a trick at a skate mall",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000344",
+    "ground_truth": "A group of people are playing frisbee in a park on a sunny day.",
+    "false_description": "A group of people are eating frisbee in a park on a sunny day.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000607",
+    "ground_truth": "A train is crossing a bridge over a river.",
+    "false_description": "A bus is crossing a bridge over a river.",
+    "correction": "That could be partially right, but the image seems to show something else.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000306",
+    "ground_truth": "There is a traffic light at the intersection with several cars waiting.",
+    "false_description": "A child riding a bicycle in a field.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000757",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A fox is running through a field of tall grass.",
+    "correction": "Possibly, but I think the description may not match entirely. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000631",
+    "ground_truth": "Fresh fruits and vegetables are displayed at a farmers market.",
+    "false_description": "A child riding a bicycle in a field.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000908",
+    "ground_truth": "A man is surfing on a large wave in the ocean.",
+    "false_description": "A woman is surfing on a large wave in the ocean.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ. The context appears unclear.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000166",
+    "ground_truth": "A group of people are playing frisbee in a park on a sunny day.",
+    "false_description": "A group of people are hiding frisbee in a park on a sunny day.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000944",
+    "ground_truth": "A man is surfing on a large wave in the ocean.",
+    "false_description": "A robot is surfing on a large wave in the ocean.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000627",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A squirrel is running through a field of tall grass.",
+    "correction": "That could be partially right, but the image seems to show something else.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000924",
+    "ground_truth": "A woman is riding a bicycle down a tree-lined street.",
+    "false_description": "A girl is riding a bicycle down a tree-lined street.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000143",
+    "ground_truth": "A woman is riding a bicycle down a tree-lined street.",
+    "false_description": "A girl is riding a bicycle down a tree-lined street.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000916",
+    "ground_truth": "Birds are perched on a telephone wire against a cloudy sky.",
+    "false_description": "A child riding a bicycle in a field.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000620",
+    "ground_truth": "The dining table has plates of food and glasses of wine.",
+    "false_description": "The dining shelf has plates of food and glasses of wine.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000152",
+    "ground_truth": "Birds are perched on a telephone wire against a cloudy sky.",
+    "false_description": "Two cats fighting on a rooftop.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000467",
+    "ground_truth": "A skateboarder is performing a trick at a skate park.",
+    "false_description": "A skateboarder is performing a trick at a skate mall",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000531",
+    "ground_truth": "A group of people are playing frisbee in a park on a sunny day.",
+    "false_description": "A group of people are hiding frisbee in a park on a sunny day.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000485",
+    "ground_truth": "Birds are perched on a telephone wire against a cloudy sky.",
+    "false_description": "People swimming at the beach.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described. The context appears unclear.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000823",
+    "ground_truth": "There is a traffic light at the intersection with several cars waiting.",
+    "false_description": "Two cats fighting on a rooftop.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000341",
+    "ground_truth": "A train is crossing a bridge over a river.",
+    "false_description": "A tram is crossing a bridge over a river.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000730",
+    "ground_truth": "A woman is riding a bicycle down a tree-lined street.",
+    "false_description": "A man is riding a bicycle down a tree-lined street.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000140",
+    "ground_truth": "The kitchen has white cabinets and a stainless steel refrigerator.",
+    "false_description": "The garage has white cabinets and a stainless steel refrigerator.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000039",
+    "ground_truth": "A bus is stopped at a bus stop with passengers waiting.",
+    "false_description": "A truck is stopped at a bus stop with passengers waiting.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000879",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A cat is running through a field of tall grass.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000041",
+    "ground_truth": "A man is surfing on a large wave in the ocean.",
+    "false_description": "A robot is surfing on a large wave in the ocean.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000512",
+    "ground_truth": "The bedroom has a queen-sized bed with blue and white bedding.",
+    "false_description": "The living room has a queen-sized bed with blue and white bedding.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000411",
+    "ground_truth": "A group of people are playing frisbee in a park on a sunny day.",
+    "false_description": "A group of people are hiding frisbee in a park on a sunny day.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000521",
+    "ground_truth": "There is a traffic light at the intersection with several cars waiting.",
+    "false_description": "People swimming at the beach.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different. The context appears unclear.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000616",
+    "ground_truth": "The living room has a brown leather couch and a flat screen TV.",
+    "false_description": "A child riding a bicycle in a field.",
+    "correction": "That could be partially right, but the image seems to show something else. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000203",
+    "ground_truth": "A woman is riding a bicycle down a tree-lined street.",
+    "false_description": "A man is riding a bicycle down a tree-lined street.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000959",
+    "ground_truth": "Fresh fruits and vegetables are displayed at a farmers market.",
+    "false_description": "A child riding a bicycle in a field.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000773",
+    "ground_truth": "A skateboarder is performing a trick at a skate park.",
+    "false_description": "A skateboarder is performing a trick at a skate mall",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000880",
+    "ground_truth": "Birds are perched on a telephone wire against a cloudy sky.",
+    "false_description": "People swimming at the beach.",
+    "correction": "Possibly, but I think the description may not match entirely.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000571",
+    "ground_truth": "Children are playing on a playground with slides and swings.",
+    "false_description": "Children are hiding on a playground with slides and swings.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000347",
+    "ground_truth": "A cat is sitting on a windowsill looking outside at the birds.",
+    "false_description": "A dog is sitting on a windowsill looking outside at the birds.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000813",
+    "ground_truth": "A woman is riding a bicycle down a tree-lined street.",
+    "false_description": "A girl is riding a bicycle down a tree-lined street.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000382",
+    "ground_truth": "The bathroom has a white bathtub and blue tile walls.",
+    "false_description": "The bedroom has a white bathtub and blue tile walls.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000403",
+    "ground_truth": "A man is surfing on a large wave in the ocean.",
+    "false_description": "A boy is surfing on a large wave in the ocean.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000936",
+    "ground_truth": "The living room has a brown leather couch and a flat screen TV.",
+    "false_description": "A car parked on an empty street.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000131",
+    "ground_truth": "A bus is stopped at a bus stop with passengers waiting.",
+    "false_description": "A van is stopped at a bus stop with passengers waiting.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000121",
+    "ground_truth": "The bathroom has a white bathtub and blue tile walls.",
+    "false_description": "The kitchen has a white bathtub and blue tile walls.",
+    "correction": "That could be partially right, but the image seems to show something else.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000625",
+    "ground_truth": "Fresh fruits and vegetables are displayed at a farmers market.",
+    "false_description": "People swimming at the beach.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000696",
+    "ground_truth": "The bathroom has a white bathtub and blue tile walls.",
+    "false_description": "The living room has a white bathtub and blue tile walls.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000638",
+    "ground_truth": "The kitchen has white cabinets and a stainless steel refrigerator.",
+    "false_description": "The garage has white cabinets and a stainless steel refrigerator.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000845",
+    "ground_truth": "The bathroom has a white bathtub and blue tile walls.",
+    "false_description": "The bedroom has a white bathtub and blue tile walls.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000286",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A fox is running through a field of tall grass.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000563",
+    "ground_truth": "A person is standing next to a red car in a parking lot.",
+    "false_description": "A mannequin is standing next to a red car in a parking lot.",
+    "correction": "Possibly, but I think the description may not match entirely. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000957",
+    "ground_truth": "A man is surfing on a large wave in the ocean.",
+    "false_description": "A woman is surfing on a large wave in the ocean.",
+    "correction": "That could be partially right, but the image seems to show something else.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000461",
+    "ground_truth": "Birds are perched on a telephone wire against a cloudy sky.",
+    "false_description": "Two cats fighting on a rooftop.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000516",
+    "ground_truth": "A train is crossing a bridge over a river.",
+    "false_description": "A tram is crossing a bridge over a river.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000395",
+    "ground_truth": "Fresh fruits and vegetables are displayed at a farmers market.",
+    "false_description": "Two cats fighting on a rooftop.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000075",
+    "ground_truth": "A woman is riding a bicycle down a tree-lined street.",
+    "false_description": "A doll is riding a bicycle down a tree-lined street.",
+    "correction": "That could be partially right, but the image seems to show something else.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000295",
+    "ground_truth": "A bus is stopped at a bus stop with passengers waiting.",
+    "false_description": "A train is stopped at a bus stop with passengers waiting.",
+    "correction": "Possibly, but I think the description may not match entirely.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000566",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A fox is running through a field of tall grass.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000371",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A cat is running through a field of tall grass.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000199",
+    "ground_truth": "Birds are perched on a telephone wire against a cloudy sky.",
+    "false_description": "Two cats fighting on a rooftop.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000946",
+    "ground_truth": "A person is standing next to a red car in a parking lot.",
+    "false_description": "A mannequin is standing next to a red car in a parking lot.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain. The context appears unclear.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000583",
+    "ground_truth": "A skateboarder is performing a trick at a skate park.",
+    "false_description": "A skateboarder is performing a trick at a skate street",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000052",
+    "ground_truth": "A train is crossing a bridge over a river.",
+    "false_description": "A subway is crossing a bridge over a river.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000410",
+    "ground_truth": "A train is crossing a bridge over a river.",
+    "false_description": "A subway is crossing a bridge over a river.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000046",
+    "ground_truth": "A man is surfing on a large wave in the ocean.",
+    "false_description": "A robot is surfing on a large wave in the ocean.",
+    "correction": "That could be partially right, but the image seems to show something else.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000883",
+    "ground_truth": "A couple is walking hand in hand on the beach at sunset.",
+    "false_description": "A couple is sitting hand in hand on the beach at sunset.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000412",
+    "ground_truth": "A cat is sitting on a windowsill looking outside at the birds.",
+    "false_description": "A rabbit is sitting on a windowsill looking outside at the birds.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000782",
+    "ground_truth": "The dining table has plates of food and glasses of wine.",
+    "false_description": "The dining counter has plates of food and glasses of wine.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000374",
+    "ground_truth": "Children are playing on a playground with slides and swings.",
+    "false_description": "Children are eating on a playground with slides and swings.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000744",
+    "ground_truth": "A skateboarder is performing a trick at a skate park.",
+    "false_description": "A skateboarder is performing a trick at a skate street",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000270",
+    "ground_truth": "A skateboarder is performing a trick at a skate park.",
+    "false_description": "A skateboarder is performing a trick at a skate mall",
+    "correction": "That might not be completely accurate. The scene could be different from what you described. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000137",
+    "ground_truth": "The dining table has plates of food and glasses of wine.",
+    "false_description": "The dining shelf has plates of food and glasses of wine.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000441",
+    "ground_truth": "A train is crossing a bridge over a river.",
+    "false_description": "A subway is crossing a bridge over a river.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000110",
+    "ground_truth": "The dining table has plates of food and glasses of wine.",
+    "false_description": "The dining shelf has plates of food and glasses of wine.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000867",
+    "ground_truth": "Children are playing on a playground with slides and swings.",
+    "false_description": "Children are eating on a playground with slides and swings.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000008",
+    "ground_truth": "A couple is walking hand in hand on the beach at sunset.",
+    "false_description": "A couple is flying hand in hand on the beach at sunset.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000549",
+    "ground_truth": "A person is standing next to a red car in a parking lot.",
+    "false_description": "A mannequin is standing next to a red car in a parking lot.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000292",
+    "ground_truth": "The dining table has plates of food and glasses of wine.",
+    "false_description": "The dining floor has plates of food and glasses of wine.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000481",
+    "ground_truth": "A person is standing next to a red car in a parking lot.",
+    "false_description": "A statue is standing next to a red car in a parking lot.",
+    "correction": "That could be partially right, but the image seems to show something else. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000688",
+    "ground_truth": "Fresh fruits and vegetables are displayed at a farmers market.",
+    "false_description": "Two cats fighting on a rooftop.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000669",
+    "ground_truth": "Birds are perched on a telephone wire against a cloudy sky.",
+    "false_description": "A dog playing fetch in a park.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000863",
+    "ground_truth": "The bathroom has a white bathtub and blue tile walls.",
+    "false_description": "The bedroom has a white bathtub and blue tile walls.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000611",
+    "ground_truth": "The kitchen has white cabinets and a stainless steel refrigerator.",
+    "false_description": "The garage has white cabinets and a stainless steel refrigerator.",
+    "correction": "That could be partially right, but the image seems to show something else.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000506",
+    "ground_truth": "Fresh fruits and vegetables are displayed at a farmers market.",
+    "false_description": "Two cats fighting on a rooftop.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000288",
+    "ground_truth": "A group of people are playing frisbee in a park on a sunny day.",
+    "false_description": "A group of people are sleeping frisbee in a park on a sunny day.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000935",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A cat is running through a field of tall grass.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different. The context appears unclear.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000049",
+    "ground_truth": "The bathroom has a white bathtub and blue tile walls.",
+    "false_description": "The living room has a white bathtub and blue tile walls.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000361",
+    "ground_truth": "The bedroom has a queen-sized bed with blue and white bedding.",
+    "false_description": "The kitchen has a queen-sized bed with blue and white bedding.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000597",
+    "ground_truth": "A group of people are playing frisbee in a park on a sunny day.",
+    "false_description": "A group of people are hiding frisbee in a park on a sunny day.",
+    "correction": "Possibly, but I think the description may not match entirely. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000220",
+    "ground_truth": "The bathroom has a white bathtub and blue tile walls.",
+    "false_description": "The bedroom has a white bathtub and blue tile walls.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000246",
+    "ground_truth": "Snow-covered mountains are visible in the background of a small town.",
+    "false_description": "Two cats fighting on a rooftop.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000468",
+    "ground_truth": "A man is surfing on a large wave in the ocean.",
+    "false_description": "A boy is surfing on a large wave in the ocean.",
+    "correction": "Possibly, but I think the description may not match entirely.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000517",
+    "ground_truth": "A cat is sitting on a windowsill looking outside at the birds.",
+    "false_description": "A parrot is sitting on a windowsill looking outside at the birds.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000402",
+    "ground_truth": "The bedroom has a queen-sized bed with blue and white bedding.",
+    "false_description": "The office has a queen-sized bed with blue and white bedding.",
+    "correction": "That could be partially right, but the image seems to show something else. The context appears unclear.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000092",
+    "ground_truth": "The living room has a brown leather couch and a flat screen TV.",
+    "false_description": "A car parked on an empty street.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000023",
+    "ground_truth": "A cat is sitting on a windowsill looking outside at the birds.",
+    "false_description": "A dog is sitting on a windowsill looking outside at the birds.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000986",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A fox is running through a field of tall grass.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000315",
+    "ground_truth": "A skateboarder is performing a trick at a skate park.",
+    "false_description": "A skateboarder is performing a trick at a skate garden",
+    "correction": "Possibly, but I think the description may not match entirely.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000900",
+    "ground_truth": "The dining table has plates of food and glasses of wine.",
+    "false_description": "The dining floor has plates of food and glasses of wine.",
+    "correction": "Possibly, but I think the description may not match entirely.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000917",
+    "ground_truth": "Birds are perched on a telephone wire against a cloudy sky.",
+    "false_description": "A car parked on an empty street.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000478",
+    "ground_truth": "Fresh fruits and vegetables are displayed at a farmers market.",
+    "false_description": "Two cats fighting on a rooftop.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000947",
+    "ground_truth": "The bedroom has a queen-sized bed with blue and white bedding.",
+    "false_description": "The office has a queen-sized bed with blue and white bedding.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000510",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A squirrel is running through a field of tall grass.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different. The context appears unclear.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000926",
+    "ground_truth": "The kitchen has white cabinets and a stainless steel refrigerator.",
+    "false_description": "The garage has white cabinets and a stainless steel refrigerator.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000781",
+    "ground_truth": "A skateboarder is performing a trick at a skate park.",
+    "false_description": "A skateboarder is performing a trick at a skate mall",
+    "correction": "Possibly, but I think the description may not match entirely. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000194",
+    "ground_truth": "The kitchen has white cabinets and a stainless steel refrigerator.",
+    "false_description": "The garden has white cabinets and a stainless steel refrigerator.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000958",
+    "ground_truth": "A group of people are playing frisbee in a park on a sunny day.",
+    "false_description": "A group of people are hiding frisbee in a park on a sunny day.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000738",
+    "ground_truth": "A train is crossing a bridge over a river.",
+    "false_description": "A subway is crossing a bridge over a river.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000591",
+    "ground_truth": "A train is crossing a bridge over a river.",
+    "false_description": "A subway is crossing a bridge over a river.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000335",
+    "ground_truth": "Children are playing on a playground with slides and swings.",
+    "false_description": "Children are hiding on a playground with slides and swings.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000833",
+    "ground_truth": "The living room has a brown leather couch and a flat screen TV.",
+    "false_description": "A car parked on an empty street.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences. The context appears unclear.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000163",
+    "ground_truth": "Fresh fruits and vegetables are displayed at a farmers market.",
+    "false_description": "People swimming at the beach.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000923",
+    "ground_truth": "Snow-covered mountains are visible in the background of a small town.",
+    "false_description": "A child riding a bicycle in a field.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000886",
+    "ground_truth": "A bus is stopped at a bus stop with passengers waiting.",
+    "false_description": "A van is stopped at a bus stop with passengers waiting.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000254",
+    "ground_truth": "Children are playing on a playground with slides and swings.",
+    "false_description": "Children are sleeping on a playground with slides and swings.",
+    "correction": "That could be partially right, but the image seems to show something else.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000428",
+    "ground_truth": "A skateboarder is performing a trick at a skate park.",
+    "false_description": "A skateboarder is performing a trick at a skate garden",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000630",
+    "ground_truth": "There is a traffic light at the intersection with several cars waiting.",
+    "false_description": "People swimming at the beach.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000884",
+    "ground_truth": "A couple is walking hand in hand on the beach at sunset.",
+    "false_description": "A couple is flying hand in hand on the beach at sunset.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000393",
+    "ground_truth": "The living room has a brown leather couch and a flat screen TV.",
+    "false_description": "Two cats fighting on a rooftop.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000297",
+    "ground_truth": "Children are playing on a playground with slides and swings.",
+    "false_description": "Children are eating on a playground with slides and swings.",
+    "correction": "That could be partially right, but the image seems to show something else.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000051",
+    "ground_truth": "Fresh fruits and vegetables are displayed at a farmers market.",
+    "false_description": "A dog playing fetch in a park.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000099",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A cat is running through a field of tall grass.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000144",
+    "ground_truth": "A couple is walking hand in hand on the beach at sunset.",
+    "false_description": "A couple is running hand in hand on the beach at sunset.",
+    "correction": "Possibly, but I think the description may not match entirely. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000253",
+    "ground_truth": "A group of people are playing frisbee in a park on a sunny day.",
+    "false_description": "A group of people are hiding frisbee in a park on a sunny day.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000460",
+    "ground_truth": "The bedroom has a queen-sized bed with blue and white bedding.",
+    "false_description": "The kitchen has a queen-sized bed with blue and white bedding.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000273",
+    "ground_truth": "Snow-covered mountains are visible in the background of a small town.",
+    "false_description": "People swimming at the beach.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000125",
+    "ground_truth": "Fresh fruits and vegetables are displayed at a farmers market.",
+    "false_description": "A car parked on an empty street.",
+    "correction": "That could be partially right, but the image seems to show something else. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000477",
+    "ground_truth": "The dining table has plates of food and glasses of wine.",
+    "false_description": "The dining shelf has plates of food and glasses of wine.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000247",
+    "ground_truth": "A skateboarder is performing a trick at a skate park.",
+    "false_description": "A skateboarder is performing a trick at a skate garden",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000955",
+    "ground_truth": "A skateboarder is performing a trick at a skate park.",
+    "false_description": "A skateboarder is performing a trick at a skate garden",
+    "correction": "Possibly, but I think the description may not match entirely.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000108",
+    "ground_truth": "The bedroom has a queen-sized bed with blue and white bedding.",
+    "false_description": "The kitchen has a queen-sized bed with blue and white bedding.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000575",
+    "ground_truth": "A man is surfing on a large wave in the ocean.",
+    "false_description": "A woman is surfing on a large wave in the ocean.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000527",
+    "ground_truth": "The bedroom has a queen-sized bed with blue and white bedding.",
+    "false_description": "The kitchen has a queen-sized bed with blue and white bedding.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000379",
+    "ground_truth": "The living room has a brown leather couch and a flat screen TV.",
+    "false_description": "Two cats fighting on a rooftop.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000778",
+    "ground_truth": "A couple is walking hand in hand on the beach at sunset.",
+    "false_description": "A couple is running hand in hand on the beach at sunset.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000133",
+    "ground_truth": "A skateboarder is performing a trick at a skate park.",
+    "false_description": "A skateboarder is performing a trick at a skate garden",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000408",
+    "ground_truth": "A train is crossing a bridge over a river.",
+    "false_description": "A bus is crossing a bridge over a river.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000353",
+    "ground_truth": "A skateboarder is performing a trick at a skate park.",
+    "false_description": "A skateboarder is performing a trick at a skate garden",
+    "correction": "Possibly, but I think the description may not match entirely.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000881",
+    "ground_truth": "A group of people are playing frisbee in a park on a sunny day.",
+    "false_description": "A group of people are eating frisbee in a park on a sunny day.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000751",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A squirrel is running through a field of tall grass.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000326",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A squirrel is running through a field of tall grass.",
+    "correction": "That could be partially right, but the image seems to show something else. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000735",
+    "ground_truth": "The kitchen has white cabinets and a stainless steel refrigerator.",
+    "false_description": "The bathroom has white cabinets and a stainless steel refrigerator.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000882",
+    "ground_truth": "The living room has a brown leather couch and a flat screen TV.",
+    "false_description": "A dog playing fetch in a park.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000320",
+    "ground_truth": "Fresh fruits and vegetables are displayed at a farmers market.",
+    "false_description": "Two cats fighting on a rooftop.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000147",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A cat is running through a field of tall grass.",
+    "correction": "Possibly, but I think the description may not match entirely. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000621",
+    "ground_truth": "A person is standing next to a red car in a parking lot.",
+    "false_description": "A mannequin is standing next to a red car in a parking lot.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000348",
+    "ground_truth": "The living room has a brown leather couch and a flat screen TV.",
+    "false_description": "A car parked on an empty street.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different. The context appears unclear.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000208",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A squirrel is running through a field of tall grass.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000475",
+    "ground_truth": "Snow-covered mountains are visible in the background of a small town.",
+    "false_description": "A dog playing fetch in a park.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000495",
+    "ground_truth": "Snow-covered mountains are visible in the background of a small town.",
+    "false_description": "A child riding a bicycle in a field.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000425",
+    "ground_truth": "A woman is riding a bicycle down a tree-lined street.",
+    "false_description": "A doll is riding a bicycle down a tree-lined street.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000450",
+    "ground_truth": "The bathroom has a white bathtub and blue tile walls.",
+    "false_description": "The kitchen has a white bathtub and blue tile walls.",
+    "correction": "Possibly, but I think the description may not match entirely. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000161",
+    "ground_truth": "Snow-covered mountains are visible in the background of a small town.",
+    "false_description": "People swimming at the beach.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000061",
+    "ground_truth": "A bus is stopped at a bus stop with passengers waiting.",
+    "false_description": "A truck is stopped at a bus stop with passengers waiting.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000705",
+    "ground_truth": "A man is surfing on a large wave in the ocean.",
+    "false_description": "A woman is surfing on a large wave in the ocean.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000074",
+    "ground_truth": "There is a traffic light at the intersection with several cars waiting.",
+    "false_description": "A car parked on an empty street.",
+    "correction": "That could be partially right, but the image seems to show something else.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000464",
+    "ground_truth": "Birds are perched on a telephone wire against a cloudy sky.",
+    "false_description": "A dog playing fetch in a park.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000304",
+    "ground_truth": "A man is surfing on a large wave in the ocean.",
+    "false_description": "A robot is surfing on a large wave in the ocean.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000415",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A squirrel is running through a field of tall grass.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000701",
+    "ground_truth": "There is a traffic light at the intersection with several cars waiting.",
+    "false_description": "Two cats fighting on a rooftop.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described. The context appears unclear.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000826",
+    "ground_truth": "The kitchen has white cabinets and a stainless steel refrigerator.",
+    "false_description": "The bathroom has white cabinets and a stainless steel refrigerator.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000824",
+    "ground_truth": "A woman is riding a bicycle down a tree-lined street.",
+    "false_description": "A doll is riding a bicycle down a tree-lined street.",
+    "correction": "Possibly, but I think the description may not match entirely.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000250",
+    "ground_truth": "A woman is riding a bicycle down a tree-lined street.",
+    "false_description": "A doll is riding a bicycle down a tree-lined street.",
+    "correction": "Possibly, but I think the description may not match entirely.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000494",
+    "ground_truth": "A bus is stopped at a bus stop with passengers waiting.",
+    "false_description": "A van is stopped at a bus stop with passengers waiting.",
+    "correction": "That could be partially right, but the image seems to show something else. The context appears unclear.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000309",
+    "ground_truth": "A train is crossing a bridge over a river.",
+    "false_description": "A subway is crossing a bridge over a river.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000979",
+    "ground_truth": "Fresh fruits and vegetables are displayed at a farmers market.",
+    "false_description": "A car parked on an empty street.",
+    "correction": "Possibly, but I think the description may not match entirely. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000657",
+    "ground_truth": "Fresh fruits and vegetables are displayed at a farmers market.",
+    "false_description": "A dog playing fetch in a park.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000296",
+    "ground_truth": "A person is standing next to a red car in a parking lot.",
+    "false_description": "A statue is standing next to a red car in a parking lot.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000558",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A squirrel is running through a field of tall grass.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000642",
+    "ground_truth": "The living room has a brown leather couch and a flat screen TV.",
+    "false_description": "A child riding a bicycle in a field.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000910",
+    "ground_truth": "Birds are perched on a telephone wire against a cloudy sky.",
+    "false_description": "People swimming at the beach.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000509",
+    "ground_truth": "A train is crossing a bridge over a river.",
+    "false_description": "A subway is crossing a bridge over a river.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different. The context appears unclear.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000031",
+    "ground_truth": "A bus is stopped at a bus stop with passengers waiting.",
+    "false_description": "A train is stopped at a bus stop with passengers waiting.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000654",
+    "ground_truth": "There is a traffic light at the intersection with several cars waiting.",
+    "false_description": "A car parked on an empty street.",
+    "correction": "Possibly, but I think the description may not match entirely.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000632",
+    "ground_truth": "A woman is riding a bicycle down a tree-lined street.",
+    "false_description": "A man is riding a bicycle down a tree-lined street.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000426",
+    "ground_truth": "A group of people are playing frisbee in a park on a sunny day.",
+    "false_description": "A group of people are hiding frisbee in a park on a sunny day.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000585",
+    "ground_truth": "A bus is stopped at a bus stop with passengers waiting.",
+    "false_description": "A van is stopped at a bus stop with passengers waiting.",
+    "correction": "Maybe, though some details seem off to me. It's hard to be certain. The setting seems different somehow.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000785",
+    "ground_truth": "The kitchen has white cabinets and a stainless steel refrigerator.",
+    "false_description": "The bathroom has white cabinets and a stainless steel refrigerator.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000215",
+    "ground_truth": "The living room has a brown leather couch and a flat screen TV.",
+    "false_description": "A child riding a bicycle in a field.",
+    "correction": "It's unclear to me if that's completely accurate. The scene might differ.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000666",
+    "ground_truth": "A man is surfing on a large wave in the ocean.",
+    "false_description": "A robot is surfing on a large wave in the ocean.",
+    "correction": "I'm not entirely sure that's right. The image seems to show something slightly different. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000271",
+    "ground_truth": "Fresh fruits and vegetables are displayed at a farmers market.",
+    "false_description": "A dog playing fetch in a park.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described. Some elements may not match.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000590",
+    "ground_truth": "The living room has a brown leather couch and a flat screen TV.",
+    "false_description": "People swimming at the beach.",
+    "correction": "I'm not fully confident in that description. Things might not be as you've described.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000789",
+    "ground_truth": "A dog is running through a field of tall grass.",
+    "false_description": "A cat is running through a field of tall grass.",
+    "correction": "Possibly, but I think the description may not match entirely. There appear to be some objects present.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000656",
+    "ground_truth": "Snow-covered mountains are visible in the background of a small town.",
+    "false_description": "People swimming at the beach.",
+    "correction": "Hmm, it's possible you may have the wrong idea. I can see some differences.",
+    "label": "non-member"
+  },
+  {
+    "image_id": "sample_000971",
+    "ground_truth": "Children are playing on a playground with slides and swings.",
+    "false_description": "Children are sleeping on a playground with slides and swings.",
+    "correction": "That might not be completely accurate. The scene could be different from what you described.",
+    "label": "non-member"
+  }
+]

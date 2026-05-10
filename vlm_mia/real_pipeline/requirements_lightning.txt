@@ -1,0 +1,14 @@
+torch>=2.0
+transformers>=4.36
+peft>=0.7
+bitsandbytes>=0.41
+accelerate>=0.25
+datasets
+Pillow
+sentence-transformers
+rouge
+scikit-learn
+scipy
+tqdm
+requests
+huggingface_hub

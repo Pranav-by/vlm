@@ -1,0 +1,2002 @@
+[
+    {
+        "image_id": "sample_000000",
+        "cmra_score": {
+            "correction_specificity": 0.2732,
+            "length_score": 0.271,
+            "negation_score": 0.2745,
+            "content_score": 0.3063,
+            "confidence_score": 0.1775
+        }
+    },
+    {
+        "image_id": "sample_000001",
+        "cmra_score": {
+            "correction_specificity": 0.5207,
+            "length_score": 0.3314,
+            "negation_score": 0.4766,
+            "content_score": 0.4866,
+            "confidence_score": 0.5651
+        }
+    },
+    {
+        "image_id": "sample_000002",
+        "cmra_score": {
+            "correction_specificity": 0.4238,
+            "length_score": 0.3255,
+            "negation_score": 0.3549,
+            "content_score": 0.4378,
+            "confidence_score": 0.4183
+        }
+    },
+    {
+        "image_id": "sample_000003",
+        "cmra_score": {
+            "correction_specificity": 0.3215,
+            "length_score": 0.2879,
+            "negation_score": 0.3703,
+            "content_score": 0.2853,
+            "confidence_score": 0.3154
+        }
+    },
+    {
+        "image_id": "sample_000004",
+        "cmra_score": {
+            "correction_specificity": 0.7889,
+            "length_score": 0.6892,
+            "negation_score": 0.6593,
+            "content_score": 0.8437,
+            "confidence_score": 0.7414
+        }
+    },
+    {
+        "image_id": "sample_000005",
+        "cmra_score": {
+            "correction_specificity": 0.3659,
+            "length_score": 0.3112,
+            "negation_score": 0.3477,
+            "content_score": 0.4778,
+            "confidence_score": 0.422
+        }
+    },
+    {
+        "image_id": "sample_000006",
+        "cmra_score": {
+            "correction_specificity": 0.5666,
+            "length_score": 0.4674,
+            "negation_score": 0.486,
+            "content_score": 0.3678,
+            "confidence_score": 0.5099
+        }
+    },
+    {
+        "image_id": "sample_000007",
+        "cmra_score": {
+            "correction_specificity": 0.5826,
+            "length_score": 0.6188,
+            "negation_score": 0.5671,
+            "content_score": 0.5811,
+            "confidence_score": 0.5344
+        }
+    },
+    {
+        "image_id": "sample_000008",
+        "cmra_score": {
+            "correction_specificity": 0.4548,
+            "length_score": 0.5084,
+            "negation_score": 0.3417,
+            "content_score": 0.4758,
+            "confidence_score": 0.5201
+        }
+    },
+    {
+        "image_id": "sample_000009",
+        "cmra_score": {
+            "correction_specificity": 0.3494,
+            "length_score": 0.3985,
+            "negation_score": 0.5465,
+            "content_score": 0.3421,
+            "confidence_score": 0.377
+        }
+    },
+    {
+        "image_id": "sample_000010",
+        "cmra_score": {
+            "correction_specificity": 0.2945,
+            "length_score": 0.3072,
+            "negation_score": 0.3267,
+            "content_score": 0.3082,
+            "confidence_score": 0.2232
+        }
+    },
+    {
+        "image_id": "sample_000011",
+        "cmra_score": {
+            "correction_specificity": 0.4551,
+            "length_score": 0.5574,
+            "negation_score": 0.4865,
+            "content_score": 0.5224,
+            "confidence_score": 0.4385
+        }
+    },
+    {
+        "image_id": "sample_000012",
+        "cmra_score": {
+            "correction_specificity": 0.5475,
+            "length_score": 0.567,
+            "negation_score": 0.4809,
+            "content_score": 0.5698,
+            "confidence_score": 0.4781
+        }
+    },
+    {
+        "image_id": "sample_000013",
+        "cmra_score": {
+            "correction_specificity": 0.3124,
+            "length_score": 0.3257,
+            "negation_score": 0.3332,
+            "content_score": 0.2292,
+            "confidence_score": 0.3862
+        }
+    },
+    {
+        "image_id": "sample_000014",
+        "cmra_score": {
+            "correction_specificity": 0.5172,
+            "length_score": 0.4679,
+            "negation_score": 0.4096,
+            "content_score": 0.5071,
+            "confidence_score": 0.486
+        }
+    },
+    {
+        "image_id": "sample_000015",
+        "cmra_score": {
+            "correction_specificity": 0.4392,
+            "length_score": 0.4138,
+            "negation_score": 0.2987,
+            "content_score": 0.412,
+            "confidence_score": 0.4178
+        }
+    },
+    {
+        "image_id": "sample_000016",
+        "cmra_score": {
+            "correction_specificity": 0.5277,
+            "length_score": 0.4788,
+            "negation_score": 0.6452,
+            "content_score": 0.3939,
+            "confidence_score": 0.6195
+        }
+    },
+    {
+        "image_id": "sample_000017",
+        "cmra_score": {
+            "correction_specificity": 0.3819,
+            "length_score": 0.442,
+            "negation_score": 0.3875,
+            "content_score": 0.4616,
+            "confidence_score": 0.3548
+        }
+    },
+    {
+        "image_id": "sample_000018",
+        "cmra_score": {
+            "correction_specificity": 0.2332,
+            "length_score": 0.3327,
+            "negation_score": 0.2253,
+            "content_score": 0.2487,
+            "confidence_score": 0.3197
+        }
+    },
+    {
+        "image_id": "sample_000019",
+        "cmra_score": {
+            "correction_specificity": 0.2446,
+            "length_score": 0.2863,
+            "negation_score": 0.2033,
+            "content_score": 0.2353,
+            "confidence_score": 0.2496
+        }
+    },
+    {
+        "image_id": "sample_000020",
+        "cmra_score": {
+            "correction_specificity": 0.165,
+            "length_score": 0.1104,
+            "negation_score": 0.2595,
+            "content_score": 0.227,
+            "confidence_score": 0.1606
+        }
+    },
+    {
+        "image_id": "sample_000021",
+        "cmra_score": {
+            "correction_specificity": 0.4613,
+            "length_score": 0.4407,
+            "negation_score": 0.5563,
+            "content_score": 0.4473,
+            "confidence_score": 0.4776
+        }
+    },
+    {
+        "image_id": "sample_000022",
+        "cmra_score": {
+            "correction_specificity": 0.6148,
+            "length_score": 0.5604,
+            "negation_score": 0.7239,
+            "content_score": 0.5077,
+            "confidence_score": 0.7289
+        }
+    },
+    {
+        "image_id": "sample_000023",
+        "cmra_score": {
+            "correction_specificity": 0.3566,
+            "length_score": 0.3397,
+            "negation_score": 0.2243,
+            "content_score": 0.3248,
+            "confidence_score": 0.2839
+        }
+    },
+    {
+        "image_id": "sample_000024",
+        "cmra_score": {
+            "correction_specificity": 0.3167,
+            "length_score": 0.3071,
+            "negation_score": 0.3837,
+            "content_score": 0.3312,
+            "confidence_score": 0.3382
+        }
+    },
+    {
+        "image_id": "sample_000025",
+        "cmra_score": {
+            "correction_specificity": 0.2338,
+            "length_score": 0.1721,
+            "negation_score": 0.3597,
+            "content_score": 0.1823,
+            "confidence_score": 0.3497
+        }
+    },
+    {
+        "image_id": "sample_000026",
+        "cmra_score": {
+            "correction_specificity": 0.3787,
+            "length_score": 0.3788,
+            "negation_score": 0.4536,
+            "content_score": 0.4677,
+            "confidence_score": 0.3709
+        }
+    },
+    {
+        "image_id": "sample_000027",
+        "cmra_score": {
+            "correction_specificity": 0.354,
+            "length_score": 0.3501,
+            "negation_score": 0.3777,
+            "content_score": 0.4164,
+            "confidence_score": 0.3543
+        }
+    },
+    {
+        "image_id": "sample_000028",
+        "cmra_score": {
+            "correction_specificity": 0.5252,
+            "length_score": 0.6399,
+            "negation_score": 0.5519,
+            "content_score": 0.547,
+            "confidence_score": 0.4189
+        }
+    },
+    {
+        "image_id": "sample_000029",
+        "cmra_score": {
+            "correction_specificity": 0.05,
+            "length_score": 0.0772,
+            "negation_score": 0.05,
+            "content_score": 0.05,
+            "confidence_score": 0.067
+        }
+    },
+    {
+        "image_id": "sample_000030",
+        "cmra_score": {
+            "correction_specificity": 0.4097,
+            "length_score": 0.4887,
+            "negation_score": 0.4158,
+            "content_score": 0.3574,
+            "confidence_score": 0.479
+        }
+    },
+    {
+        "image_id": "sample_000031",
+        "cmra_score": {
+            "correction_specificity": 0.3831,
+            "length_score": 0.4199,
+            "negation_score": 0.3497,
+            "content_score": 0.3376,
+            "confidence_score": 0.389
+        }
+    },
+    {
+        "image_id": "sample_000032",
+        "cmra_score": {
+            "correction_specificity": 0.4222,
+            "length_score": 0.4558,
+            "negation_score": 0.4034,
+            "content_score": 0.2936,
+            "confidence_score": 0.3919
+        }
+    },
+    {
+        "image_id": "sample_000033",
+        "cmra_score": {
+            "correction_specificity": 0.5549,
+            "length_score": 0.5341,
+            "negation_score": 0.5377,
+            "content_score": 0.624,
+            "confidence_score": 0.5051
+        }
+    },
+    {
+        "image_id": "sample_000034",
+        "cmra_score": {
+            "correction_specificity": 0.1577,
+            "length_score": 0.1465,
+            "negation_score": 0.1238,
+            "content_score": 0.0901,
+            "confidence_score": 0.1454
+        }
+    },
+    {
+        "image_id": "sample_000035",
+        "cmra_score": {
+            "correction_specificity": 0.5036,
+            "length_score": 0.5029,
+            "negation_score": 0.525,
+            "content_score": 0.6305,
+            "confidence_score": 0.4796
+        }
+    },
+    {
+        "image_id": "sample_000036",
+        "cmra_score": {
+            "correction_specificity": 0.4673,
+            "length_score": 0.4317,
+            "negation_score": 0.4081,
+            "content_score": 0.4264,
+            "confidence_score": 0.4338
+        }
+    },
+    {
+        "image_id": "sample_000037",
+        "cmra_score": {
+            "correction_specificity": 0.4811,
+            "length_score": 0.6455,
+            "negation_score": 0.431,
+            "content_score": 0.4519,
+            "confidence_score": 0.4767
+        }
+    },
+    {
+        "image_id": "sample_000038",
+        "cmra_score": {
+            "correction_specificity": 0.4873,
+            "length_score": 0.5057,
+            "negation_score": 0.5772,
+            "content_score": 0.3174,
+            "confidence_score": 0.3202
+        }
+    },
+    {
+        "image_id": "sample_000039",
+        "cmra_score": {
+            "correction_specificity": 0.3357,
+            "length_score": 0.4125,
+            "negation_score": 0.2261,
+            "content_score": 0.1252,
+            "confidence_score": 0.3757
+        }
+    },
+    {
+        "image_id": "sample_000040",
+        "cmra_score": {
+            "correction_specificity": 0.4614,
+            "length_score": 0.3851,
+            "negation_score": 0.3924,
+            "content_score": 0.3935,
+            "confidence_score": 0.4692
+        }
+    },
+    {
+        "image_id": "sample_000041",
+        "cmra_score": {
+            "correction_specificity": 0.3135,
+            "length_score": 0.3481,
+            "negation_score": 0.1137,
+            "content_score": 0.2535,
+            "confidence_score": 0.2347
+        }
+    },
+    {
+        "image_id": "sample_000042",
+        "cmra_score": {
+            "correction_specificity": 0.3764,
+            "length_score": 0.3388,
+            "negation_score": 0.4323,
+            "content_score": 0.2463,
+            "confidence_score": 0.3796
+        }
+    },
+    {
+        "image_id": "sample_000043",
+        "cmra_score": {
+            "correction_specificity": 0.5149,
+            "length_score": 0.6449,
+            "negation_score": 0.4812,
+            "content_score": 0.5376,
+            "confidence_score": 0.3886
+        }
+    },
+    {
+        "image_id": "sample_000044",
+        "cmra_score": {
+            "correction_specificity": 0.05,
+            "length_score": 0.1091,
+            "negation_score": 0.05,
+            "content_score": 0.1325,
+            "confidence_score": 0.05
+        }
+    },
+    {
+        "image_id": "sample_000045",
+        "cmra_score": {
+            "correction_specificity": 0.5084,
+            "length_score": 0.6392,
+            "negation_score": 0.5378,
+            "content_score": 0.5277,
+            "confidence_score": 0.509
+        }
+    },
+    {
+        "image_id": "sample_000046",
+        "cmra_score": {
+            "correction_specificity": 0.153,
+            "length_score": 0.2478,
+            "negation_score": 0.1102,
+            "content_score": 0.1883,
+            "confidence_score": 0.05
+        }
+    },
+    {
+        "image_id": "sample_000047",
+        "cmra_score": {
+            "correction_specificity": 0.2195,
+            "length_score": 0.3199,
+            "negation_score": 0.1952,
+            "content_score": 0.3212,
+            "confidence_score": 0.214
+        }
+    },
+    {
+        "image_id": "sample_000048",
+        "cmra_score": {
+            "correction_specificity": 0.1069,
+            "length_score": 0.1693,
+            "negation_score": 0.0656,
+            "content_score": 0.1558,
+            "confidence_score": 0.1086
+        }
+    },
+    {
+        "image_id": "sample_000049",
+        "cmra_score": {
+            "correction_specificity": 0.1577,
+            "length_score": 0.1692,
+            "negation_score": 0.3114,
+            "content_score": 0.1922,
+            "confidence_score": 0.1536
+        }
+    },
+    {
+        "image_id": "sample_000050",
+        "cmra_score": {
+            "correction_specificity": 0.6028,
+            "length_score": 0.6176,
+            "negation_score": 0.6175,
+            "content_score": 0.5264,
+            "confidence_score": 0.6192
+        }
+    },
+    {
+        "image_id": "sample_000051",
+        "cmra_score": {
+            "correction_specificity": 0.596,
+            "length_score": 0.5375,
+            "negation_score": 0.6957,
+            "content_score": 0.5896,
+            "confidence_score": 0.5339
+        }
+    },
+    {
+        "image_id": "sample_000052",
+        "cmra_score": {
+            "correction_specificity": 0.5896,
+            "length_score": 0.5695,
+            "negation_score": 0.6428,
+            "content_score": 0.5692,
+            "confidence_score": 0.5854
+        }
+    },
+    {
+        "image_id": "sample_000053",
+        "cmra_score": {
+            "correction_specificity": 0.5039,
+            "length_score": 0.5243,
+            "negation_score": 0.3642,
+            "content_score": 0.4254,
+            "confidence_score": 0.569
+        }
+    },
+    {
+        "image_id": "sample_000054",
+        "cmra_score": {
+            "correction_specificity": 0.3975,
+            "length_score": 0.3609,
+            "negation_score": 0.3024,
+            "content_score": 0.322,
+            "confidence_score": 0.256
+        }
+    },
+    {
+        "image_id": "sample_000055",
+        "cmra_score": {
+            "correction_specificity": 0.4028,
+            "length_score": 0.3609,
+            "negation_score": 0.3351,
+            "content_score": 0.398,
+            "confidence_score": 0.4283
+        }
+    },
+    {
+        "image_id": "sample_000056",
+        "cmra_score": {
+            "correction_specificity": 0.7758,
+            "length_score": 0.67,
+            "negation_score": 0.857,
+            "content_score": 0.844,
+            "confidence_score": 0.7213
+        }
+    },
+    {
+        "image_id": "sample_000057",
+        "cmra_score": {
+            "correction_specificity": 0.4546,
+            "length_score": 0.4225,
+            "negation_score": 0.4675,
+            "content_score": 0.5602,
+            "confidence_score": 0.4969
+        }
+    },
+    {
+        "image_id": "sample_000058",
+        "cmra_score": {
+            "correction_specificity": 0.5065,
+            "length_score": 0.4763,
+            "negation_score": 0.4026,
+            "content_score": 0.4919,
+            "confidence_score": 0.5909
+        }
+    },
+    {
+        "image_id": "sample_000059",
+        "cmra_score": {
+            "correction_specificity": 0.1604,
+            "length_score": 0.0865,
+            "negation_score": 0.1692,
+            "content_score": 0.0915,
+            "confidence_score": 0.1049
+        }
+    },
+    {
+        "image_id": "sample_000060",
+        "cmra_score": {
+            "correction_specificity": 0.348,
+            "length_score": 0.2524,
+            "negation_score": 0.2798,
+            "content_score": 0.3972,
+            "confidence_score": 0.2565
+        }
+    },
+    {
+        "image_id": "sample_000061",
+        "cmra_score": {
+            "correction_specificity": 0.1484,
+            "length_score": 0.1043,
+            "negation_score": 0.1996,
+            "content_score": 0.1346,
+            "confidence_score": 0.1158
+        }
+    },
+    {
+        "image_id": "sample_000062",
+        "cmra_score": {
+            "correction_specificity": 0.4275,
+            "length_score": 0.3053,
+            "negation_score": 0.4622,
+            "content_score": 0.4544,
+            "confidence_score": 0.3989
+        }
+    },
+    {
+        "image_id": "sample_000063",
+        "cmra_score": {
+            "correction_specificity": 0.591,
+            "length_score": 0.5121,
+            "negation_score": 0.67,
+            "content_score": 0.6018,
+            "confidence_score": 0.5674
+        }
+    },
+    {
+        "image_id": "sample_000064",
+        "cmra_score": {
+            "correction_specificity": 0.4166,
+            "length_score": 0.4091,
+            "negation_score": 0.502,
+            "content_score": 0.3413,
+            "confidence_score": 0.3632
+        }
+    },
+    {
+        "image_id": "sample_000065",
+        "cmra_score": {
+            "correction_specificity": 0.5962,
+            "length_score": 0.5545,
+            "negation_score": 0.6592,
+            "content_score": 0.7151,
+            "confidence_score": 0.568
+        }
+    },
+    {
+        "image_id": "sample_000066",
+        "cmra_score": {
+            "correction_specificity": 0.5358,
+            "length_score": 0.4551,
+            "negation_score": 0.5887,
+            "content_score": 0.5498,
+            "confidence_score": 0.5689
+        }
+    },
+    {
+        "image_id": "sample_000067",
+        "cmra_score": {
+            "correction_specificity": 0.3103,
+            "length_score": 0.194,
+            "negation_score": 0.3455,
+            "content_score": 0.1658,
+            "confidence_score": 0.288
+        }
+    },
+    {
+        "image_id": "sample_000068",
+        "cmra_score": {
+            "correction_specificity": 0.58,
+            "length_score": 0.5934,
+            "negation_score": 0.7164,
+            "content_score": 0.6518,
+            "confidence_score": 0.5342
+        }
+    },
+    {
+        "image_id": "sample_000069",
+        "cmra_score": {
+            "correction_specificity": 0.4246,
+            "length_score": 0.4213,
+            "negation_score": 0.3139,
+            "content_score": 0.3588,
+            "confidence_score": 0.3854
+        }
+    },
+    {
+        "image_id": "sample_000070",
+        "cmra_score": {
+            "correction_specificity": 0.0738,
+            "length_score": 0.0772,
+            "negation_score": 0.0564,
+            "content_score": 0.05,
+            "confidence_score": 0.1021
+        }
+    },
+    {
+        "image_id": "sample_000071",
+        "cmra_score": {
+            "correction_specificity": 0.5417,
+            "length_score": 0.5576,
+            "negation_score": 0.519,
+            "content_score": 0.5831,
+            "confidence_score": 0.5893
+        }
+    },
+    {
+        "image_id": "sample_000072",
+        "cmra_score": {
+            "correction_specificity": 0.4723,
+            "length_score": 0.4145,
+            "negation_score": 0.4916,
+            "content_score": 0.5559,
+            "confidence_score": 0.4305
+        }
+    },
+    {
+        "image_id": "sample_000073",
+        "cmra_score": {
+            "correction_specificity": 0.7766,
+            "length_score": 0.7399,
+            "negation_score": 0.7789,
+            "content_score": 0.7296,
+            "confidence_score": 0.7923
+        }
+    },
+    {
+        "image_id": "sample_000074",
+        "cmra_score": {
+            "correction_specificity": 0.1238,
+            "length_score": 0.0856,
+            "negation_score": 0.05,
+            "content_score": 0.1333,
+            "confidence_score": 0.1934
+        }
+    },
+    {
+        "image_id": "sample_000075",
+        "cmra_score": {
+            "correction_specificity": 0.5298,
+            "length_score": 0.3638,
+            "negation_score": 0.6728,
+            "content_score": 0.5505,
+            "confidence_score": 0.4755
+        }
+    },
+    {
+        "image_id": "sample_000076",
+        "cmra_score": {
+            "correction_specificity": 0.4467,
+            "length_score": 0.459,
+            "negation_score": 0.4,
+            "content_score": 0.4606,
+            "confidence_score": 0.4042
+        }
+    },
+    {
+        "image_id": "sample_000077",
+        "cmra_score": {
+            "correction_specificity": 0.3513,
+            "length_score": 0.3032,
+            "negation_score": 0.251,
+            "content_score": 0.3615,
+            "confidence_score": 0.3922
+        }
+    },
+    {
+        "image_id": "sample_000078",
+        "cmra_score": {
+            "correction_specificity": 0.5075,
+            "length_score": 0.5649,
+            "negation_score": 0.5302,
+            "content_score": 0.4702,
+            "confidence_score": 0.5663
+        }
+    },
+    {
+        "image_id": "sample_000079",
+        "cmra_score": {
+            "correction_specificity": 0.1892,
+            "length_score": 0.1262,
+            "negation_score": 0.1217,
+            "content_score": 0.2648,
+            "confidence_score": 0.2552
+        }
+    },
+    {
+        "image_id": "sample_000080",
+        "cmra_score": {
+            "correction_specificity": 0.5028,
+            "length_score": 0.5779,
+            "negation_score": 0.4413,
+            "content_score": 0.5272,
+            "confidence_score": 0.4941
+        }
+    },
+    {
+        "image_id": "sample_000081",
+        "cmra_score": {
+            "correction_specificity": 0.564,
+            "length_score": 0.5559,
+            "negation_score": 0.537,
+            "content_score": 0.6018,
+            "confidence_score": 0.6253
+        }
+    },
+    {
+        "image_id": "sample_000082",
+        "cmra_score": {
+            "correction_specificity": 0.3064,
+            "length_score": 0.3021,
+            "negation_score": 0.2323,
+            "content_score": 0.1315,
+            "confidence_score": 0.3204
+        }
+    },
+    {
+        "image_id": "sample_000083",
+        "cmra_score": {
+            "correction_specificity": 0.5235,
+            "length_score": 0.5419,
+            "negation_score": 0.387,
+            "content_score": 0.499,
+            "confidence_score": 0.3682
+        }
+    },
+    {
+        "image_id": "sample_000084",
+        "cmra_score": {
+            "correction_specificity": 0.6528,
+            "length_score": 0.5768,
+            "negation_score": 0.7407,
+            "content_score": 0.7191,
+            "confidence_score": 0.5898
+        }
+    },
+    {
+        "image_id": "sample_000085",
+        "cmra_score": {
+            "correction_specificity": 0.2274,
+            "length_score": 0.252,
+            "negation_score": 0.1683,
+            "content_score": 0.2346,
+            "confidence_score": 0.1936
+        }
+    },
+    {
+        "image_id": "sample_000086",
+        "cmra_score": {
+            "correction_specificity": 0.1172,
+            "length_score": 0.05,
+            "negation_score": 0.1331,
+            "content_score": 0.0779,
+            "confidence_score": 0.0785
+        }
+    },
+    {
+        "image_id": "sample_000087",
+        "cmra_score": {
+            "correction_specificity": 0.5383,
+            "length_score": 0.6204,
+            "negation_score": 0.5192,
+            "content_score": 0.5145,
+            "confidence_score": 0.5733
+        }
+    },
+    {
+        "image_id": "sample_000088",
+        "cmra_score": {
+            "correction_specificity": 0.1893,
+            "length_score": 0.2049,
+            "negation_score": 0.228,
+            "content_score": 0.2369,
+            "confidence_score": 0.0537
+        }
+    },
+    {
+        "image_id": "sample_000089",
+        "cmra_score": {
+            "correction_specificity": 0.2906,
+            "length_score": 0.2291,
+            "negation_score": 0.2976,
+            "content_score": 0.3242,
+            "confidence_score": 0.3953
+        }
+    },
+    {
+        "image_id": "sample_000090",
+        "cmra_score": {
+            "correction_specificity": 0.3359,
+            "length_score": 0.301,
+            "negation_score": 0.4163,
+            "content_score": 0.3566,
+            "confidence_score": 0.4246
+        }
+    },
+    {
+        "image_id": "sample_000091",
+        "cmra_score": {
+            "correction_specificity": 0.4691,
+            "length_score": 0.3881,
+            "negation_score": 0.3758,
+            "content_score": 0.3605,
+            "confidence_score": 0.5154
+        }
+    },
+    {
+        "image_id": "sample_000092",
+        "cmra_score": {
+            "correction_specificity": 0.6221,
+            "length_score": 0.7515,
+            "negation_score": 0.6811,
+            "content_score": 0.7035,
+            "confidence_score": 0.5815
+        }
+    },
+    {
+        "image_id": "sample_000093",
+        "cmra_score": {
+            "correction_specificity": 0.2234,
+            "length_score": 0.2829,
+            "negation_score": 0.2526,
+            "content_score": 0.2309,
+            "confidence_score": 0.2505
+        }
+    },
+    {
+        "image_id": "sample_000094",
+        "cmra_score": {
+            "correction_specificity": 0.4749,
+            "length_score": 0.5648,
+            "negation_score": 0.5656,
+            "content_score": 0.513,
+            "confidence_score": 0.5341
+        }
+    },
+    {
+        "image_id": "sample_000095",
+        "cmra_score": {
+            "correction_specificity": 0.5074,
+            "length_score": 0.4751,
+            "negation_score": 0.5604,
+            "content_score": 0.4098,
+            "confidence_score": 0.5812
+        }
+    },
+    {
+        "image_id": "sample_000096",
+        "cmra_score": {
+            "correction_specificity": 0.2169,
+            "length_score": 0.2369,
+            "negation_score": 0.1578,
+            "content_score": 0.2557,
+            "confidence_score": 0.2146
+        }
+    },
+    {
+        "image_id": "sample_000097",
+        "cmra_score": {
+            "correction_specificity": 0.1489,
+            "length_score": 0.1783,
+            "negation_score": 0.1084,
+            "content_score": 0.2106,
+            "confidence_score": 0.149
+        }
+    },
+    {
+        "image_id": "sample_000098",
+        "cmra_score": {
+            "correction_specificity": 0.4872,
+            "length_score": 0.4202,
+            "negation_score": 0.446,
+            "content_score": 0.4551,
+            "confidence_score": 0.5472
+        }
+    },
+    {
+        "image_id": "sample_000099",
+        "cmra_score": {
+            "correction_specificity": 0.7052,
+            "length_score": 0.6488,
+            "negation_score": 0.7805,
+            "content_score": 0.5533,
+            "confidence_score": 0.6216
+        }
+    },
+    {
+        "image_id": "sample_000100",
+        "cmra_score": {
+            "correction_specificity": 0.257,
+            "length_score": 0.1623,
+            "negation_score": 0.1462,
+            "content_score": 0.2859,
+            "confidence_score": 0.242
+        }
+    },
+    {
+        "image_id": "sample_000101",
+        "cmra_score": {
+            "correction_specificity": 0.4845,
+            "length_score": 0.5328,
+            "negation_score": 0.5031,
+            "content_score": 0.5305,
+            "confidence_score": 0.4796
+        }
+    },
+    {
+        "image_id": "sample_000102",
+        "cmra_score": {
+            "correction_specificity": 0.2182,
+            "length_score": 0.2923,
+            "negation_score": 0.177,
+            "content_score": 0.1527,
+            "confidence_score": 0.2058
+        }
+    },
+    {
+        "image_id": "sample_000103",
+        "cmra_score": {
+            "correction_specificity": 0.2648,
+            "length_score": 0.2356,
+            "negation_score": 0.2889,
+            "content_score": 0.2892,
+            "confidence_score": 0.202
+        }
+    },
+    {
+        "image_id": "sample_000104",
+        "cmra_score": {
+            "correction_specificity": 0.3371,
+            "length_score": 0.4123,
+            "negation_score": 0.3718,
+            "content_score": 0.4823,
+            "confidence_score": 0.4197
+        }
+    },
+    {
+        "image_id": "sample_000105",
+        "cmra_score": {
+            "correction_specificity": 0.6145,
+            "length_score": 0.5174,
+            "negation_score": 0.668,
+            "content_score": 0.6108,
+            "confidence_score": 0.576
+        }
+    },
+    {
+        "image_id": "sample_000106",
+        "cmra_score": {
+            "correction_specificity": 0.4486,
+            "length_score": 0.5147,
+            "negation_score": 0.4836,
+            "content_score": 0.3871,
+            "confidence_score": 0.5005
+        }
+    },
+    {
+        "image_id": "sample_000107",
+        "cmra_score": {
+            "correction_specificity": 0.3116,
+            "length_score": 0.3268,
+            "negation_score": 0.2904,
+            "content_score": 0.2963,
+            "confidence_score": 0.3652
+        }
+    },
+    {
+        "image_id": "sample_000108",
+        "cmra_score": {
+            "correction_specificity": 0.2432,
+            "length_score": 0.3793,
+            "negation_score": 0.1157,
+            "content_score": 0.2013,
+            "confidence_score": 0.2691
+        }
+    },
+    {
+        "image_id": "sample_000109",
+        "cmra_score": {
+            "correction_specificity": 0.5193,
+            "length_score": 0.5123,
+            "negation_score": 0.5153,
+            "content_score": 0.5481,
+            "confidence_score": 0.5032
+        }
+    },
+    {
+        "image_id": "sample_000110",
+        "cmra_score": {
+            "correction_specificity": 0.6568,
+            "length_score": 0.7156,
+            "negation_score": 0.7179,
+            "content_score": 0.5892,
+            "confidence_score": 0.6513
+        }
+    },
+    {
+        "image_id": "sample_000111",
+        "cmra_score": {
+            "correction_specificity": 0.3689,
+            "length_score": 0.2985,
+            "negation_score": 0.3941,
+            "content_score": 0.3313,
+            "confidence_score": 0.4148
+        }
+    },
+    {
+        "image_id": "sample_000112",
+        "cmra_score": {
+            "correction_specificity": 0.2381,
+            "length_score": 0.3584,
+            "negation_score": 0.1753,
+            "content_score": 0.2534,
+            "confidence_score": 0.2935
+        }
+    },
+    {
+        "image_id": "sample_000113",
+        "cmra_score": {
+            "correction_specificity": 0.323,
+            "length_score": 0.3827,
+            "negation_score": 0.2369,
+            "content_score": 0.4246,
+            "confidence_score": 0.324
+        }
+    },
+    {
+        "image_id": "sample_000114",
+        "cmra_score": {
+            "correction_specificity": 0.3186,
+            "length_score": 0.2977,
+            "negation_score": 0.3752,
+            "content_score": 0.2777,
+            "confidence_score": 0.2662
+        }
+    },
+    {
+        "image_id": "sample_000115",
+        "cmra_score": {
+            "correction_specificity": 0.3823,
+            "length_score": 0.3,
+            "negation_score": 0.5098,
+            "content_score": 0.3427,
+            "confidence_score": 0.4406
+        }
+    },
+    {
+        "image_id": "sample_000116",
+        "cmra_score": {
+            "correction_specificity": 0.4556,
+            "length_score": 0.3867,
+            "negation_score": 0.4552,
+            "content_score": 0.5105,
+            "confidence_score": 0.4424
+        }
+    },
+    {
+        "image_id": "sample_000117",
+        "cmra_score": {
+            "correction_specificity": 0.6228,
+            "length_score": 0.6943,
+            "negation_score": 0.6872,
+            "content_score": 0.5907,
+            "confidence_score": 0.5472
+        }
+    },
+    {
+        "image_id": "sample_000118",
+        "cmra_score": {
+            "correction_specificity": 0.3157,
+            "length_score": 0.3294,
+            "negation_score": 0.3539,
+            "content_score": 0.1637,
+            "confidence_score": 0.3151
+        }
+    },
+    {
+        "image_id": "sample_000119",
+        "cmra_score": {
+            "correction_specificity": 0.4469,
+            "length_score": 0.4274,
+            "negation_score": 0.5373,
+            "content_score": 0.4764,
+            "confidence_score": 0.5386
+        }
+    },
+    {
+        "image_id": "sample_000120",
+        "cmra_score": {
+            "correction_specificity": 0.3833,
+            "length_score": 0.4489,
+            "negation_score": 0.4977,
+            "content_score": 0.4751,
+            "confidence_score": 0.3068
+        }
+    },
+    {
+        "image_id": "sample_000121",
+        "cmra_score": {
+            "correction_specificity": 0.3769,
+            "length_score": 0.3527,
+            "negation_score": 0.4111,
+            "content_score": 0.4249,
+            "confidence_score": 0.3182
+        }
+    },
+    {
+        "image_id": "sample_000122",
+        "cmra_score": {
+            "correction_specificity": 0.4315,
+            "length_score": 0.2901,
+            "negation_score": 0.5325,
+            "content_score": 0.3957,
+            "confidence_score": 0.4354
+        }
+    },
+    {
+        "image_id": "sample_000123",
+        "cmra_score": {
+            "correction_specificity": 0.3674,
+            "length_score": 0.4476,
+            "negation_score": 0.1687,
+            "content_score": 0.3662,
+            "confidence_score": 0.36
+        }
+    },
+    {
+        "image_id": "sample_000124",
+        "cmra_score": {
+            "correction_specificity": 0.3429,
+            "length_score": 0.4637,
+            "negation_score": 0.2808,
+            "content_score": 0.3969,
+            "confidence_score": 0.3678
+        }
+    },
+    {
+        "image_id": "sample_000125",
+        "cmra_score": {
+            "correction_specificity": 0.6345,
+            "length_score": 0.5878,
+            "negation_score": 0.5832,
+            "content_score": 0.7112,
+            "confidence_score": 0.6642
+        }
+    },
+    {
+        "image_id": "sample_000126",
+        "cmra_score": {
+            "correction_specificity": 0.1574,
+            "length_score": 0.1196,
+            "negation_score": 0.1844,
+            "content_score": 0.216,
+            "confidence_score": 0.1098
+        }
+    },
+    {
+        "image_id": "sample_000127",
+        "cmra_score": {
+            "correction_specificity": 0.05,
+            "length_score": 0.0866,
+            "negation_score": 0.05,
+            "content_score": 0.05,
+            "confidence_score": 0.05
+        }
+    },
+    {
+        "image_id": "sample_000128",
+        "cmra_score": {
+            "correction_specificity": 0.5584,
+            "length_score": 0.5674,
+            "negation_score": 0.5426,
+            "content_score": 0.6556,
+            "confidence_score": 0.603
+        }
+    },
+    {
+        "image_id": "sample_000129",
+        "cmra_score": {
+            "correction_specificity": 0.6948,
+            "length_score": 0.5973,
+            "negation_score": 0.6924,
+            "content_score": 0.5816,
+            "confidence_score": 0.6787
+        }
+    },
+    {
+        "image_id": "sample_000130",
+        "cmra_score": {
+            "correction_specificity": 0.3777,
+            "length_score": 0.4216,
+            "negation_score": 0.3809,
+            "content_score": 0.4214,
+            "confidence_score": 0.427
+        }
+    },
+    {
+        "image_id": "sample_000131",
+        "cmra_score": {
+            "correction_specificity": 0.7863,
+            "length_score": 0.7643,
+            "negation_score": 0.7205,
+            "content_score": 0.8036,
+            "confidence_score": 0.7302
+        }
+    },
+    {
+        "image_id": "sample_000132",
+        "cmra_score": {
+            "correction_specificity": 0.6719,
+            "length_score": 0.6521,
+            "negation_score": 0.6323,
+            "content_score": 0.6389,
+            "confidence_score": 0.7222
+        }
+    },
+    {
+        "image_id": "sample_000133",
+        "cmra_score": {
+            "correction_specificity": 0.3932,
+            "length_score": 0.3483,
+            "negation_score": 0.5098,
+            "content_score": 0.3333,
+            "confidence_score": 0.3957
+        }
+    },
+    {
+        "image_id": "sample_000134",
+        "cmra_score": {
+            "correction_specificity": 0.5309,
+            "length_score": 0.4167,
+            "negation_score": 0.5645,
+            "content_score": 0.457,
+            "confidence_score": 0.5885
+        }
+    },
+    {
+        "image_id": "sample_000135",
+        "cmra_score": {
+            "correction_specificity": 0.2563,
+            "length_score": 0.3048,
+            "negation_score": 0.3338,
+            "content_score": 0.3166,
+            "confidence_score": 0.2739
+        }
+    },
+    {
+        "image_id": "sample_000136",
+        "cmra_score": {
+            "correction_specificity": 0.3807,
+            "length_score": 0.3403,
+            "negation_score": 0.4837,
+            "content_score": 0.3317,
+            "confidence_score": 0.3081
+        }
+    },
+    {
+        "image_id": "sample_000137",
+        "cmra_score": {
+            "correction_specificity": 0.5331,
+            "length_score": 0.4774,
+            "negation_score": 0.4666,
+            "content_score": 0.4321,
+            "confidence_score": 0.4993
+        }
+    },
+    {
+        "image_id": "sample_000138",
+        "cmra_score": {
+            "correction_specificity": 0.4059,
+            "length_score": 0.423,
+            "negation_score": 0.4725,
+            "content_score": 0.4428,
+            "confidence_score": 0.3926
+        }
+    },
+    {
+        "image_id": "sample_000139",
+        "cmra_score": {
+            "correction_specificity": 0.3863,
+            "length_score": 0.422,
+            "negation_score": 0.4754,
+            "content_score": 0.3951,
+            "confidence_score": 0.3535
+        }
+    },
+    {
+        "image_id": "sample_000140",
+        "cmra_score": {
+            "correction_specificity": 0.2512,
+            "length_score": 0.15,
+            "negation_score": 0.2979,
+            "content_score": 0.2917,
+            "confidence_score": 0.2916
+        }
+    },
+    {
+        "image_id": "sample_000141",
+        "cmra_score": {
+            "correction_specificity": 0.3981,
+            "length_score": 0.4966,
+            "negation_score": 0.3642,
+            "content_score": 0.465,
+            "confidence_score": 0.3954
+        }
+    },
+    {
+        "image_id": "sample_000142",
+        "cmra_score": {
+            "correction_specificity": 0.3166,
+            "length_score": 0.3581,
+            "negation_score": 0.3453,
+            "content_score": 0.3416,
+            "confidence_score": 0.3223
+        }
+    },
+    {
+        "image_id": "sample_000143",
+        "cmra_score": {
+            "correction_specificity": 0.4136,
+            "length_score": 0.5807,
+            "negation_score": 0.4965,
+            "content_score": 0.4642,
+            "confidence_score": 0.4214
+        }
+    },
+    {
+        "image_id": "sample_000144",
+        "cmra_score": {
+            "correction_specificity": 0.5912,
+            "length_score": 0.6275,
+            "negation_score": 0.5931,
+            "content_score": 0.57,
+            "confidence_score": 0.5856
+        }
+    },
+    {
+        "image_id": "sample_000145",
+        "cmra_score": {
+            "correction_specificity": 0.05,
+            "length_score": 0.0647,
+            "negation_score": 0.05,
+            "content_score": 0.1615,
+            "confidence_score": 0.0514
+        }
+    },
+    {
+        "image_id": "sample_000146",
+        "cmra_score": {
+            "correction_specificity": 0.2179,
+            "length_score": 0.2144,
+            "negation_score": 0.1446,
+            "content_score": 0.251,
+            "confidence_score": 0.2382
+        }
+    },
+    {
+        "image_id": "sample_000147",
+        "cmra_score": {
+            "correction_specificity": 0.5828,
+            "length_score": 0.5275,
+            "negation_score": 0.5852,
+            "content_score": 0.4873,
+            "confidence_score": 0.6319
+        }
+    },
+    {
+        "image_id": "sample_000148",
+        "cmra_score": {
+            "correction_specificity": 0.5082,
+            "length_score": 0.5429,
+            "negation_score": 0.5083,
+            "content_score": 0.5372,
+            "confidence_score": 0.6205
+        }
+    },
+    {
+        "image_id": "sample_000149",
+        "cmra_score": {
+            "correction_specificity": 0.3715,
+            "length_score": 0.3812,
+            "negation_score": 0.2955,
+            "content_score": 0.3108,
+            "confidence_score": 0.3784
+        }
+    },
+    {
+        "image_id": "sample_000150",
+        "cmra_score": {
+            "correction_specificity": 0.6077,
+            "length_score": 0.5897,
+            "negation_score": 0.5912,
+            "content_score": 0.5792,
+            "confidence_score": 0.5702
+        }
+    },
+    {
+        "image_id": "sample_000151",
+        "cmra_score": {
+            "correction_specificity": 0.4701,
+            "length_score": 0.3653,
+            "negation_score": 0.5598,
+            "content_score": 0.4236,
+            "confidence_score": 0.5207
+        }
+    },
+    {
+        "image_id": "sample_000152",
+        "cmra_score": {
+            "correction_specificity": 0.2041,
+            "length_score": 0.2509,
+            "negation_score": 0.2511,
+            "content_score": 0.231,
+            "confidence_score": 0.1345
+        }
+    },
+    {
+        "image_id": "sample_000153",
+        "cmra_score": {
+            "correction_specificity": 0.4624,
+            "length_score": 0.3796,
+            "negation_score": 0.4447,
+            "content_score": 0.5345,
+            "confidence_score": 0.5182
+        }
+    },
+    {
+        "image_id": "sample_000154",
+        "cmra_score": {
+            "correction_specificity": 0.4226,
+            "length_score": 0.3543,
+            "negation_score": 0.4678,
+            "content_score": 0.4239,
+            "confidence_score": 0.2602
+        }
+    },
+    {
+        "image_id": "sample_000155",
+        "cmra_score": {
+            "correction_specificity": 0.553,
+            "length_score": 0.5514,
+            "negation_score": 0.6372,
+            "content_score": 0.4764,
+            "confidence_score": 0.3307
+        }
+    },
+    {
+        "image_id": "sample_000156",
+        "cmra_score": {
+            "correction_specificity": 0.4674,
+            "length_score": 0.4879,
+            "negation_score": 0.3491,
+            "content_score": 0.3989,
+            "confidence_score": 0.6603
+        }
+    },
+    {
+        "image_id": "sample_000157",
+        "cmra_score": {
+            "correction_specificity": 0.368,
+            "length_score": 0.4192,
+            "negation_score": 0.3225,
+            "content_score": 0.2217,
+            "confidence_score": 0.3561
+        }
+    },
+    {
+        "image_id": "sample_000158",
+        "cmra_score": {
+            "correction_specificity": 0.3748,
+            "length_score": 0.3469,
+            "negation_score": 0.3668,
+            "content_score": 0.3933,
+            "confidence_score": 0.3643
+        }
+    },
+    {
+        "image_id": "sample_000159",
+        "cmra_score": {
+            "correction_specificity": 0.2051,
+            "length_score": 0.2392,
+            "negation_score": 0.0687,
+            "content_score": 0.0616,
+            "confidence_score": 0.2569
+        }
+    },
+    {
+        "image_id": "sample_000160",
+        "cmra_score": {
+            "correction_specificity": 0.5062,
+            "length_score": 0.5022,
+            "negation_score": 0.4085,
+            "content_score": 0.4566,
+            "confidence_score": 0.4878
+        }
+    },
+    {
+        "image_id": "sample_000161",
+        "cmra_score": {
+            "correction_specificity": 0.1487,
+            "length_score": 0.097,
+            "negation_score": 0.1944,
+            "content_score": 0.2486,
+            "confidence_score": 0.1193
+        }
+    },
+    {
+        "image_id": "sample_000162",
+        "cmra_score": {
+            "correction_specificity": 0.5486,
+            "length_score": 0.4146,
+            "negation_score": 0.5948,
+            "content_score": 0.4923,
+            "confidence_score": 0.5701
+        }
+    },
+    {
+        "image_id": "sample_000163",
+        "cmra_score": {
+            "correction_specificity": 0.3779,
+            "length_score": 0.4703,
+            "negation_score": 0.3167,
+            "content_score": 0.4218,
+            "confidence_score": 0.3583
+        }
+    },
+    {
+        "image_id": "sample_000164",
+        "cmra_score": {
+            "correction_specificity": 0.3931,
+            "length_score": 0.3802,
+            "negation_score": 0.3339,
+            "content_score": 0.3921,
+            "confidence_score": 0.3887
+        }
+    },
+    {
+        "image_id": "sample_000165",
+        "cmra_score": {
+            "correction_specificity": 0.461,
+            "length_score": 0.4669,
+            "negation_score": 0.5169,
+            "content_score": 0.5257,
+            "confidence_score": 0.3875
+        }
+    },
+    {
+        "image_id": "sample_000166",
+        "cmra_score": {
+            "correction_specificity": 0.5677,
+            "length_score": 0.4846,
+            "negation_score": 0.6088,
+            "content_score": 0.6111,
+            "confidence_score": 0.4339
+        }
+    },
+    {
+        "image_id": "sample_000167",
+        "cmra_score": {
+            "correction_specificity": 0.4358,
+            "length_score": 0.403,
+            "negation_score": 0.3827,
+            "content_score": 0.5304,
+            "confidence_score": 0.39
+        }
+    },
+    {
+        "image_id": "sample_000168",
+        "cmra_score": {
+            "correction_specificity": 0.2829,
+            "length_score": 0.2882,
+            "negation_score": 0.3309,
+            "content_score": 0.273,
+            "confidence_score": 0.3646
+        }
+    },
+    {
+        "image_id": "sample_000169",
+        "cmra_score": {
+            "correction_specificity": 0.5103,
+            "length_score": 0.3578,
+            "negation_score": 0.4732,
+            "content_score": 0.4709,
+            "confidence_score": 0.5438
+        }
+    },
+    {
+        "image_id": "sample_000170",
+        "cmra_score": {
+            "correction_specificity": 0.05,
+            "length_score": 0.2284,
+            "negation_score": 0.0872,
+            "content_score": 0.0604,
+            "confidence_score": 0.1327
+        }
+    },
+    {
+        "image_id": "sample_000171",
+        "cmra_score": {
+            "correction_specificity": 0.8184,
+            "length_score": 0.8794,
+            "negation_score": 0.8848,
+            "content_score": 0.8276,
+            "confidence_score": 0.8085
+        }
+    },
+    {
+        "image_id": "sample_000172",
+        "cmra_score": {
+            "correction_specificity": 0.3391,
+            "length_score": 0.2813,
+            "negation_score": 0.291,
+            "content_score": 0.2446,
+            "confidence_score": 0.3338
+        }
+    },
+    {
+        "image_id": "sample_000173",
+        "cmra_score": {
+            "correction_specificity": 0.1336,
+            "length_score": 0.147,
+            "negation_score": 0.1311,
+            "content_score": 0.1439,
+            "confidence_score": 0.0971
+        }
+    },
+    {
+        "image_id": "sample_000174",
+        "cmra_score": {
+            "correction_specificity": 0.9,
+            "length_score": 0.9952,
+            "negation_score": 0.8129,
+            "content_score": 0.9163,
+            "confidence_score": 0.8574
+        }
+    },
+    {
+        "image_id": "sample_000175",
+        "cmra_score": {
+            "correction_specificity": 0.2475,
+            "length_score": 0.1537,
+            "negation_score": 0.2778,
+            "content_score": 0.1998,
+            "confidence_score": 0.3153
+        }
+    },
+    {
+        "image_id": "sample_000176",
+        "cmra_score": {
+            "correction_specificity": 0.5889,
+            "length_score": 0.6851,
+            "negation_score": 0.5293,
+            "content_score": 0.6222,
+            "confidence_score": 0.6332
+        }
+    },
+    {
+        "image_id": "sample_000177",
+        "cmra_score": {
+            "correction_specificity": 0.3394,
+            "length_score": 0.2854,
+            "negation_score": 0.4521,
+            "content_score": 0.3553,
+            "confidence_score": 0.3839
+        }
+    },
+    {
+        "image_id": "sample_000178",
+        "cmra_score": {
+            "correction_specificity": 0.2802,
+            "length_score": 0.1949,
+            "negation_score": 0.2404,
+            "content_score": 0.2716,
+            "confidence_score": 0.2058
+        }
+    },
+    {
+        "image_id": "sample_000179",
+        "cmra_score": {
+            "correction_specificity": 0.4183,
+            "length_score": 0.3001,
+            "negation_score": 0.3399,
+            "content_score": 0.4653,
+            "confidence_score": 0.4606
+        }
+    },
+    {
+        "image_id": "sample_000180",
+        "cmra_score": {
+            "correction_specificity": 0.3534,
+            "length_score": 0.2821,
+            "negation_score": 0.2815,
+            "content_score": 0.3273,
+            "confidence_score": 0.3985
+        }
+    },
+    {
+        "image_id": "sample_000181",
+        "cmra_score": {
+            "correction_specificity": 0.5778,
+            "length_score": 0.543,
+            "negation_score": 0.4971,
+            "content_score": 0.5966,
+            "confidence_score": 0.5202
+        }
+    },
+    {
+        "image_id": "sample_000182",
+        "cmra_score": {
+            "correction_specificity": 0.3319,
+            "length_score": 0.4247,
+            "negation_score": 0.3898,
+            "content_score": 0.343,
+            "confidence_score": 0.2429
+        }
+    },
+    {
+        "image_id": "sample_000183",
+        "cmra_score": {
+            "correction_specificity": 0.4559,
+            "length_score": 0.5303,
+            "negation_score": 0.4296,
+            "content_score": 0.5505,
+            "confidence_score": 0.5464
+        }
+    },
+    {
+        "image_id": "sample_000184",
+        "cmra_score": {
+            "correction_specificity": 0.7028,
+            "length_score": 0.7242,
+            "negation_score": 0.744,
+            "content_score": 0.8018,
+            "confidence_score": 0.7342
+        }
+    },
+    {
+        "image_id": "sample_000185",
+        "cmra_score": {
+            "correction_specificity": 0.3348,
+            "length_score": 0.3034,
+            "negation_score": 0.3515,
+            "content_score": 0.2445,
+            "confidence_score": 0.3248
+        }
+    },
+    {
+        "image_id": "sample_000186",
+        "cmra_score": {
+            "correction_specificity": 0.6064,
+            "length_score": 0.453,
+            "negation_score": 0.7138,
+            "content_score": 0.685,
+            "confidence_score": 0.5742
+        }
+    },
+    {
+        "image_id": "sample_000187",
+        "cmra_score": {
+            "correction_specificity": 0.5124,
+            "length_score": 0.5126,
+            "negation_score": 0.5985,
+            "content_score": 0.5812,
+            "confidence_score": 0.4144
+        }
+    },
+    {
+        "image_id": "sample_000188",
+        "cmra_score": {
+            "correction_specificity": 0.5198,
+            "length_score": 0.5054,
+            "negation_score": 0.5256,
+            "content_score": 0.4689,
+            "confidence_score": 0.6422
+        }
+    },
+    {
+        "image_id": "sample_000189",
+        "cmra_score": {
+            "correction_specificity": 0.5968,
+            "length_score": 0.545,
+            "negation_score": 0.5034,
+            "content_score": 0.5698,
+            "confidence_score": 0.6272
+        }
+    },
+    {
+        "image_id": "sample_000190",
+        "cmra_score": {
+            "correction_specificity": 0.4608,
+            "length_score": 0.5486,
+            "negation_score": 0.5161,
+            "content_score": 0.5287,
+            "confidence_score": 0.4837
+        }
+    },
+    {
+        "image_id": "sample_000191",
+        "cmra_score": {
+            "correction_specificity": 0.1838,
+            "length_score": 0.1701,
+            "negation_score": 0.258,
+            "content_score": 0.1802,
+            "confidence_score": 0.219
+        }
+    },
+    {
+        "image_id": "sample_000192",
+        "cmra_score": {
+            "correction_specificity": 0.3658,
+            "length_score": 0.2937,
+            "negation_score": 0.3572,
+            "content_score": 0.3874,
+            "confidence_score": 0.3199
+        }
+    },
+    {
+        "image_id": "sample_000193",
+        "cmra_score": {
+            "correction_specificity": 0.3799,
+            "length_score": 0.3142,
+            "negation_score": 0.4583,
+            "content_score": 0.3593,
+            "confidence_score": 0.4816
+        }
+    },
+    {
+        "image_id": "sample_000194",
+        "cmra_score": {
+            "correction_specificity": 0.6799,
+            "length_score": 0.6742,
+            "negation_score": 0.6093,
+            "content_score": 0.5339,
+            "confidence_score": 0.5768
+        }
+    },
+    {
+        "image_id": "sample_000195",
+        "cmra_score": {
+            "correction_specificity": 0.1864,
+            "length_score": 0.2829,
+            "negation_score": 0.1946,
+            "content_score": 0.2137,
+            "confidence_score": 0.05
+        }
+    },
+    {
+        "image_id": "sample_000196",
+        "cmra_score": {
+            "correction_specificity": 0.2163,
+            "length_score": 0.2784,
+            "negation_score": 0.2364,
+            "content_score": 0.206,
+            "confidence_score": 0.2559
+        }
+    },
+    {
+        "image_id": "sample_000197",
+        "cmra_score": {
+            "correction_specificity": 0.6981,
+            "length_score": 0.6826,
+            "negation_score": 0.7029,
+            "content_score": 0.7116,
+            "confidence_score": 0.8655
+        }
+    },
+    {
+        "image_id": "sample_000198",
+        "cmra_score": {
+            "correction_specificity": 0.0631,
+            "length_score": 0.1109,
+            "negation_score": 0.0551,
+            "content_score": 0.1028,
+            "confidence_score": 0.05
+        }
+    },
+    {
+        "image_id": "sample_000199",
+        "cmra_score": {
+            "correction_specificity": 0.4117,
+            "length_score": 0.4615,
+            "negation_score": 0.6296,
+            "content_score": 0.4682,
+            "confidence_score": 0.3523
+        }
+    }
+]

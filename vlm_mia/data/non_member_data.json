@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "sample_000027",
+    "image": "COCO_train2017_000000000027.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "id": "sample_000644",
+    "image": "COCO_train2017_000000000644.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "id": "sample_000704",
+    "image": "COCO_train2017_000000000704.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "id": "sample_000742",
+    "image": "COCO_train2017_000000000742.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A person is standing next to a red car in a parking lot."
+      }
+    ]
+  },
+  {
+    "id": "sample_000912",
+    "image": "COCO_train2017_000000000912.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "id": "sample_000903",
+    "image": "COCO_train2017_000000000903.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A couple is walking hand in hand on the beach at sunset."
+      }
+    ]
+  },
+  {
+    "id": "sample_000990",
+    "image": "COCO_train2017_000000000990.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "id": "sample_000112",
+    "image": "COCO_train2017_000000000112.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "id": "sample_000689",
+    "image": "COCO_train2017_000000000689.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A cat is sitting on a windowsill looking outside at the birds."
+      }
+    ]
+  },
+  {
+    "id": "sample_000339",
+    "image": "COCO_train2017_000000000339.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A cat is sitting on a windowsill looking outside at the birds."
+      }
+    ]
+  },
+  {
+    "id": "sample_000377",
+    "image": "COCO_train2017_000000000377.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "id": "sample_000017",
+    "image": "COCO_train2017_000000000017.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "id": "sample_000486",
+    "image": "COCO_train2017_000000000486.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000822",
+    "image": "COCO_train2017_000000000822.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "id": "sample_000576",
+    "image": "COCO_train2017_000000000576.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "id": "sample_000725",
+    "image": "COCO_train2017_000000000725.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  },
+  {
+    "id": "sample_000501",
+    "image": "COCO_train2017_000000000501.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "id": "sample_000545",
+    "image": "COCO_train2017_000000000545.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "id": "sample_000846",
+    "image": "COCO_train2017_000000000846.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A couple is walking hand in hand on the beach at sunset."
+      }
+    ]
+  },
+  {
+    "id": "sample_000519",
+    "image": "COCO_train2017_000000000519.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "id": "sample_000344",
+    "image": "COCO_train2017_000000000344.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "id": "sample_000607",
+    "image": "COCO_train2017_000000000607.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "id": "sample_000306",
+    "image": "COCO_train2017_000000000306.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "There is a traffic light at the intersection with several cars waiting."
+      }
+    ]
+  },
+  {
+    "id": "sample_000757",
+    "image": "COCO_train2017_000000000757.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000631",
+    "image": "COCO_train2017_000000000631.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "id": "sample_000908",
+    "image": "COCO_train2017_000000000908.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "id": "sample_000166",
+    "image": "COCO_train2017_000000000166.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "id": "sample_000944",
+    "image": "COCO_train2017_000000000944.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "id": "sample_000627",
+    "image": "COCO_train2017_000000000627.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000924",
+    "image": "COCO_train2017_000000000924.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "id": "sample_000143",
+    "image": "COCO_train2017_000000000143.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "id": "sample_000916",
+    "image": "COCO_train2017_000000000916.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "id": "sample_000620",
+    "image": "COCO_train2017_000000000620.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "id": "sample_000152",
+    "image": "COCO_train2017_000000000152.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "id": "sample_000467",
+    "image": "COCO_train2017_000000000467.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "id": "sample_000531",
+    "image": "COCO_train2017_000000000531.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "id": "sample_000485",
+    "image": "COCO_train2017_000000000485.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "id": "sample_000823",
+    "image": "COCO_train2017_000000000823.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "There is a traffic light at the intersection with several cars waiting."
+      }
+    ]
+  },
+  {
+    "id": "sample_000341",
+    "image": "COCO_train2017_000000000341.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "id": "sample_000730",
+    "image": "COCO_train2017_000000000730.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "id": "sample_000140",
+    "image": "COCO_train2017_000000000140.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "id": "sample_000039",
+    "image": "COCO_train2017_000000000039.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "id": "sample_000879",
+    "image": "COCO_train2017_000000000879.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000041",
+    "image": "COCO_train2017_000000000041.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "id": "sample_000512",
+    "image": "COCO_train2017_000000000512.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "id": "sample_000411",
+    "image": "COCO_train2017_000000000411.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "id": "sample_000521",
+    "image": "COCO_train2017_000000000521.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "There is a traffic light at the intersection with several cars waiting."
+      }
+    ]
+  },
+  {
+    "id": "sample_000616",
+    "image": "COCO_train2017_000000000616.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "id": "sample_000203",
+    "image": "COCO_train2017_000000000203.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "id": "sample_000959",
+    "image": "COCO_train2017_000000000959.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "id": "sample_000773",
+    "image": "COCO_train2017_000000000773.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "id": "sample_000880",
+    "image": "COCO_train2017_000000000880.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "id": "sample_000571",
+    "image": "COCO_train2017_000000000571.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  },
+  {
+    "id": "sample_000347",
+    "image": "COCO_train2017_000000000347.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A cat is sitting on a windowsill looking outside at the birds."
+      }
+    ]
+  },
+  {
+    "id": "sample_000813",
+    "image": "COCO_train2017_000000000813.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "id": "sample_000382",
+    "image": "COCO_train2017_000000000382.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "id": "sample_000403",
+    "image": "COCO_train2017_000000000403.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "id": "sample_000936",
+    "image": "COCO_train2017_000000000936.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "id": "sample_000131",
+    "image": "COCO_train2017_000000000131.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "id": "sample_000121",
+    "image": "COCO_train2017_000000000121.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "id": "sample_000625",
+    "image": "COCO_train2017_000000000625.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "id": "sample_000696",
+    "image": "COCO_train2017_000000000696.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "id": "sample_000638",
+    "image": "COCO_train2017_000000000638.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "id": "sample_000845",
+    "image": "COCO_train2017_000000000845.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "id": "sample_000286",
+    "image": "COCO_train2017_000000000286.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000563",
+    "image": "COCO_train2017_000000000563.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A person is standing next to a red car in a parking lot."
+      }
+    ]
+  },
+  {
+    "id": "sample_000957",
+    "image": "COCO_train2017_000000000957.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "id": "sample_000461",
+    "image": "COCO_train2017_000000000461.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "id": "sample_000516",
+    "image": "COCO_train2017_000000000516.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "id": "sample_000395",
+    "image": "COCO_train2017_000000000395.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "id": "sample_000075",
+    "image": "COCO_train2017_000000000075.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "id": "sample_000295",
+    "image": "COCO_train2017_000000000295.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "id": "sample_000566",
+    "image": "COCO_train2017_000000000566.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000371",
+    "image": "COCO_train2017_000000000371.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000199",
+    "image": "COCO_train2017_000000000199.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "id": "sample_000946",
+    "image": "COCO_train2017_000000000946.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A person is standing next to a red car in a parking lot."
+      }
+    ]
+  },
+  {
+    "id": "sample_000583",
+    "image": "COCO_train2017_000000000583.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "id": "sample_000052",
+    "image": "COCO_train2017_000000000052.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "id": "sample_000410",
+    "image": "COCO_train2017_000000000410.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "id": "sample_000046",
+    "image": "COCO_train2017_000000000046.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "id": "sample_000883",
+    "image": "COCO_train2017_000000000883.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A couple is walking hand in hand on the beach at sunset."
+      }
+    ]
+  },
+  {
+    "id": "sample_000412",
+    "image": "COCO_train2017_000000000412.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A cat is sitting on a windowsill looking outside at the birds."
+      }
+    ]
+  },
+  {
+    "id": "sample_000782",
+    "image": "COCO_train2017_000000000782.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "id": "sample_000374",
+    "image": "COCO_train2017_000000000374.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  },
+  {
+    "id": "sample_000744",
+    "image": "COCO_train2017_000000000744.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "id": "sample_000270",
+    "image": "COCO_train2017_000000000270.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "id": "sample_000137",
+    "image": "COCO_train2017_000000000137.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "id": "sample_000441",
+    "image": "COCO_train2017_000000000441.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "id": "sample_000110",
+    "image": "COCO_train2017_000000000110.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "id": "sample_000867",
+    "image": "COCO_train2017_000000000867.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  },
+  {
+    "id": "sample_000008",
+    "image": "COCO_train2017_000000000008.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A couple is walking hand in hand on the beach at sunset."
+      }
+    ]
+  },
+  {
+    "id": "sample_000549",
+    "image": "COCO_train2017_000000000549.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A person is standing next to a red car in a parking lot."
+      }
+    ]
+  },
+  {
+    "id": "sample_000292",
+    "image": "COCO_train2017_000000000292.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "id": "sample_000481",
+    "image": "COCO_train2017_000000000481.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A person is standing next to a red car in a parking lot."
+      }
+    ]
+  },
+  {
+    "id": "sample_000688",
+    "image": "COCO_train2017_000000000688.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "id": "sample_000669",
+    "image": "COCO_train2017_000000000669.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "id": "sample_000863",
+    "image": "COCO_train2017_000000000863.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "id": "sample_000611",
+    "image": "COCO_train2017_000000000611.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "id": "sample_000506",
+    "image": "COCO_train2017_000000000506.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "id": "sample_000288",
+    "image": "COCO_train2017_000000000288.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "id": "sample_000935",
+    "image": "COCO_train2017_000000000935.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000049",
+    "image": "COCO_train2017_000000000049.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "id": "sample_000361",
+    "image": "COCO_train2017_000000000361.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "id": "sample_000597",
+    "image": "COCO_train2017_000000000597.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "id": "sample_000220",
+    "image": "COCO_train2017_000000000220.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "id": "sample_000246",
+    "image": "COCO_train2017_000000000246.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "id": "sample_000468",
+    "image": "COCO_train2017_000000000468.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "id": "sample_000517",
+    "image": "COCO_train2017_000000000517.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A cat is sitting on a windowsill looking outside at the birds."
+      }
+    ]
+  },
+  {
+    "id": "sample_000402",
+    "image": "COCO_train2017_000000000402.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "id": "sample_000092",
+    "image": "COCO_train2017_000000000092.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "id": "sample_000023",
+    "image": "COCO_train2017_000000000023.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A cat is sitting on a windowsill looking outside at the birds."
+      }
+    ]
+  },
+  {
+    "id": "sample_000986",
+    "image": "COCO_train2017_000000000986.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000315",
+    "image": "COCO_train2017_000000000315.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "id": "sample_000900",
+    "image": "COCO_train2017_000000000900.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "id": "sample_000917",
+    "image": "COCO_train2017_000000000917.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "id": "sample_000478",
+    "image": "COCO_train2017_000000000478.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "id": "sample_000947",
+    "image": "COCO_train2017_000000000947.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "id": "sample_000510",
+    "image": "COCO_train2017_000000000510.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000926",
+    "image": "COCO_train2017_000000000926.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "id": "sample_000781",
+    "image": "COCO_train2017_000000000781.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "id": "sample_000194",
+    "image": "COCO_train2017_000000000194.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "id": "sample_000958",
+    "image": "COCO_train2017_000000000958.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "id": "sample_000738",
+    "image": "COCO_train2017_000000000738.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "id": "sample_000591",
+    "image": "COCO_train2017_000000000591.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "id": "sample_000335",
+    "image": "COCO_train2017_000000000335.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  },
+  {
+    "id": "sample_000833",
+    "image": "COCO_train2017_000000000833.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "id": "sample_000163",
+    "image": "COCO_train2017_000000000163.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "id": "sample_000923",
+    "image": "COCO_train2017_000000000923.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "id": "sample_000886",
+    "image": "COCO_train2017_000000000886.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "id": "sample_000254",
+    "image": "COCO_train2017_000000000254.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  },
+  {
+    "id": "sample_000428",
+    "image": "COCO_train2017_000000000428.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "id": "sample_000630",
+    "image": "COCO_train2017_000000000630.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "There is a traffic light at the intersection with several cars waiting."
+      }
+    ]
+  },
+  {
+    "id": "sample_000884",
+    "image": "COCO_train2017_000000000884.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A couple is walking hand in hand on the beach at sunset."
+      }
+    ]
+  },
+  {
+    "id": "sample_000393",
+    "image": "COCO_train2017_000000000393.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "id": "sample_000297",
+    "image": "COCO_train2017_000000000297.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  },
+  {
+    "id": "sample_000051",
+    "image": "COCO_train2017_000000000051.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "id": "sample_000099",
+    "image": "COCO_train2017_000000000099.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000144",
+    "image": "COCO_train2017_000000000144.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A couple is walking hand in hand on the beach at sunset."
+      }
+    ]
+  },
+  {
+    "id": "sample_000253",
+    "image": "COCO_train2017_000000000253.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "id": "sample_000460",
+    "image": "COCO_train2017_000000000460.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "id": "sample_000273",
+    "image": "COCO_train2017_000000000273.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "id": "sample_000125",
+    "image": "COCO_train2017_000000000125.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "id": "sample_000477",
+    "image": "COCO_train2017_000000000477.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "id": "sample_000247",
+    "image": "COCO_train2017_000000000247.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "id": "sample_000955",
+    "image": "COCO_train2017_000000000955.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "id": "sample_000108",
+    "image": "COCO_train2017_000000000108.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "id": "sample_000575",
+    "image": "COCO_train2017_000000000575.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "id": "sample_000527",
+    "image": "COCO_train2017_000000000527.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "id": "sample_000379",
+    "image": "COCO_train2017_000000000379.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "id": "sample_000778",
+    "image": "COCO_train2017_000000000778.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A couple is walking hand in hand on the beach at sunset."
+      }
+    ]
+  },
+  {
+    "id": "sample_000133",
+    "image": "COCO_train2017_000000000133.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "id": "sample_000408",
+    "image": "COCO_train2017_000000000408.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "id": "sample_000353",
+    "image": "COCO_train2017_000000000353.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "id": "sample_000881",
+    "image": "COCO_train2017_000000000881.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "id": "sample_000751",
+    "image": "COCO_train2017_000000000751.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000326",
+    "image": "COCO_train2017_000000000326.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000735",
+    "image": "COCO_train2017_000000000735.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "id": "sample_000882",
+    "image": "COCO_train2017_000000000882.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "id": "sample_000320",
+    "image": "COCO_train2017_000000000320.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "id": "sample_000147",
+    "image": "COCO_train2017_000000000147.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000621",
+    "image": "COCO_train2017_000000000621.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A person is standing next to a red car in a parking lot."
+      }
+    ]
+  },
+  {
+    "id": "sample_000348",
+    "image": "COCO_train2017_000000000348.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "id": "sample_000208",
+    "image": "COCO_train2017_000000000208.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000475",
+    "image": "COCO_train2017_000000000475.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "id": "sample_000495",
+    "image": "COCO_train2017_000000000495.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "id": "sample_000425",
+    "image": "COCO_train2017_000000000425.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "id": "sample_000450",
+    "image": "COCO_train2017_000000000450.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "id": "sample_000161",
+    "image": "COCO_train2017_000000000161.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "id": "sample_000061",
+    "image": "COCO_train2017_000000000061.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "id": "sample_000705",
+    "image": "COCO_train2017_000000000705.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "id": "sample_000074",
+    "image": "COCO_train2017_000000000074.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "There is a traffic light at the intersection with several cars waiting."
+      }
+    ]
+  },
+  {
+    "id": "sample_000464",
+    "image": "COCO_train2017_000000000464.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "id": "sample_000304",
+    "image": "COCO_train2017_000000000304.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "id": "sample_000415",
+    "image": "COCO_train2017_000000000415.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000701",
+    "image": "COCO_train2017_000000000701.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "There is a traffic light at the intersection with several cars waiting."
+      }
+    ]
+  },
+  {
+    "id": "sample_000826",
+    "image": "COCO_train2017_000000000826.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "id": "sample_000824",
+    "image": "COCO_train2017_000000000824.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "id": "sample_000250",
+    "image": "COCO_train2017_000000000250.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "id": "sample_000494",
+    "image": "COCO_train2017_000000000494.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "id": "sample_000309",
+    "image": "COCO_train2017_000000000309.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "id": "sample_000979",
+    "image": "COCO_train2017_000000000979.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "id": "sample_000657",
+    "image": "COCO_train2017_000000000657.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "id": "sample_000296",
+    "image": "COCO_train2017_000000000296.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A person is standing next to a red car in a parking lot."
+      }
+    ]
+  },
+  {
+    "id": "sample_000558",
+    "image": "COCO_train2017_000000000558.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000642",
+    "image": "COCO_train2017_000000000642.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "id": "sample_000910",
+    "image": "COCO_train2017_000000000910.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "id": "sample_000509",
+    "image": "COCO_train2017_000000000509.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "id": "sample_000031",
+    "image": "COCO_train2017_000000000031.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "id": "sample_000654",
+    "image": "COCO_train2017_000000000654.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "There is a traffic light at the intersection with several cars waiting."
+      }
+    ]
+  },
+  {
+    "id": "sample_000632",
+    "image": "COCO_train2017_000000000632.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is happening in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "id": "sample_000426",
+    "image": "COCO_train2017_000000000426.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you describe the scene in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "id": "sample_000585",
+    "image": "COCO_train2017_000000000585.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "id": "sample_000785",
+    "image": "COCO_train2017_000000000785.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "id": "sample_000215",
+    "image": "COCO_train2017_000000000215.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "id": "sample_000666",
+    "image": "COCO_train2017_000000000666.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "id": "sample_000271",
+    "image": "COCO_train2017_000000000271.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "id": "sample_000590",
+    "image": "COCO_train2017_000000000590.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you see in this photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "id": "sample_000789",
+    "image": "COCO_train2017_000000000789.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "id": "sample_000656",
+    "image": "COCO_train2017_000000000656.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat objects can you identify in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "id": "sample_000971",
+    "image": "COCO_train2017_000000000971.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe this image in detail."
+      },
+      {
+        "from": "gpt",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  }
+]

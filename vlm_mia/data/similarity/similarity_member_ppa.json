@@ -1,0 +1,5602 @@
+[
+    {
+        "image_id": "sample_000000",
+        "ppa_consistency": {
+            "rouge2_f": 0.5745071229516849,
+            "embedding_mpn": 0.7462112648814139
+        }
+    },
+    {
+        "image_id": "sample_000001",
+        "ppa_consistency": {
+            "rouge2_f": 0.5971532807151039,
+            "embedding_mpn": 0.8685350720995854
+        }
+    },
+    {
+        "image_id": "sample_000002",
+        "ppa_consistency": {
+            "rouge2_f": 0.4648769937914996,
+            "embedding_mpn": 0.6308287763745488
+        }
+    },
+    {
+        "image_id": "sample_000003",
+        "ppa_consistency": {
+            "rouge2_f": 0.7368819223261087,
+            "embedding_mpn": 0.9629280060752832
+        }
+    },
+    {
+        "image_id": "sample_000004",
+        "ppa_consistency": {
+            "rouge2_f": 0.42957884210975716,
+            "embedding_mpn": 0.642132444724915
+        }
+    },
+    {
+        "image_id": "sample_000005",
+        "ppa_consistency": {
+            "rouge2_f": 0.43048734607813066,
+            "embedding_mpn": 0.5825435608639152
+        }
+    },
+    {
+        "image_id": "sample_000006",
+        "ppa_consistency": {
+            "rouge2_f": 0.5362943407349051,
+            "embedding_mpn": 0.6014975260554373
+        }
+    },
+    {
+        "image_id": "sample_000007",
+        "ppa_consistency": {
+            "rouge2_f": 0.24126232512304507,
+            "embedding_mpn": 0.3875250733685867
+        }
+    },
+    {
+        "image_id": "sample_000008",
+        "ppa_consistency": {
+            "rouge2_f": 0.3480753319498364,
+            "embedding_mpn": 0.5469301719055528
+        }
+    },
+    {
+        "image_id": "sample_000009",
+        "ppa_consistency": {
+            "rouge2_f": 0.3637963886718184,
+            "embedding_mpn": 0.4590581665917009
+        }
+    },
+    {
+        "image_id": "sample_000010",
+        "ppa_consistency": {
+            "rouge2_f": 0.7198473153382331,
+            "embedding_mpn": 0.886300737309041
+        }
+    },
+    {
+        "image_id": "sample_000011",
+        "ppa_consistency": {
+            "rouge2_f": 0.5101292307031886,
+            "embedding_mpn": 0.6046443395303812
+        }
+    },
+    {
+        "image_id": "sample_000012",
+        "ppa_consistency": {
+            "rouge2_f": 0.4183425913212226,
+            "embedding_mpn": 0.6049979467038146
+        }
+    },
+    {
+        "image_id": "sample_000013",
+        "ppa_consistency": {
+            "rouge2_f": 0.3273509633866546,
+            "embedding_mpn": 0.5298928444873949
+        }
+    },
+    {
+        "image_id": "sample_000014",
+        "ppa_consistency": {
+            "rouge2_f": 0.40990419651217924,
+            "embedding_mpn": 0.5724025715245826
+        }
+    },
+    {
+        "image_id": "sample_000015",
+        "ppa_consistency": {
+            "rouge2_f": 0.4097440081655905,
+            "embedding_mpn": 0.7008806992361267
+        }
+    },
+    {
+        "image_id": "sample_000016",
+        "ppa_consistency": {
+            "rouge2_f": 0.4979754162893099,
+            "embedding_mpn": 0.6145127605519559
+        }
+    },
+    {
+        "image_id": "sample_000017",
+        "ppa_consistency": {
+            "rouge2_f": 0.6233817368154784,
+            "embedding_mpn": 0.7301311178172171
+        }
+    },
+    {
+        "image_id": "sample_000018",
+        "ppa_consistency": {
+            "rouge2_f": 0.5313295392507134,
+            "embedding_mpn": 0.5937493318179268
+        }
+    },
+    {
+        "image_id": "sample_000019",
+        "ppa_consistency": {
+            "rouge2_f": 0.3007720926652354,
+            "embedding_mpn": 0.4925837668173828
+        }
+    },
+    {
+        "image_id": "sample_000020",
+        "ppa_consistency": {
+            "rouge2_f": 0.6107699869993115,
+            "embedding_mpn": 0.8010520838707097
+        }
+    },
+    {
+        "image_id": "sample_000021",
+        "ppa_consistency": {
+            "rouge2_f": 0.4826527576417639,
+            "embedding_mpn": 0.6445865359064066
+        }
+    },
+    {
+        "image_id": "sample_000022",
+        "ppa_consistency": {
+            "rouge2_f": 0.2782217014448859,
+            "embedding_mpn": 0.41503104894120335
+        }
+    },
+    {
+        "image_id": "sample_000023",
+        "ppa_consistency": {
+            "rouge2_f": 0.4309041843560319,
+            "embedding_mpn": 0.6743315179291669
+        }
+    },
+    {
+        "image_id": "sample_000024",
+        "ppa_consistency": {
+            "rouge2_f": 0.5515427434352692,
+            "embedding_mpn": 0.6257603341135052
+        }
+    },
+    {
+        "image_id": "sample_000025",
+        "ppa_consistency": {
+            "rouge2_f": 0.5486125954092193,
+            "embedding_mpn": 0.7055076585842402
+        }
+    },
+    {
+        "image_id": "sample_000026",
+        "ppa_consistency": {
+            "rouge2_f": 0.3984616999541062,
+            "embedding_mpn": 0.6151622772845582
+        }
+    },
+    {
+        "image_id": "sample_000027",
+        "ppa_consistency": {
+            "rouge2_f": 0.6546499283743926,
+            "embedding_mpn": 0.8905267355213645
+        }
+    },
+    {
+        "image_id": "sample_000028",
+        "ppa_consistency": {
+            "rouge2_f": 0.37411737151660424,
+            "embedding_mpn": 0.5355646289655314
+        }
+    },
+    {
+        "image_id": "sample_000029",
+        "ppa_consistency": {
+            "rouge2_f": 0.5496895147105346,
+            "embedding_mpn": 0.7882222223378762
+        }
+    },
+    {
+        "image_id": "sample_000030",
+        "ppa_consistency": {
+            "rouge2_f": 0.4281238643232065,
+            "embedding_mpn": 0.5969843257233775
+        }
+    },
+    {
+        "image_id": "sample_000031",
+        "ppa_consistency": {
+            "rouge2_f": 0.33404975389909575,
+            "embedding_mpn": 0.4422773564542555
+        }
+    },
+    {
+        "image_id": "sample_000032",
+        "ppa_consistency": {
+            "rouge2_f": 0.6218788733591297,
+            "embedding_mpn": 0.883253275073379
+        }
+    },
+    {
+        "image_id": "sample_000033",
+        "ppa_consistency": {
+            "rouge2_f": 0.48919848176294994,
+            "embedding_mpn": 0.7294104556364713
+        }
+    },
+    {
+        "image_id": "sample_000034",
+        "ppa_consistency": {
+            "rouge2_f": 0.5542454037571451,
+            "embedding_mpn": 0.6955382184808376
+        }
+    },
+    {
+        "image_id": "sample_000035",
+        "ppa_consistency": {
+            "rouge2_f": 0.554209340826262,
+            "embedding_mpn": 0.8264915348142202
+        }
+    },
+    {
+        "image_id": "sample_000036",
+        "ppa_consistency": {
+            "rouge2_f": 0.4946260941335073,
+            "embedding_mpn": 0.7685047134823477
+        }
+    },
+    {
+        "image_id": "sample_000037",
+        "ppa_consistency": {
+            "rouge2_f": 0.10703823438653837,
+            "embedding_mpn": 0.3363523846490518
+        }
+    },
+    {
+        "image_id": "sample_000038",
+        "ppa_consistency": {
+            "rouge2_f": 0.5130570602357257,
+            "embedding_mpn": 0.6751166192077737
+        }
+    },
+    {
+        "image_id": "sample_000039",
+        "ppa_consistency": {
+            "rouge2_f": 0.5137641164803254,
+            "embedding_mpn": 0.5745099816042718
+        }
+    },
+    {
+        "image_id": "sample_000040",
+        "ppa_consistency": {
+            "rouge2_f": 0.4670492168243732,
+            "embedding_mpn": 0.6684759711150781
+        }
+    },
+    {
+        "image_id": "sample_000041",
+        "ppa_consistency": {
+            "rouge2_f": 0.7216841067112274,
+            "embedding_mpn": 0.8705878936148086
+        }
+    },
+    {
+        "image_id": "sample_000042",
+        "ppa_consistency": {
+            "rouge2_f": 0.37872595956602184,
+            "embedding_mpn": 0.5286205369509497
+        }
+    },
+    {
+        "image_id": "sample_000043",
+        "ppa_consistency": {
+            "rouge2_f": 0.6373103176553111,
+            "embedding_mpn": 0.8370353842348921
+        }
+    },
+    {
+        "image_id": "sample_000044",
+        "ppa_consistency": {
+            "rouge2_f": 0.4205359694349442,
+            "embedding_mpn": 0.6313320154217456
+        }
+    },
+    {
+        "image_id": "sample_000045",
+        "ppa_consistency": {
+            "rouge2_f": 0.5145616324022061,
+            "embedding_mpn": 0.7526803318341795
+        }
+    },
+    {
+        "image_id": "sample_000046",
+        "ppa_consistency": {
+            "rouge2_f": 0.39469203591839713,
+            "embedding_mpn": 0.555032307122531
+        }
+    },
+    {
+        "image_id": "sample_000047",
+        "ppa_consistency": {
+            "rouge2_f": 0.44118377703017636,
+            "embedding_mpn": 0.5333728801422493
+        }
+    },
+    {
+        "image_id": "sample_000048",
+        "ppa_consistency": {
+            "rouge2_f": 0.5444180415596864,
+            "embedding_mpn": 0.7400813578904798
+        }
+    },
+    {
+        "image_id": "sample_000049",
+        "ppa_consistency": {
+            "rouge2_f": 0.5007670184963692,
+            "embedding_mpn": 0.6666917904938603
+        }
+    },
+    {
+        "image_id": "sample_000050",
+        "ppa_consistency": {
+            "rouge2_f": 0.2876943886924379,
+            "embedding_mpn": 0.44245566932651637
+        }
+    },
+    {
+        "image_id": "sample_000051",
+        "ppa_consistency": {
+            "rouge2_f": 0.4485928225209846,
+            "embedding_mpn": 0.5804561863676875
+        }
+    },
+    {
+        "image_id": "sample_000052",
+        "ppa_consistency": {
+            "rouge2_f": 0.47580714325009865,
+            "embedding_mpn": 0.680050194658971
+        }
+    },
+    {
+        "image_id": "sample_000053",
+        "ppa_consistency": {
+            "rouge2_f": 0.7829278851815795,
+            "embedding_mpn": 0.9734025539514899
+        }
+    },
+    {
+        "image_id": "sample_000054",
+        "ppa_consistency": {
+            "rouge2_f": 0.5386325586084146,
+            "embedding_mpn": 0.7141658036624445
+        }
+    },
+    {
+        "image_id": "sample_000055",
+        "ppa_consistency": {
+            "rouge2_f": 0.2121843177051438,
+            "embedding_mpn": 0.39059348517819076
+        }
+    },
+    {
+        "image_id": "sample_000056",
+        "ppa_consistency": {
+            "rouge2_f": 0.509034531491154,
+            "embedding_mpn": 0.8368290582402711
+        }
+    },
+    {
+        "image_id": "sample_000057",
+        "ppa_consistency": {
+            "rouge2_f": 0.4711458552828316,
+            "embedding_mpn": 0.6692386958228483
+        }
+    },
+    {
+        "image_id": "sample_000058",
+        "ppa_consistency": {
+            "rouge2_f": 0.4947932345442135,
+            "embedding_mpn": 0.6046725522870415
+        }
+    },
+    {
+        "image_id": "sample_000059",
+        "ppa_consistency": {
+            "rouge2_f": 0.671423422177253,
+            "embedding_mpn": 0.8965394041384595
+        }
+    },
+    {
+        "image_id": "sample_000060",
+        "ppa_consistency": {
+            "rouge2_f": 0.618654792056457,
+            "embedding_mpn": 0.7440915447687727
+        }
+    },
+    {
+        "image_id": "sample_000061",
+        "ppa_consistency": {
+            "rouge2_f": 0.7104191466404148,
+            "embedding_mpn": 0.8063080828728779
+        }
+    },
+    {
+        "image_id": "sample_000062",
+        "ppa_consistency": {
+            "rouge2_f": 0.5880285640700406,
+            "embedding_mpn": 0.8994559016186392
+        }
+    },
+    {
+        "image_id": "sample_000063",
+        "ppa_consistency": {
+            "rouge2_f": 0.35141955123039675,
+            "embedding_mpn": 0.49744168745423045
+        }
+    },
+    {
+        "image_id": "sample_000064",
+        "ppa_consistency": {
+            "rouge2_f": 0.5149477047631462,
+            "embedding_mpn": 0.6647391655161743
+        }
+    },
+    {
+        "image_id": "sample_000065",
+        "ppa_consistency": {
+            "rouge2_f": 0.2674004853400801,
+            "embedding_mpn": 0.45151426382844173
+        }
+    },
+    {
+        "image_id": "sample_000066",
+        "ppa_consistency": {
+            "rouge2_f": 0.34065444294108427,
+            "embedding_mpn": 0.5490699887791952
+        }
+    },
+    {
+        "image_id": "sample_000067",
+        "ppa_consistency": {
+            "rouge2_f": 0.3620863648649295,
+            "embedding_mpn": 0.6350824291659819
+        }
+    },
+    {
+        "image_id": "sample_000068",
+        "ppa_consistency": {
+            "rouge2_f": 0.38251200614956443,
+            "embedding_mpn": 0.5431883151772239
+        }
+    },
+    {
+        "image_id": "sample_000069",
+        "ppa_consistency": {
+            "rouge2_f": 0.6220275826054504,
+            "embedding_mpn": 0.7281757236194131
+        }
+    },
+    {
+        "image_id": "sample_000070",
+        "ppa_consistency": {
+            "rouge2_f": 0.5341189901906194,
+            "embedding_mpn": 0.792547555447565
+        }
+    },
+    {
+        "image_id": "sample_000071",
+        "ppa_consistency": {
+            "rouge2_f": 0.2588775148158159,
+            "embedding_mpn": 0.44995554632775414
+        }
+    },
+    {
+        "image_id": "sample_000072",
+        "ppa_consistency": {
+            "rouge2_f": 0.5389824191372635,
+            "embedding_mpn": 0.7658917914439021
+        }
+    },
+    {
+        "image_id": "sample_000073",
+        "ppa_consistency": {
+            "rouge2_f": 0.3144573933682877,
+            "embedding_mpn": 0.4152299965832311
+        }
+    },
+    {
+        "image_id": "sample_000074",
+        "ppa_consistency": {
+            "rouge2_f": 0.5782912348425346,
+            "embedding_mpn": 0.7761103152365258
+        }
+    },
+    {
+        "image_id": "sample_000075",
+        "ppa_consistency": {
+            "rouge2_f": 0.5375739275518815,
+            "embedding_mpn": 0.7383608201217
+        }
+    },
+    {
+        "image_id": "sample_000076",
+        "ppa_consistency": {
+            "rouge2_f": 0.3979962917632264,
+            "embedding_mpn": 0.5919315135928866
+        }
+    },
+    {
+        "image_id": "sample_000077",
+        "ppa_consistency": {
+            "rouge2_f": 0.5439608709948022,
+            "embedding_mpn": 0.6810997859132201
+        }
+    },
+    {
+        "image_id": "sample_000078",
+        "ppa_consistency": {
+            "rouge2_f": 0.7798661766717134,
+            "embedding_mpn": 0.9882961519264206
+        }
+    },
+    {
+        "image_id": "sample_000079",
+        "ppa_consistency": {
+            "rouge2_f": 0.3213044754196027,
+            "embedding_mpn": 0.5406976919376325
+        }
+    },
+    {
+        "image_id": "sample_000080",
+        "ppa_consistency": {
+            "rouge2_f": 0.3537977494659018,
+            "embedding_mpn": 0.5810228256904489
+        }
+    },
+    {
+        "image_id": "sample_000081",
+        "ppa_consistency": {
+            "rouge2_f": 0.6737893368511106,
+            "embedding_mpn": 0.8045483977500081
+        }
+    },
+    {
+        "image_id": "sample_000082",
+        "ppa_consistency": {
+            "rouge2_f": 0.6445064193866483,
+            "embedding_mpn": 0.8492732750028382
+        }
+    },
+    {
+        "image_id": "sample_000083",
+        "ppa_consistency": {
+            "rouge2_f": 0.6233090239991735,
+            "embedding_mpn": 0.9171166029584104
+        }
+    },
+    {
+        "image_id": "sample_000084",
+        "ppa_consistency": {
+            "rouge2_f": 0.46319178259956945,
+            "embedding_mpn": 0.59796761273812
+        }
+    },
+    {
+        "image_id": "sample_000085",
+        "ppa_consistency": {
+            "rouge2_f": 0.3665728355561715,
+            "embedding_mpn": 0.49762421845824517
+        }
+    },
+    {
+        "image_id": "sample_000086",
+        "ppa_consistency": {
+            "rouge2_f": 0.48843474358788436,
+            "embedding_mpn": 0.688903862076883
+        }
+    },
+    {
+        "image_id": "sample_000087",
+        "ppa_consistency": {
+            "rouge2_f": 0.5415036198995029,
+            "embedding_mpn": 0.7711346148416643
+        }
+    },
+    {
+        "image_id": "sample_000088",
+        "ppa_consistency": {
+            "rouge2_f": 0.501950283781686,
+            "embedding_mpn": 0.7691623284111251
+        }
+    },
+    {
+        "image_id": "sample_000089",
+        "ppa_consistency": {
+            "rouge2_f": 0.46030147501430657,
+            "embedding_mpn": 0.8035116250096836
+        }
+    },
+    {
+        "image_id": "sample_000090",
+        "ppa_consistency": {
+            "rouge2_f": 0.5938501021647509,
+            "embedding_mpn": 0.722420648779774
+        }
+    },
+    {
+        "image_id": "sample_000091",
+        "ppa_consistency": {
+            "rouge2_f": 0.33936612529083315,
+            "embedding_mpn": 0.5483144702054242
+        }
+    },
+    {
+        "image_id": "sample_000092",
+        "ppa_consistency": {
+            "rouge2_f": 0.4664805822011224,
+            "embedding_mpn": 0.689320611846648
+        }
+    },
+    {
+        "image_id": "sample_000093",
+        "ppa_consistency": {
+            "rouge2_f": 0.5709856436860317,
+            "embedding_mpn": 0.7466159089266193
+        }
+    },
+    {
+        "image_id": "sample_000094",
+        "ppa_consistency": {
+            "rouge2_f": 0.37298094228973927,
+            "embedding_mpn": 0.46209010880858736
+        }
+    },
+    {
+        "image_id": "sample_000095",
+        "ppa_consistency": {
+            "rouge2_f": 0.43302275718994687,
+            "embedding_mpn": 0.6644066848493552
+        }
+    },
+    {
+        "image_id": "sample_000096",
+        "ppa_consistency": {
+            "rouge2_f": 0.5321140616195306,
+            "embedding_mpn": 0.6373697348968113
+        }
+    },
+    {
+        "image_id": "sample_000097",
+        "ppa_consistency": {
+            "rouge2_f": 0.5259771388776773,
+            "embedding_mpn": 0.7290961816614074
+        }
+    },
+    {
+        "image_id": "sample_000098",
+        "ppa_consistency": {
+            "rouge2_f": 0.3674213845698301,
+            "embedding_mpn": 0.5566448909265618
+        }
+    },
+    {
+        "image_id": "sample_000099",
+        "ppa_consistency": {
+            "rouge2_f": 0.5087313077669,
+            "embedding_mpn": 0.6201530898970626
+        }
+    },
+    {
+        "image_id": "sample_000100",
+        "ppa_consistency": {
+            "rouge2_f": 0.5536681040522425,
+            "embedding_mpn": 0.7673151756343366
+        }
+    },
+    {
+        "image_id": "sample_000101",
+        "ppa_consistency": {
+            "rouge2_f": 0.6624576864762916,
+            "embedding_mpn": 0.9056858095983857
+        }
+    },
+    {
+        "image_id": "sample_000102",
+        "ppa_consistency": {
+            "rouge2_f": 0.29334959480643635,
+            "embedding_mpn": 0.417080092411529
+        }
+    },
+    {
+        "image_id": "sample_000103",
+        "ppa_consistency": {
+            "rouge2_f": 0.5772552900812989,
+            "embedding_mpn": 0.7880824471360315
+        }
+    },
+    {
+        "image_id": "sample_000104",
+        "ppa_consistency": {
+            "rouge2_f": 0.5772571529459072,
+            "embedding_mpn": 0.9884210423851905
+        }
+    },
+    {
+        "image_id": "sample_000105",
+        "ppa_consistency": {
+            "rouge2_f": 0.5856335766039751,
+            "embedding_mpn": 0.833767515014811
+        }
+    },
+    {
+        "image_id": "sample_000106",
+        "ppa_consistency": {
+            "rouge2_f": 0.6431002645239803,
+            "embedding_mpn": 0.8621837396023282
+        }
+    },
+    {
+        "image_id": "sample_000107",
+        "ppa_consistency": {
+            "rouge2_f": 0.45270961330394816,
+            "embedding_mpn": 0.6782477665335442
+        }
+    },
+    {
+        "image_id": "sample_000108",
+        "ppa_consistency": {
+            "rouge2_f": 0.38407621781936424,
+            "embedding_mpn": 0.5498671014149636
+        }
+    },
+    {
+        "image_id": "sample_000109",
+        "ppa_consistency": {
+            "rouge2_f": 0.4271954678256345,
+            "embedding_mpn": 0.6121079161888139
+        }
+    },
+    {
+        "image_id": "sample_000110",
+        "ppa_consistency": {
+            "rouge2_f": 0.8471987850010263,
+            "embedding_mpn": 0.9151628734455214
+        }
+    },
+    {
+        "image_id": "sample_000111",
+        "ppa_consistency": {
+            "rouge2_f": 0.602939028556177,
+            "embedding_mpn": 0.6861760762847979
+        }
+    },
+    {
+        "image_id": "sample_000112",
+        "ppa_consistency": {
+            "rouge2_f": 0.429210220131585,
+            "embedding_mpn": 0.674547255949627
+        }
+    },
+    {
+        "image_id": "sample_000113",
+        "ppa_consistency": {
+            "rouge2_f": 0.5096420028643194,
+            "embedding_mpn": 0.624977316188561
+        }
+    },
+    {
+        "image_id": "sample_000114",
+        "ppa_consistency": {
+            "rouge2_f": 0.39270444361100476,
+            "embedding_mpn": 0.6134803085470852
+        }
+    },
+    {
+        "image_id": "sample_000115",
+        "ppa_consistency": {
+            "rouge2_f": 0.39044500524242953,
+            "embedding_mpn": 0.5834325206173481
+        }
+    },
+    {
+        "image_id": "sample_000116",
+        "ppa_consistency": {
+            "rouge2_f": 0.5068357759855721,
+            "embedding_mpn": 0.647739755129223
+        }
+    },
+    {
+        "image_id": "sample_000117",
+        "ppa_consistency": {
+            "rouge2_f": 0.8215916133987988,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000118",
+        "ppa_consistency": {
+            "rouge2_f": 0.19622861200135894,
+            "embedding_mpn": 0.3874158708875246
+        }
+    },
+    {
+        "image_id": "sample_000119",
+        "ppa_consistency": {
+            "rouge2_f": 0.4007320302847418,
+            "embedding_mpn": 0.6318780303725152
+        }
+    },
+    {
+        "image_id": "sample_000120",
+        "ppa_consistency": {
+            "rouge2_f": 0.38112188923509493,
+            "embedding_mpn": 0.554237702747081
+        }
+    },
+    {
+        "image_id": "sample_000121",
+        "ppa_consistency": {
+            "rouge2_f": 0.5757480918470685,
+            "embedding_mpn": 0.8076934034972758
+        }
+    },
+    {
+        "image_id": "sample_000122",
+        "ppa_consistency": {
+            "rouge2_f": 0.31995553894163353,
+            "embedding_mpn": 0.47988546479117666
+        }
+    },
+    {
+        "image_id": "sample_000123",
+        "ppa_consistency": {
+            "rouge2_f": 0.42875820332585657,
+            "embedding_mpn": 0.5695584493714339
+        }
+    },
+    {
+        "image_id": "sample_000124",
+        "ppa_consistency": {
+            "rouge2_f": 0.7648181360421645,
+            "embedding_mpn": 0.9691170386998218
+        }
+    },
+    {
+        "image_id": "sample_000125",
+        "ppa_consistency": {
+            "rouge2_f": 0.31086740684974323,
+            "embedding_mpn": 0.5459391236730298
+        }
+    },
+    {
+        "image_id": "sample_000126",
+        "ppa_consistency": {
+            "rouge2_f": 0.818323429551895,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000127",
+        "ppa_consistency": {
+            "rouge2_f": 0.27209450510689803,
+            "embedding_mpn": 0.42304046073492296
+        }
+    },
+    {
+        "image_id": "sample_000128",
+        "ppa_consistency": {
+            "rouge2_f": 0.6900366723779934,
+            "embedding_mpn": 0.8275765044408665
+        }
+    },
+    {
+        "image_id": "sample_000129",
+        "ppa_consistency": {
+            "rouge2_f": 0.5665729142219342,
+            "embedding_mpn": 0.7930509574276945
+        }
+    },
+    {
+        "image_id": "sample_000130",
+        "ppa_consistency": {
+            "rouge2_f": 0.36096042926328753,
+            "embedding_mpn": 0.5373889078995795
+        }
+    },
+    {
+        "image_id": "sample_000131",
+        "ppa_consistency": {
+            "rouge2_f": 0.05,
+            "embedding_mpn": 0.1685367415199426
+        }
+    },
+    {
+        "image_id": "sample_000132",
+        "ppa_consistency": {
+            "rouge2_f": 0.46211477729102596,
+            "embedding_mpn": 0.567247786373135
+        }
+    },
+    {
+        "image_id": "sample_000133",
+        "ppa_consistency": {
+            "rouge2_f": 0.7448616955897452,
+            "embedding_mpn": 0.8390532129121073
+        }
+    },
+    {
+        "image_id": "sample_000134",
+        "ppa_consistency": {
+            "rouge2_f": 0.43399332699545246,
+            "embedding_mpn": 0.621837761632618
+        }
+    },
+    {
+        "image_id": "sample_000135",
+        "ppa_consistency": {
+            "rouge2_f": 0.7161909933599173,
+            "embedding_mpn": 0.810039264289151
+        }
+    },
+    {
+        "image_id": "sample_000136",
+        "ppa_consistency": {
+            "rouge2_f": 0.6744745628232439,
+            "embedding_mpn": 0.8550885464844191
+        }
+    },
+    {
+        "image_id": "sample_000137",
+        "ppa_consistency": {
+            "rouge2_f": 0.35277370234280736,
+            "embedding_mpn": 0.5604999107986036
+        }
+    },
+    {
+        "image_id": "sample_000138",
+        "ppa_consistency": {
+            "rouge2_f": 0.5298589543360205,
+            "embedding_mpn": 0.6738459417064928
+        }
+    },
+    {
+        "image_id": "sample_000139",
+        "ppa_consistency": {
+            "rouge2_f": 0.5104703127485029,
+            "embedding_mpn": 0.6673514969367973
+        }
+    },
+    {
+        "image_id": "sample_000140",
+        "ppa_consistency": {
+            "rouge2_f": 0.5170276017876873,
+            "embedding_mpn": 0.7367554422589501
+        }
+    },
+    {
+        "image_id": "sample_000141",
+        "ppa_consistency": {
+            "rouge2_f": 0.7379025224218028,
+            "embedding_mpn": 0.8436335924921918
+        }
+    },
+    {
+        "image_id": "sample_000142",
+        "ppa_consistency": {
+            "rouge2_f": 0.81995500619844,
+            "embedding_mpn": 0.8828297382270899
+        }
+    },
+    {
+        "image_id": "sample_000143",
+        "ppa_consistency": {
+            "rouge2_f": 0.4772322357446625,
+            "embedding_mpn": 0.6925312681337371
+        }
+    },
+    {
+        "image_id": "sample_000144",
+        "ppa_consistency": {
+            "rouge2_f": 0.5421487801602549,
+            "embedding_mpn": 0.6847868089710193
+        }
+    },
+    {
+        "image_id": "sample_000145",
+        "ppa_consistency": {
+            "rouge2_f": 0.46878166244640873,
+            "embedding_mpn": 0.6192016063668788
+        }
+    },
+    {
+        "image_id": "sample_000146",
+        "ppa_consistency": {
+            "rouge2_f": 0.4115952864583683,
+            "embedding_mpn": 0.6425714122796298
+        }
+    },
+    {
+        "image_id": "sample_000147",
+        "ppa_consistency": {
+            "rouge2_f": 0.5535523228947571,
+            "embedding_mpn": 0.6919777471791179
+        }
+    },
+    {
+        "image_id": "sample_000148",
+        "ppa_consistency": {
+            "rouge2_f": 0.6349399813149876,
+            "embedding_mpn": 0.8333779525675842
+        }
+    },
+    {
+        "image_id": "sample_000149",
+        "ppa_consistency": {
+            "rouge2_f": 0.621929317825844,
+            "embedding_mpn": 0.8397070483412608
+        }
+    },
+    {
+        "image_id": "sample_000150",
+        "ppa_consistency": {
+            "rouge2_f": 0.37565074836168916,
+            "embedding_mpn": 0.5220398859498709
+        }
+    },
+    {
+        "image_id": "sample_000151",
+        "ppa_consistency": {
+            "rouge2_f": 0.6120940407684893,
+            "embedding_mpn": 0.8287162566944972
+        }
+    },
+    {
+        "image_id": "sample_000152",
+        "ppa_consistency": {
+            "rouge2_f": 0.4968647609053778,
+            "embedding_mpn": 0.6839044039039047
+        }
+    },
+    {
+        "image_id": "sample_000153",
+        "ppa_consistency": {
+            "rouge2_f": 0.6916497343682637,
+            "embedding_mpn": 0.836155451038114
+        }
+    },
+    {
+        "image_id": "sample_000154",
+        "ppa_consistency": {
+            "rouge2_f": 0.5820646071755057,
+            "embedding_mpn": 0.749933048029472
+        }
+    },
+    {
+        "image_id": "sample_000155",
+        "ppa_consistency": {
+            "rouge2_f": 0.467347819515917,
+            "embedding_mpn": 0.7132744306351484
+        }
+    },
+    {
+        "image_id": "sample_000156",
+        "ppa_consistency": {
+            "rouge2_f": 0.6238124523482045,
+            "embedding_mpn": 0.8526230305082427
+        }
+    },
+    {
+        "image_id": "sample_000157",
+        "ppa_consistency": {
+            "rouge2_f": 0.6958218210731494,
+            "embedding_mpn": 0.8770820515711149
+        }
+    },
+    {
+        "image_id": "sample_000158",
+        "ppa_consistency": {
+            "rouge2_f": 0.6022929456942446,
+            "embedding_mpn": 0.7636769402986372
+        }
+    },
+    {
+        "image_id": "sample_000159",
+        "ppa_consistency": {
+            "rouge2_f": 0.5486249528732663,
+            "embedding_mpn": 0.7208163696112052
+        }
+    },
+    {
+        "image_id": "sample_000160",
+        "ppa_consistency": {
+            "rouge2_f": 0.5145493947489077,
+            "embedding_mpn": 0.7302588162751225
+        }
+    },
+    {
+        "image_id": "sample_000161",
+        "ppa_consistency": {
+            "rouge2_f": 0.3772668975149791,
+            "embedding_mpn": 0.6828101340561067
+        }
+    },
+    {
+        "image_id": "sample_000162",
+        "ppa_consistency": {
+            "rouge2_f": 0.3490973927750447,
+            "embedding_mpn": 0.4562460760077808
+        }
+    },
+    {
+        "image_id": "sample_000163",
+        "ppa_consistency": {
+            "rouge2_f": 0.6737166310250102,
+            "embedding_mpn": 0.9012163926627863
+        }
+    },
+    {
+        "image_id": "sample_000164",
+        "ppa_consistency": {
+            "rouge2_f": 0.5936179725578232,
+            "embedding_mpn": 0.81131870311368
+        }
+    },
+    {
+        "image_id": "sample_000165",
+        "ppa_consistency": {
+            "rouge2_f": 0.49816298407296283,
+            "embedding_mpn": 0.6243277217838129
+        }
+    },
+    {
+        "image_id": "sample_000166",
+        "ppa_consistency": {
+            "rouge2_f": 0.5113706837290589,
+            "embedding_mpn": 0.6507409810383322
+        }
+    },
+    {
+        "image_id": "sample_000167",
+        "ppa_consistency": {
+            "rouge2_f": 0.6462679600126626,
+            "embedding_mpn": 0.8174445171225343
+        }
+    },
+    {
+        "image_id": "sample_000168",
+        "ppa_consistency": {
+            "rouge2_f": 0.3761754204811233,
+            "embedding_mpn": 0.5368922699819436
+        }
+    },
+    {
+        "image_id": "sample_000169",
+        "ppa_consistency": {
+            "rouge2_f": 0.5619397181413437,
+            "embedding_mpn": 0.7081162449731052
+        }
+    },
+    {
+        "image_id": "sample_000170",
+        "ppa_consistency": {
+            "rouge2_f": 0.37666694066503525,
+            "embedding_mpn": 0.57128817335455
+        }
+    },
+    {
+        "image_id": "sample_000171",
+        "ppa_consistency": {
+            "rouge2_f": 0.5367449856663085,
+            "embedding_mpn": 0.6863283951440406
+        }
+    },
+    {
+        "image_id": "sample_000172",
+        "ppa_consistency": {
+            "rouge2_f": 0.4293442541572516,
+            "embedding_mpn": 0.6232672503987098
+        }
+    },
+    {
+        "image_id": "sample_000173",
+        "ppa_consistency": {
+            "rouge2_f": 0.28278734877540135,
+            "embedding_mpn": 0.37833952231280804
+        }
+    },
+    {
+        "image_id": "sample_000174",
+        "ppa_consistency": {
+            "rouge2_f": 0.3922333668121346,
+            "embedding_mpn": 0.5594265377094237
+        }
+    },
+    {
+        "image_id": "sample_000175",
+        "ppa_consistency": {
+            "rouge2_f": 0.5466361348397006,
+            "embedding_mpn": 0.8151575078566737
+        }
+    },
+    {
+        "image_id": "sample_000176",
+        "ppa_consistency": {
+            "rouge2_f": 0.6286489434803029,
+            "embedding_mpn": 0.7990526316824973
+        }
+    },
+    {
+        "image_id": "sample_000177",
+        "ppa_consistency": {
+            "rouge2_f": 0.49714756881459665,
+            "embedding_mpn": 0.6169958069363282
+        }
+    },
+    {
+        "image_id": "sample_000178",
+        "ppa_consistency": {
+            "rouge2_f": 0.4972230296011415,
+            "embedding_mpn": 0.6599035112659333
+        }
+    },
+    {
+        "image_id": "sample_000179",
+        "ppa_consistency": {
+            "rouge2_f": 0.5484077840507134,
+            "embedding_mpn": 0.678773927437574
+        }
+    },
+    {
+        "image_id": "sample_000180",
+        "ppa_consistency": {
+            "rouge2_f": 0.5779019771361759,
+            "embedding_mpn": 0.8498663119163306
+        }
+    },
+    {
+        "image_id": "sample_000181",
+        "ppa_consistency": {
+            "rouge2_f": 0.4836859777314714,
+            "embedding_mpn": 0.6877886810574079
+        }
+    },
+    {
+        "image_id": "sample_000182",
+        "ppa_consistency": {
+            "rouge2_f": 0.6035215987566669,
+            "embedding_mpn": 0.7594483704435167
+        }
+    },
+    {
+        "image_id": "sample_000183",
+        "ppa_consistency": {
+            "rouge2_f": 0.5336138722715625,
+            "embedding_mpn": 0.7143694163184702
+        }
+    },
+    {
+        "image_id": "sample_000184",
+        "ppa_consistency": {
+            "rouge2_f": 0.5146514147823248,
+            "embedding_mpn": 0.6482708277509968
+        }
+    },
+    {
+        "image_id": "sample_000185",
+        "ppa_consistency": {
+            "rouge2_f": 0.5036765261388414,
+            "embedding_mpn": 0.7135564236135683
+        }
+    },
+    {
+        "image_id": "sample_000186",
+        "ppa_consistency": {
+            "rouge2_f": 0.7176715411692562,
+            "embedding_mpn": 0.9552277907343687
+        }
+    },
+    {
+        "image_id": "sample_000187",
+        "ppa_consistency": {
+            "rouge2_f": 0.8229773686267334,
+            "embedding_mpn": 0.9569365148534504
+        }
+    },
+    {
+        "image_id": "sample_000188",
+        "ppa_consistency": {
+            "rouge2_f": 0.6308480955081017,
+            "embedding_mpn": 0.8218486158524028
+        }
+    },
+    {
+        "image_id": "sample_000189",
+        "ppa_consistency": {
+            "rouge2_f": 0.8284704399826508,
+            "embedding_mpn": 0.9599725428613417
+        }
+    },
+    {
+        "image_id": "sample_000190",
+        "ppa_consistency": {
+            "rouge2_f": 0.3740417236728836,
+            "embedding_mpn": 0.5180781649462423
+        }
+    },
+    {
+        "image_id": "sample_000191",
+        "ppa_consistency": {
+            "rouge2_f": 0.181415641353529,
+            "embedding_mpn": 0.32987034005268334
+        }
+    },
+    {
+        "image_id": "sample_000192",
+        "ppa_consistency": {
+            "rouge2_f": 0.3861301007669453,
+            "embedding_mpn": 0.5751537279555178
+        }
+    },
+    {
+        "image_id": "sample_000193",
+        "ppa_consistency": {
+            "rouge2_f": 0.551263396366574,
+            "embedding_mpn": 0.8438336467195271
+        }
+    },
+    {
+        "image_id": "sample_000194",
+        "ppa_consistency": {
+            "rouge2_f": 0.6425635757279076,
+            "embedding_mpn": 0.7879493563881634
+        }
+    },
+    {
+        "image_id": "sample_000195",
+        "ppa_consistency": {
+            "rouge2_f": 0.3652377992977463,
+            "embedding_mpn": 0.5747529495881366
+        }
+    },
+    {
+        "image_id": "sample_000196",
+        "ppa_consistency": {
+            "rouge2_f": 0.30196501894690364,
+            "embedding_mpn": 0.5918525448981649
+        }
+    },
+    {
+        "image_id": "sample_000197",
+        "ppa_consistency": {
+            "rouge2_f": 0.676916018108193,
+            "embedding_mpn": 0.8287654789819108
+        }
+    },
+    {
+        "image_id": "sample_000198",
+        "ppa_consistency": {
+            "rouge2_f": 0.2430298206363684,
+            "embedding_mpn": 0.5042621630862931
+        }
+    },
+    {
+        "image_id": "sample_000199",
+        "ppa_consistency": {
+            "rouge2_f": 0.48281902321210735,
+            "embedding_mpn": 0.737088001930515
+        }
+    },
+    {
+        "image_id": "sample_000200",
+        "ppa_consistency": {
+            "rouge2_f": 0.26083585118084496,
+            "embedding_mpn": 0.40487334980361855
+        }
+    },
+    {
+        "image_id": "sample_000201",
+        "ppa_consistency": {
+            "rouge2_f": 0.5007865549577275,
+            "embedding_mpn": 0.683605390583612
+        }
+    },
+    {
+        "image_id": "sample_000202",
+        "ppa_consistency": {
+            "rouge2_f": 0.43249017927811345,
+            "embedding_mpn": 0.6498611752189634
+        }
+    },
+    {
+        "image_id": "sample_000203",
+        "ppa_consistency": {
+            "rouge2_f": 0.3398569355926109,
+            "embedding_mpn": 0.5113141664913332
+        }
+    },
+    {
+        "image_id": "sample_000204",
+        "ppa_consistency": {
+            "rouge2_f": 0.5180443447567848,
+            "embedding_mpn": 0.7289106748003098
+        }
+    },
+    {
+        "image_id": "sample_000205",
+        "ppa_consistency": {
+            "rouge2_f": 0.6067422317133335,
+            "embedding_mpn": 0.7192637062030613
+        }
+    },
+    {
+        "image_id": "sample_000206",
+        "ppa_consistency": {
+            "rouge2_f": 0.26988287438965664,
+            "embedding_mpn": 0.5265434837035672
+        }
+    },
+    {
+        "image_id": "sample_000207",
+        "ppa_consistency": {
+            "rouge2_f": 0.5498471017969387,
+            "embedding_mpn": 0.6849379096035455
+        }
+    },
+    {
+        "image_id": "sample_000208",
+        "ppa_consistency": {
+            "rouge2_f": 0.7326727963283785,
+            "embedding_mpn": 0.91961327438595
+        }
+    },
+    {
+        "image_id": "sample_000209",
+        "ppa_consistency": {
+            "rouge2_f": 0.6768945776095739,
+            "embedding_mpn": 0.8609456864941805
+        }
+    },
+    {
+        "image_id": "sample_000210",
+        "ppa_consistency": {
+            "rouge2_f": 0.8091121887322981,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000211",
+        "ppa_consistency": {
+            "rouge2_f": 0.462655377728139,
+            "embedding_mpn": 0.7009496347854003
+        }
+    },
+    {
+        "image_id": "sample_000212",
+        "ppa_consistency": {
+            "rouge2_f": 0.5968063924377721,
+            "embedding_mpn": 0.858924285889713
+        }
+    },
+    {
+        "image_id": "sample_000213",
+        "ppa_consistency": {
+            "rouge2_f": 0.3552614809129844,
+            "embedding_mpn": 0.5764245685128907
+        }
+    },
+    {
+        "image_id": "sample_000214",
+        "ppa_consistency": {
+            "rouge2_f": 0.6587636730274382,
+            "embedding_mpn": 0.7332393038420514
+        }
+    },
+    {
+        "image_id": "sample_000215",
+        "ppa_consistency": {
+            "rouge2_f": 0.32251122310013375,
+            "embedding_mpn": 0.3801572924345277
+        }
+    },
+    {
+        "image_id": "sample_000216",
+        "ppa_consistency": {
+            "rouge2_f": 0.45958897483331634,
+            "embedding_mpn": 0.6826415101810741
+        }
+    },
+    {
+        "image_id": "sample_000217",
+        "ppa_consistency": {
+            "rouge2_f": 0.7253535578144041,
+            "embedding_mpn": 0.9097992446395906
+        }
+    },
+    {
+        "image_id": "sample_000218",
+        "ppa_consistency": {
+            "rouge2_f": 0.7442923318356938,
+            "embedding_mpn": 0.8414862443428003
+        }
+    },
+    {
+        "image_id": "sample_000219",
+        "ppa_consistency": {
+            "rouge2_f": 0.24449263409672684,
+            "embedding_mpn": 0.4211597721629297
+        }
+    },
+    {
+        "image_id": "sample_000220",
+        "ppa_consistency": {
+            "rouge2_f": 0.5576098173408961,
+            "embedding_mpn": 0.7356481324552505
+        }
+    },
+    {
+        "image_id": "sample_000221",
+        "ppa_consistency": {
+            "rouge2_f": 0.18988368499401853,
+            "embedding_mpn": 0.3645364826232512
+        }
+    },
+    {
+        "image_id": "sample_000222",
+        "ppa_consistency": {
+            "rouge2_f": 0.30432957492427204,
+            "embedding_mpn": 0.5245099278540744
+        }
+    },
+    {
+        "image_id": "sample_000223",
+        "ppa_consistency": {
+            "rouge2_f": 0.5549897369145272,
+            "embedding_mpn": 0.6785969497348859
+        }
+    },
+    {
+        "image_id": "sample_000224",
+        "ppa_consistency": {
+            "rouge2_f": 0.422919962399496,
+            "embedding_mpn": 0.5393671510861588
+        }
+    },
+    {
+        "image_id": "sample_000225",
+        "ppa_consistency": {
+            "rouge2_f": 0.4905981354090242,
+            "embedding_mpn": 0.7279066746390985
+        }
+    },
+    {
+        "image_id": "sample_000226",
+        "ppa_consistency": {
+            "rouge2_f": 0.35214109304966845,
+            "embedding_mpn": 0.5623838839807391
+        }
+    },
+    {
+        "image_id": "sample_000227",
+        "ppa_consistency": {
+            "rouge2_f": 0.4204613572441339,
+            "embedding_mpn": 0.5528889873083933
+        }
+    },
+    {
+        "image_id": "sample_000228",
+        "ppa_consistency": {
+            "rouge2_f": 0.4839454460068163,
+            "embedding_mpn": 0.6018309066616538
+        }
+    },
+    {
+        "image_id": "sample_000229",
+        "ppa_consistency": {
+            "rouge2_f": 0.4169526041979227,
+            "embedding_mpn": 0.5250799306425917
+        }
+    },
+    {
+        "image_id": "sample_000230",
+        "ppa_consistency": {
+            "rouge2_f": 0.7947087699374584,
+            "embedding_mpn": 0.9768245830557621
+        }
+    },
+    {
+        "image_id": "sample_000231",
+        "ppa_consistency": {
+            "rouge2_f": 0.39504117380111214,
+            "embedding_mpn": 0.5878799684451654
+        }
+    },
+    {
+        "image_id": "sample_000232",
+        "ppa_consistency": {
+            "rouge2_f": 0.48315079254637555,
+            "embedding_mpn": 0.6498926165743821
+        }
+    },
+    {
+        "image_id": "sample_000233",
+        "ppa_consistency": {
+            "rouge2_f": 0.5921250050065138,
+            "embedding_mpn": 0.8175754676093521
+        }
+    },
+    {
+        "image_id": "sample_000234",
+        "ppa_consistency": {
+            "rouge2_f": 0.4204248278584209,
+            "embedding_mpn": 0.5658757334197401
+        }
+    },
+    {
+        "image_id": "sample_000235",
+        "ppa_consistency": {
+            "rouge2_f": 0.4587422454272534,
+            "embedding_mpn": 0.5006269755431183
+        }
+    },
+    {
+        "image_id": "sample_000236",
+        "ppa_consistency": {
+            "rouge2_f": 0.27272134067021714,
+            "embedding_mpn": 0.5347337967168886
+        }
+    },
+    {
+        "image_id": "sample_000237",
+        "ppa_consistency": {
+            "rouge2_f": 0.7467451570251925,
+            "embedding_mpn": 0.9118029946518098
+        }
+    },
+    {
+        "image_id": "sample_000238",
+        "ppa_consistency": {
+            "rouge2_f": 0.5864835444583649,
+            "embedding_mpn": 0.7851585537309771
+        }
+    },
+    {
+        "image_id": "sample_000239",
+        "ppa_consistency": {
+            "rouge2_f": 0.95,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000240",
+        "ppa_consistency": {
+            "rouge2_f": 0.480812361277885,
+            "embedding_mpn": 0.6034799348418595
+        }
+    },
+    {
+        "image_id": "sample_000241",
+        "ppa_consistency": {
+            "rouge2_f": 0.25903305196136417,
+            "embedding_mpn": 0.45124087011339753
+        }
+    },
+    {
+        "image_id": "sample_000242",
+        "ppa_consistency": {
+            "rouge2_f": 0.3865473882073545,
+            "embedding_mpn": 0.48121216563149405
+        }
+    },
+    {
+        "image_id": "sample_000243",
+        "ppa_consistency": {
+            "rouge2_f": 0.403014067363621,
+            "embedding_mpn": 0.5181211871467573
+        }
+    },
+    {
+        "image_id": "sample_000244",
+        "ppa_consistency": {
+            "rouge2_f": 0.7530712452608848,
+            "embedding_mpn": 0.9859696306778518
+        }
+    },
+    {
+        "image_id": "sample_000245",
+        "ppa_consistency": {
+            "rouge2_f": 0.4988041038025074,
+            "embedding_mpn": 0.767600752135909
+        }
+    },
+    {
+        "image_id": "sample_000246",
+        "ppa_consistency": {
+            "rouge2_f": 0.5116052461471428,
+            "embedding_mpn": 0.6399281940674469
+        }
+    },
+    {
+        "image_id": "sample_000247",
+        "ppa_consistency": {
+            "rouge2_f": 0.7284686115904486,
+            "embedding_mpn": 0.9408032142115281
+        }
+    },
+    {
+        "image_id": "sample_000248",
+        "ppa_consistency": {
+            "rouge2_f": 0.3444130768510315,
+            "embedding_mpn": 0.512992756166015
+        }
+    },
+    {
+        "image_id": "sample_000249",
+        "ppa_consistency": {
+            "rouge2_f": 0.36865726199228643,
+            "embedding_mpn": 0.4656892781344263
+        }
+    },
+    {
+        "image_id": "sample_000250",
+        "ppa_consistency": {
+            "rouge2_f": 0.6389266321297462,
+            "embedding_mpn": 0.933491630557954
+        }
+    },
+    {
+        "image_id": "sample_000251",
+        "ppa_consistency": {
+            "rouge2_f": 0.2902148639271288,
+            "embedding_mpn": 0.503993018128563
+        }
+    },
+    {
+        "image_id": "sample_000252",
+        "ppa_consistency": {
+            "rouge2_f": 0.40240361463172597,
+            "embedding_mpn": 0.5531760916058441
+        }
+    },
+    {
+        "image_id": "sample_000253",
+        "ppa_consistency": {
+            "rouge2_f": 0.41114091136416964,
+            "embedding_mpn": 0.5393014651833807
+        }
+    },
+    {
+        "image_id": "sample_000254",
+        "ppa_consistency": {
+            "rouge2_f": 0.5072782441917241,
+            "embedding_mpn": 0.6374212372070618
+        }
+    },
+    {
+        "image_id": "sample_000255",
+        "ppa_consistency": {
+            "rouge2_f": 0.5405685238669758,
+            "embedding_mpn": 0.7175542373000277
+        }
+    },
+    {
+        "image_id": "sample_000256",
+        "ppa_consistency": {
+            "rouge2_f": 0.46415779297003856,
+            "embedding_mpn": 0.5897039732475426
+        }
+    },
+    {
+        "image_id": "sample_000257",
+        "ppa_consistency": {
+            "rouge2_f": 0.4134843004147501,
+            "embedding_mpn": 0.6388077739642954
+        }
+    },
+    {
+        "image_id": "sample_000258",
+        "ppa_consistency": {
+            "rouge2_f": 0.5751375781436571,
+            "embedding_mpn": 0.696484263455744
+        }
+    },
+    {
+        "image_id": "sample_000259",
+        "ppa_consistency": {
+            "rouge2_f": 0.5148998458143839,
+            "embedding_mpn": 0.7399830732166912
+        }
+    },
+    {
+        "image_id": "sample_000260",
+        "ppa_consistency": {
+            "rouge2_f": 0.24958920783179422,
+            "embedding_mpn": 0.46219081937459033
+        }
+    },
+    {
+        "image_id": "sample_000261",
+        "ppa_consistency": {
+            "rouge2_f": 0.40060643615812297,
+            "embedding_mpn": 0.6148423562737125
+        }
+    },
+    {
+        "image_id": "sample_000262",
+        "ppa_consistency": {
+            "rouge2_f": 0.38551112651862246,
+            "embedding_mpn": 0.45721820047875134
+        }
+    },
+    {
+        "image_id": "sample_000263",
+        "ppa_consistency": {
+            "rouge2_f": 0.2558686343175256,
+            "embedding_mpn": 0.4387537311172085
+        }
+    },
+    {
+        "image_id": "sample_000264",
+        "ppa_consistency": {
+            "rouge2_f": 0.5389583752582223,
+            "embedding_mpn": 0.6646993777519579
+        }
+    },
+    {
+        "image_id": "sample_000265",
+        "ppa_consistency": {
+            "rouge2_f": 0.5957888688166061,
+            "embedding_mpn": 0.6760976650804685
+        }
+    },
+    {
+        "image_id": "sample_000266",
+        "ppa_consistency": {
+            "rouge2_f": 0.49008803020290254,
+            "embedding_mpn": 0.5974270582171551
+        }
+    },
+    {
+        "image_id": "sample_000267",
+        "ppa_consistency": {
+            "rouge2_f": 0.40222458382967613,
+            "embedding_mpn": 0.585068504108661
+        }
+    },
+    {
+        "image_id": "sample_000268",
+        "ppa_consistency": {
+            "rouge2_f": 0.3709379952074071,
+            "embedding_mpn": 0.5278646625536176
+        }
+    },
+    {
+        "image_id": "sample_000269",
+        "ppa_consistency": {
+            "rouge2_f": 0.6509439213821661,
+            "embedding_mpn": 0.7963304092107771
+        }
+    },
+    {
+        "image_id": "sample_000270",
+        "ppa_consistency": {
+            "rouge2_f": 0.6253538168097712,
+            "embedding_mpn": 0.7375714055303141
+        }
+    },
+    {
+        "image_id": "sample_000271",
+        "ppa_consistency": {
+            "rouge2_f": 0.5794706266872924,
+            "embedding_mpn": 0.8459647439267665
+        }
+    },
+    {
+        "image_id": "sample_000272",
+        "ppa_consistency": {
+            "rouge2_f": 0.12925332498090664,
+            "embedding_mpn": 0.26143960965267804
+        }
+    },
+    {
+        "image_id": "sample_000273",
+        "ppa_consistency": {
+            "rouge2_f": 0.586560819077081,
+            "embedding_mpn": 0.7543780959145014
+        }
+    },
+    {
+        "image_id": "sample_000274",
+        "ppa_consistency": {
+            "rouge2_f": 0.5556718810056963,
+            "embedding_mpn": 0.699432769802747
+        }
+    },
+    {
+        "image_id": "sample_000275",
+        "ppa_consistency": {
+            "rouge2_f": 0.512988468120935,
+            "embedding_mpn": 0.6836478339974102
+        }
+    },
+    {
+        "image_id": "sample_000276",
+        "ppa_consistency": {
+            "rouge2_f": 0.6751673092489711,
+            "embedding_mpn": 0.8704325598470438
+        }
+    },
+    {
+        "image_id": "sample_000277",
+        "ppa_consistency": {
+            "rouge2_f": 0.5506403993112803,
+            "embedding_mpn": 0.7059277813439322
+        }
+    },
+    {
+        "image_id": "sample_000278",
+        "ppa_consistency": {
+            "rouge2_f": 0.42685906638912596,
+            "embedding_mpn": 0.5809055751199487
+        }
+    },
+    {
+        "image_id": "sample_000279",
+        "ppa_consistency": {
+            "rouge2_f": 0.5591678213567445,
+            "embedding_mpn": 0.7139087525075287
+        }
+    },
+    {
+        "image_id": "sample_000280",
+        "ppa_consistency": {
+            "rouge2_f": 0.5434662285344619,
+            "embedding_mpn": 0.8479902764531883
+        }
+    },
+    {
+        "image_id": "sample_000281",
+        "ppa_consistency": {
+            "rouge2_f": 0.6306687055147538,
+            "embedding_mpn": 0.7911072935846833
+        }
+    },
+    {
+        "image_id": "sample_000282",
+        "ppa_consistency": {
+            "rouge2_f": 0.6801820883245917,
+            "embedding_mpn": 0.8356975659432986
+        }
+    },
+    {
+        "image_id": "sample_000283",
+        "ppa_consistency": {
+            "rouge2_f": 0.1942813197233219,
+            "embedding_mpn": 0.3137961410682777
+        }
+    },
+    {
+        "image_id": "sample_000284",
+        "ppa_consistency": {
+            "rouge2_f": 0.21938121184612164,
+            "embedding_mpn": 0.3782904028036431
+        }
+    },
+    {
+        "image_id": "sample_000285",
+        "ppa_consistency": {
+            "rouge2_f": 0.5027627568784327,
+            "embedding_mpn": 0.7833489956149498
+        }
+    },
+    {
+        "image_id": "sample_000286",
+        "ppa_consistency": {
+            "rouge2_f": 0.5490391060646244,
+            "embedding_mpn": 0.7158930743360925
+        }
+    },
+    {
+        "image_id": "sample_000287",
+        "ppa_consistency": {
+            "rouge2_f": 0.6244108371775233,
+            "embedding_mpn": 0.6717427186370502
+        }
+    },
+    {
+        "image_id": "sample_000288",
+        "ppa_consistency": {
+            "rouge2_f": 0.5353421837162848,
+            "embedding_mpn": 0.7615940953495028
+        }
+    },
+    {
+        "image_id": "sample_000289",
+        "ppa_consistency": {
+            "rouge2_f": 0.27821206313302377,
+            "embedding_mpn": 0.5268373057254395
+        }
+    },
+    {
+        "image_id": "sample_000290",
+        "ppa_consistency": {
+            "rouge2_f": 0.5507744611241621,
+            "embedding_mpn": 0.705857186290114
+        }
+    },
+    {
+        "image_id": "sample_000291",
+        "ppa_consistency": {
+            "rouge2_f": 0.5949172799159427,
+            "embedding_mpn": 0.9111588513842064
+        }
+    },
+    {
+        "image_id": "sample_000292",
+        "ppa_consistency": {
+            "rouge2_f": 0.5272799382587743,
+            "embedding_mpn": 0.7221731734367944
+        }
+    },
+    {
+        "image_id": "sample_000293",
+        "ppa_consistency": {
+            "rouge2_f": 0.43109586506896336,
+            "embedding_mpn": 0.5601052029010758
+        }
+    },
+    {
+        "image_id": "sample_000294",
+        "ppa_consistency": {
+            "rouge2_f": 0.6245503724816368,
+            "embedding_mpn": 0.7531853429271047
+        }
+    },
+    {
+        "image_id": "sample_000295",
+        "ppa_consistency": {
+            "rouge2_f": 0.5107349355829088,
+            "embedding_mpn": 0.6620754887770018
+        }
+    },
+    {
+        "image_id": "sample_000296",
+        "ppa_consistency": {
+            "rouge2_f": 0.5718469738619588,
+            "embedding_mpn": 0.7718667001791757
+        }
+    },
+    {
+        "image_id": "sample_000297",
+        "ppa_consistency": {
+            "rouge2_f": 0.6556309916386849,
+            "embedding_mpn": 0.8050300077074001
+        }
+    },
+    {
+        "image_id": "sample_000298",
+        "ppa_consistency": {
+            "rouge2_f": 0.4595187597059943,
+            "embedding_mpn": 0.5807929367590559
+        }
+    },
+    {
+        "image_id": "sample_000299",
+        "ppa_consistency": {
+            "rouge2_f": 0.4333560109885833,
+            "embedding_mpn": 0.6359940405712744
+        }
+    },
+    {
+        "image_id": "sample_000300",
+        "ppa_consistency": {
+            "rouge2_f": 0.6135482924968028,
+            "embedding_mpn": 0.7382183730461452
+        }
+    },
+    {
+        "image_id": "sample_000301",
+        "ppa_consistency": {
+            "rouge2_f": 0.630440888015849,
+            "embedding_mpn": 0.891779159544146
+        }
+    },
+    {
+        "image_id": "sample_000302",
+        "ppa_consistency": {
+            "rouge2_f": 0.5620152354835551,
+            "embedding_mpn": 0.8546229842370391
+        }
+    },
+    {
+        "image_id": "sample_000303",
+        "ppa_consistency": {
+            "rouge2_f": 0.383931620134464,
+            "embedding_mpn": 0.489252337935779
+        }
+    },
+    {
+        "image_id": "sample_000304",
+        "ppa_consistency": {
+            "rouge2_f": 0.2331919626643582,
+            "embedding_mpn": 0.5029546213537092
+        }
+    },
+    {
+        "image_id": "sample_000305",
+        "ppa_consistency": {
+            "rouge2_f": 0.5981548484531086,
+            "embedding_mpn": 0.7748197681984813
+        }
+    },
+    {
+        "image_id": "sample_000306",
+        "ppa_consistency": {
+            "rouge2_f": 0.5419952939479731,
+            "embedding_mpn": 0.6544659511100704
+        }
+    },
+    {
+        "image_id": "sample_000307",
+        "ppa_consistency": {
+            "rouge2_f": 0.866862796942524,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000308",
+        "ppa_consistency": {
+            "rouge2_f": 0.5164092191907339,
+            "embedding_mpn": 0.7399552166246555
+        }
+    },
+    {
+        "image_id": "sample_000309",
+        "ppa_consistency": {
+            "rouge2_f": 0.572151384760507,
+            "embedding_mpn": 0.7655844262172549
+        }
+    },
+    {
+        "image_id": "sample_000310",
+        "ppa_consistency": {
+            "rouge2_f": 0.3814288316832032,
+            "embedding_mpn": 0.589716933111363
+        }
+    },
+    {
+        "image_id": "sample_000311",
+        "ppa_consistency": {
+            "rouge2_f": 0.782303674471255,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000312",
+        "ppa_consistency": {
+            "rouge2_f": 0.7389779939959096,
+            "embedding_mpn": 0.8883050534100385
+        }
+    },
+    {
+        "image_id": "sample_000313",
+        "ppa_consistency": {
+            "rouge2_f": 0.35155927696121286,
+            "embedding_mpn": 0.524012061755234
+        }
+    },
+    {
+        "image_id": "sample_000314",
+        "ppa_consistency": {
+            "rouge2_f": 0.5083587368433042,
+            "embedding_mpn": 0.7540102279515611
+        }
+    },
+    {
+        "image_id": "sample_000315",
+        "ppa_consistency": {
+            "rouge2_f": 0.2461303055427771,
+            "embedding_mpn": 0.5179033247104139
+        }
+    },
+    {
+        "image_id": "sample_000316",
+        "ppa_consistency": {
+            "rouge2_f": 0.4762988152131516,
+            "embedding_mpn": 0.6306859510163064
+        }
+    },
+    {
+        "image_id": "sample_000317",
+        "ppa_consistency": {
+            "rouge2_f": 0.34818434371097484,
+            "embedding_mpn": 0.42889294339902867
+        }
+    },
+    {
+        "image_id": "sample_000318",
+        "ppa_consistency": {
+            "rouge2_f": 0.6234755875942872,
+            "embedding_mpn": 0.8078746656255915
+        }
+    },
+    {
+        "image_id": "sample_000319",
+        "ppa_consistency": {
+            "rouge2_f": 0.3065058650388419,
+            "embedding_mpn": 0.40880113871502494
+        }
+    },
+    {
+        "image_id": "sample_000320",
+        "ppa_consistency": {
+            "rouge2_f": 0.4496322951064808,
+            "embedding_mpn": 0.7297735866238444
+        }
+    },
+    {
+        "image_id": "sample_000321",
+        "ppa_consistency": {
+            "rouge2_f": 0.4610612972954593,
+            "embedding_mpn": 0.550872720108373
+        }
+    },
+    {
+        "image_id": "sample_000322",
+        "ppa_consistency": {
+            "rouge2_f": 0.46313854038710833,
+            "embedding_mpn": 0.6267751262022481
+        }
+    },
+    {
+        "image_id": "sample_000323",
+        "ppa_consistency": {
+            "rouge2_f": 0.09546700355876425,
+            "embedding_mpn": 0.2722093115676955
+        }
+    },
+    {
+        "image_id": "sample_000324",
+        "ppa_consistency": {
+            "rouge2_f": 0.4653598204686983,
+            "embedding_mpn": 0.6871322023575034
+        }
+    },
+    {
+        "image_id": "sample_000325",
+        "ppa_consistency": {
+            "rouge2_f": 0.7773434142418018,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000326",
+        "ppa_consistency": {
+            "rouge2_f": 0.45966669641677543,
+            "embedding_mpn": 0.5732751418922752
+        }
+    },
+    {
+        "image_id": "sample_000327",
+        "ppa_consistency": {
+            "rouge2_f": 0.886003970487479,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000328",
+        "ppa_consistency": {
+            "rouge2_f": 0.502089393786942,
+            "embedding_mpn": 0.6806418885603418
+        }
+    },
+    {
+        "image_id": "sample_000329",
+        "ppa_consistency": {
+            "rouge2_f": 0.5297127141151783,
+            "embedding_mpn": 0.7010510893997417
+        }
+    },
+    {
+        "image_id": "sample_000330",
+        "ppa_consistency": {
+            "rouge2_f": 0.41395069896796455,
+            "embedding_mpn": 0.561139162493541
+        }
+    },
+    {
+        "image_id": "sample_000331",
+        "ppa_consistency": {
+            "rouge2_f": 0.49508700946760026,
+            "embedding_mpn": 0.6424815231995744
+        }
+    },
+    {
+        "image_id": "sample_000332",
+        "ppa_consistency": {
+            "rouge2_f": 0.39307313259842536,
+            "embedding_mpn": 0.5794589462599391
+        }
+    },
+    {
+        "image_id": "sample_000333",
+        "ppa_consistency": {
+            "rouge2_f": 0.4617534173868717,
+            "embedding_mpn": 0.731992996701833
+        }
+    },
+    {
+        "image_id": "sample_000334",
+        "ppa_consistency": {
+            "rouge2_f": 0.10235452874104822,
+            "embedding_mpn": 0.3478449398563959
+        }
+    },
+    {
+        "image_id": "sample_000335",
+        "ppa_consistency": {
+            "rouge2_f": 0.6869127788746443,
+            "embedding_mpn": 0.7425093649301553
+        }
+    },
+    {
+        "image_id": "sample_000336",
+        "ppa_consistency": {
+            "rouge2_f": 0.4485968608879477,
+            "embedding_mpn": 0.6063104089282002
+        }
+    },
+    {
+        "image_id": "sample_000337",
+        "ppa_consistency": {
+            "rouge2_f": 0.2888732457923268,
+            "embedding_mpn": 0.42220424453687433
+        }
+    },
+    {
+        "image_id": "sample_000338",
+        "ppa_consistency": {
+            "rouge2_f": 0.3334136231801257,
+            "embedding_mpn": 0.6185498497855431
+        }
+    },
+    {
+        "image_id": "sample_000339",
+        "ppa_consistency": {
+            "rouge2_f": 0.6403517589721192,
+            "embedding_mpn": 0.8966450646717687
+        }
+    },
+    {
+        "image_id": "sample_000340",
+        "ppa_consistency": {
+            "rouge2_f": 0.6082508096064853,
+            "embedding_mpn": 0.7205077033334515
+        }
+    },
+    {
+        "image_id": "sample_000341",
+        "ppa_consistency": {
+            "rouge2_f": 0.42132196005803396,
+            "embedding_mpn": 0.630684433731709
+        }
+    },
+    {
+        "image_id": "sample_000342",
+        "ppa_consistency": {
+            "rouge2_f": 0.31668082866620817,
+            "embedding_mpn": 0.5394607344765514
+        }
+    },
+    {
+        "image_id": "sample_000343",
+        "ppa_consistency": {
+            "rouge2_f": 0.46395119027627973,
+            "embedding_mpn": 0.6214619418233038
+        }
+    },
+    {
+        "image_id": "sample_000344",
+        "ppa_consistency": {
+            "rouge2_f": 0.6066439952305237,
+            "embedding_mpn": 0.8132997939196861
+        }
+    },
+    {
+        "image_id": "sample_000345",
+        "ppa_consistency": {
+            "rouge2_f": 0.445855075127138,
+            "embedding_mpn": 0.6954148633289929
+        }
+    },
+    {
+        "image_id": "sample_000346",
+        "ppa_consistency": {
+            "rouge2_f": 0.3378405008600154,
+            "embedding_mpn": 0.5547966372766712
+        }
+    },
+    {
+        "image_id": "sample_000347",
+        "ppa_consistency": {
+            "rouge2_f": 0.5889651886952576,
+            "embedding_mpn": 0.7503924023364181
+        }
+    },
+    {
+        "image_id": "sample_000348",
+        "ppa_consistency": {
+            "rouge2_f": 0.5489199533363177,
+            "embedding_mpn": 0.6538531387531995
+        }
+    },
+    {
+        "image_id": "sample_000349",
+        "ppa_consistency": {
+            "rouge2_f": 0.6386040528810352,
+            "embedding_mpn": 0.8075099246944558
+        }
+    },
+    {
+        "image_id": "sample_000350",
+        "ppa_consistency": {
+            "rouge2_f": 0.42159154692214407,
+            "embedding_mpn": 0.6645321004723574
+        }
+    },
+    {
+        "image_id": "sample_000351",
+        "ppa_consistency": {
+            "rouge2_f": 0.39434844641858613,
+            "embedding_mpn": 0.48984076863677256
+        }
+    },
+    {
+        "image_id": "sample_000352",
+        "ppa_consistency": {
+            "rouge2_f": 0.2665056239714144,
+            "embedding_mpn": 0.4828662210521528
+        }
+    },
+    {
+        "image_id": "sample_000353",
+        "ppa_consistency": {
+            "rouge2_f": 0.3079355971255575,
+            "embedding_mpn": 0.5932232480446193
+        }
+    },
+    {
+        "image_id": "sample_000354",
+        "ppa_consistency": {
+            "rouge2_f": 0.18771058881744168,
+            "embedding_mpn": 0.46949797091484397
+        }
+    },
+    {
+        "image_id": "sample_000355",
+        "ppa_consistency": {
+            "rouge2_f": 0.5316526200803927,
+            "embedding_mpn": 0.7058498333681692
+        }
+    },
+    {
+        "image_id": "sample_000356",
+        "ppa_consistency": {
+            "rouge2_f": 0.41826213697865755,
+            "embedding_mpn": 0.6222103038397818
+        }
+    },
+    {
+        "image_id": "sample_000357",
+        "ppa_consistency": {
+            "rouge2_f": 0.49435479463627274,
+            "embedding_mpn": 0.740552907557264
+        }
+    },
+    {
+        "image_id": "sample_000358",
+        "ppa_consistency": {
+            "rouge2_f": 0.517134147299306,
+            "embedding_mpn": 0.7061522529870186
+        }
+    },
+    {
+        "image_id": "sample_000359",
+        "ppa_consistency": {
+            "rouge2_f": 0.4454581681679216,
+            "embedding_mpn": 0.6220414307446576
+        }
+    },
+    {
+        "image_id": "sample_000360",
+        "ppa_consistency": {
+            "rouge2_f": 0.5461702653338089,
+            "embedding_mpn": 0.6235601617744113
+        }
+    },
+    {
+        "image_id": "sample_000361",
+        "ppa_consistency": {
+            "rouge2_f": 0.29777218668414307,
+            "embedding_mpn": 0.522368032325506
+        }
+    },
+    {
+        "image_id": "sample_000362",
+        "ppa_consistency": {
+            "rouge2_f": 0.5256298157191913,
+            "embedding_mpn": 0.6945908155380306
+        }
+    },
+    {
+        "image_id": "sample_000363",
+        "ppa_consistency": {
+            "rouge2_f": 0.502765089959809,
+            "embedding_mpn": 0.7036199922815092
+        }
+    },
+    {
+        "image_id": "sample_000364",
+        "ppa_consistency": {
+            "rouge2_f": 0.4190360479535958,
+            "embedding_mpn": 0.552337764429457
+        }
+    },
+    {
+        "image_id": "sample_000365",
+        "ppa_consistency": {
+            "rouge2_f": 0.5293767882646523,
+            "embedding_mpn": 0.6506744216077504
+        }
+    },
+    {
+        "image_id": "sample_000366",
+        "ppa_consistency": {
+            "rouge2_f": 0.5612379133571708,
+            "embedding_mpn": 0.6390828971029003
+        }
+    },
+    {
+        "image_id": "sample_000367",
+        "ppa_consistency": {
+            "rouge2_f": 0.6543733455988465,
+            "embedding_mpn": 0.8627291945436291
+        }
+    },
+    {
+        "image_id": "sample_000368",
+        "ppa_consistency": {
+            "rouge2_f": 0.5384044601470813,
+            "embedding_mpn": 0.7773659191838121
+        }
+    },
+    {
+        "image_id": "sample_000369",
+        "ppa_consistency": {
+            "rouge2_f": 0.7498211666693865,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000370",
+        "ppa_consistency": {
+            "rouge2_f": 0.22386886530025324,
+            "embedding_mpn": 0.32709424729611114
+        }
+    },
+    {
+        "image_id": "sample_000371",
+        "ppa_consistency": {
+            "rouge2_f": 0.40627721334564815,
+            "embedding_mpn": 0.5878426763582982
+        }
+    },
+    {
+        "image_id": "sample_000372",
+        "ppa_consistency": {
+            "rouge2_f": 0.5776488530703685,
+            "embedding_mpn": 0.7141042242811606
+        }
+    },
+    {
+        "image_id": "sample_000373",
+        "ppa_consistency": {
+            "rouge2_f": 0.5280150146715618,
+            "embedding_mpn": 0.6626920387303624
+        }
+    },
+    {
+        "image_id": "sample_000374",
+        "ppa_consistency": {
+            "rouge2_f": 0.40827232955120774,
+            "embedding_mpn": 0.5038726637403144
+        }
+    },
+    {
+        "image_id": "sample_000375",
+        "ppa_consistency": {
+            "rouge2_f": 0.36151501308336437,
+            "embedding_mpn": 0.4604139367463843
+        }
+    },
+    {
+        "image_id": "sample_000376",
+        "ppa_consistency": {
+            "rouge2_f": 0.3536190120534001,
+            "embedding_mpn": 0.5968375198498704
+        }
+    },
+    {
+        "image_id": "sample_000377",
+        "ppa_consistency": {
+            "rouge2_f": 0.35759016667520854,
+            "embedding_mpn": 0.695533090565452
+        }
+    },
+    {
+        "image_id": "sample_000378",
+        "ppa_consistency": {
+            "rouge2_f": 0.5739976851321333,
+            "embedding_mpn": 0.7650878525538258
+        }
+    },
+    {
+        "image_id": "sample_000379",
+        "ppa_consistency": {
+            "rouge2_f": 0.37124633297281795,
+            "embedding_mpn": 0.5932649257373575
+        }
+    },
+    {
+        "image_id": "sample_000380",
+        "ppa_consistency": {
+            "rouge2_f": 0.41365432606433394,
+            "embedding_mpn": 0.6009749149430557
+        }
+    },
+    {
+        "image_id": "sample_000381",
+        "ppa_consistency": {
+            "rouge2_f": 0.8840126807403192,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000382",
+        "ppa_consistency": {
+            "rouge2_f": 0.6723909989428514,
+            "embedding_mpn": 0.8102004134352981
+        }
+    },
+    {
+        "image_id": "sample_000383",
+        "ppa_consistency": {
+            "rouge2_f": 0.49475172642545573,
+            "embedding_mpn": 0.7809997645635863
+        }
+    },
+    {
+        "image_id": "sample_000384",
+        "ppa_consistency": {
+            "rouge2_f": 0.4059549413318349,
+            "embedding_mpn": 0.6947018548116506
+        }
+    },
+    {
+        "image_id": "sample_000385",
+        "ppa_consistency": {
+            "rouge2_f": 0.6061627903183213,
+            "embedding_mpn": 0.7524147837646653
+        }
+    },
+    {
+        "image_id": "sample_000386",
+        "ppa_consistency": {
+            "rouge2_f": 0.5948611608583282,
+            "embedding_mpn": 0.8332144278359319
+        }
+    },
+    {
+        "image_id": "sample_000387",
+        "ppa_consistency": {
+            "rouge2_f": 0.5932714943325794,
+            "embedding_mpn": 0.679058011139152
+        }
+    },
+    {
+        "image_id": "sample_000388",
+        "ppa_consistency": {
+            "rouge2_f": 0.3909294236262697,
+            "embedding_mpn": 0.5560783054931794
+        }
+    },
+    {
+        "image_id": "sample_000389",
+        "ppa_consistency": {
+            "rouge2_f": 0.48883498563499306,
+            "embedding_mpn": 0.7060753114880337
+        }
+    },
+    {
+        "image_id": "sample_000390",
+        "ppa_consistency": {
+            "rouge2_f": 0.5266551501399881,
+            "embedding_mpn": 0.626534488617382
+        }
+    },
+    {
+        "image_id": "sample_000391",
+        "ppa_consistency": {
+            "rouge2_f": 0.5570296776508945,
+            "embedding_mpn": 0.7736648223679239
+        }
+    },
+    {
+        "image_id": "sample_000392",
+        "ppa_consistency": {
+            "rouge2_f": 0.583968567189656,
+            "embedding_mpn": 0.8288154107229333
+        }
+    },
+    {
+        "image_id": "sample_000393",
+        "ppa_consistency": {
+            "rouge2_f": 0.6250883231823356,
+            "embedding_mpn": 0.8326391279360419
+        }
+    },
+    {
+        "image_id": "sample_000394",
+        "ppa_consistency": {
+            "rouge2_f": 0.48947514328120295,
+            "embedding_mpn": 0.5698174872702435
+        }
+    },
+    {
+        "image_id": "sample_000395",
+        "ppa_consistency": {
+            "rouge2_f": 0.5644427328698879,
+            "embedding_mpn": 0.7569039940996746
+        }
+    },
+    {
+        "image_id": "sample_000396",
+        "ppa_consistency": {
+            "rouge2_f": 0.540736825579306,
+            "embedding_mpn": 0.6441319110300875
+        }
+    },
+    {
+        "image_id": "sample_000397",
+        "ppa_consistency": {
+            "rouge2_f": 0.3378415189387607,
+            "embedding_mpn": 0.5810306901387349
+        }
+    },
+    {
+        "image_id": "sample_000398",
+        "ppa_consistency": {
+            "rouge2_f": 0.4940667269215017,
+            "embedding_mpn": 0.7149567687638592
+        }
+    },
+    {
+        "image_id": "sample_000399",
+        "ppa_consistency": {
+            "rouge2_f": 0.5042477564195692,
+            "embedding_mpn": 0.6860331247893139
+        }
+    },
+    {
+        "image_id": "sample_000400",
+        "ppa_consistency": {
+            "rouge2_f": 0.6407425708963996,
+            "embedding_mpn": 0.7897798872033572
+        }
+    },
+    {
+        "image_id": "sample_000401",
+        "ppa_consistency": {
+            "rouge2_f": 0.5144181165411476,
+            "embedding_mpn": 0.6666815992188451
+        }
+    },
+    {
+        "image_id": "sample_000402",
+        "ppa_consistency": {
+            "rouge2_f": 0.43482556588515264,
+            "embedding_mpn": 0.5962752384770342
+        }
+    },
+    {
+        "image_id": "sample_000403",
+        "ppa_consistency": {
+            "rouge2_f": 0.533320065745057,
+            "embedding_mpn": 0.6845951484452484
+        }
+    },
+    {
+        "image_id": "sample_000404",
+        "ppa_consistency": {
+            "rouge2_f": 0.6883634188360281,
+            "embedding_mpn": 0.8146869807028578
+        }
+    },
+    {
+        "image_id": "sample_000405",
+        "ppa_consistency": {
+            "rouge2_f": 0.47196925337579615,
+            "embedding_mpn": 0.6255853898793456
+        }
+    },
+    {
+        "image_id": "sample_000406",
+        "ppa_consistency": {
+            "rouge2_f": 0.7170466826530599,
+            "embedding_mpn": 0.9088399692437544
+        }
+    },
+    {
+        "image_id": "sample_000407",
+        "ppa_consistency": {
+            "rouge2_f": 0.6547766809202953,
+            "embedding_mpn": 0.745643058538077
+        }
+    },
+    {
+        "image_id": "sample_000408",
+        "ppa_consistency": {
+            "rouge2_f": 0.5400575398803888,
+            "embedding_mpn": 0.7734353876177951
+        }
+    },
+    {
+        "image_id": "sample_000409",
+        "ppa_consistency": {
+            "rouge2_f": 0.5123425983913136,
+            "embedding_mpn": 0.7562714208952346
+        }
+    },
+    {
+        "image_id": "sample_000410",
+        "ppa_consistency": {
+            "rouge2_f": 0.4224067324849442,
+            "embedding_mpn": 0.686967578896079
+        }
+    },
+    {
+        "image_id": "sample_000411",
+        "ppa_consistency": {
+            "rouge2_f": 0.8448347185428875,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000412",
+        "ppa_consistency": {
+            "rouge2_f": 0.43317462178988425,
+            "embedding_mpn": 0.7003776904169463
+        }
+    },
+    {
+        "image_id": "sample_000413",
+        "ppa_consistency": {
+            "rouge2_f": 0.7369358218596068,
+            "embedding_mpn": 0.8855642202304107
+        }
+    },
+    {
+        "image_id": "sample_000414",
+        "ppa_consistency": {
+            "rouge2_f": 0.43697197743562144,
+            "embedding_mpn": 0.600064900903991
+        }
+    },
+    {
+        "image_id": "sample_000415",
+        "ppa_consistency": {
+            "rouge2_f": 0.29833242334485843,
+            "embedding_mpn": 0.4232133065558065
+        }
+    },
+    {
+        "image_id": "sample_000416",
+        "ppa_consistency": {
+            "rouge2_f": 0.34937888498718983,
+            "embedding_mpn": 0.4833110310809421
+        }
+    },
+    {
+        "image_id": "sample_000417",
+        "ppa_consistency": {
+            "rouge2_f": 0.49479726689198283,
+            "embedding_mpn": 0.688850150844174
+        }
+    },
+    {
+        "image_id": "sample_000418",
+        "ppa_consistency": {
+            "rouge2_f": 0.7325750739221115,
+            "embedding_mpn": 0.8526738314777841
+        }
+    },
+    {
+        "image_id": "sample_000419",
+        "ppa_consistency": {
+            "rouge2_f": 0.6476483597714875,
+            "embedding_mpn": 0.8148090291179569
+        }
+    },
+    {
+        "image_id": "sample_000420",
+        "ppa_consistency": {
+            "rouge2_f": 0.49258044355213504,
+            "embedding_mpn": 0.7130696130821312
+        }
+    },
+    {
+        "image_id": "sample_000421",
+        "ppa_consistency": {
+            "rouge2_f": 0.33159169676565525,
+            "embedding_mpn": 0.5345362815366983
+        }
+    },
+    {
+        "image_id": "sample_000422",
+        "ppa_consistency": {
+            "rouge2_f": 0.5249678312319584,
+            "embedding_mpn": 0.7345149070724474
+        }
+    },
+    {
+        "image_id": "sample_000423",
+        "ppa_consistency": {
+            "rouge2_f": 0.5433752965861727,
+            "embedding_mpn": 0.8706933049808263
+        }
+    },
+    {
+        "image_id": "sample_000424",
+        "ppa_consistency": {
+            "rouge2_f": 0.4043390023623026,
+            "embedding_mpn": 0.5524791850621935
+        }
+    },
+    {
+        "image_id": "sample_000425",
+        "ppa_consistency": {
+            "rouge2_f": 0.40652892103628535,
+            "embedding_mpn": 0.55320029388667
+        }
+    },
+    {
+        "image_id": "sample_000426",
+        "ppa_consistency": {
+            "rouge2_f": 0.40439193090402237,
+            "embedding_mpn": 0.6557329227704755
+        }
+    },
+    {
+        "image_id": "sample_000427",
+        "ppa_consistency": {
+            "rouge2_f": 0.7130756371984782,
+            "embedding_mpn": 0.8588308595735097
+        }
+    },
+    {
+        "image_id": "sample_000428",
+        "ppa_consistency": {
+            "rouge2_f": 0.3751466640343657,
+            "embedding_mpn": 0.5834315974175499
+        }
+    },
+    {
+        "image_id": "sample_000429",
+        "ppa_consistency": {
+            "rouge2_f": 0.4171665433578543,
+            "embedding_mpn": 0.635142452423185
+        }
+    },
+    {
+        "image_id": "sample_000430",
+        "ppa_consistency": {
+            "rouge2_f": 0.530438453127695,
+            "embedding_mpn": 0.6194938062278611
+        }
+    },
+    {
+        "image_id": "sample_000431",
+        "ppa_consistency": {
+            "rouge2_f": 0.7321257801995092,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000432",
+        "ppa_consistency": {
+            "rouge2_f": 0.40808169642734204,
+            "embedding_mpn": 0.5648196028311829
+        }
+    },
+    {
+        "image_id": "sample_000433",
+        "ppa_consistency": {
+            "rouge2_f": 0.5428798086087357,
+            "embedding_mpn": 0.7429472160079572
+        }
+    },
+    {
+        "image_id": "sample_000434",
+        "ppa_consistency": {
+            "rouge2_f": 0.5987816409009246,
+            "embedding_mpn": 0.8993939132269055
+        }
+    },
+    {
+        "image_id": "sample_000435",
+        "ppa_consistency": {
+            "rouge2_f": 0.4734579158758926,
+            "embedding_mpn": 0.6055600812035853
+        }
+    },
+    {
+        "image_id": "sample_000436",
+        "ppa_consistency": {
+            "rouge2_f": 0.2931021157978209,
+            "embedding_mpn": 0.42924631340130576
+        }
+    },
+    {
+        "image_id": "sample_000437",
+        "ppa_consistency": {
+            "rouge2_f": 0.49503095406893044,
+            "embedding_mpn": 0.7827044258799978
+        }
+    },
+    {
+        "image_id": "sample_000438",
+        "ppa_consistency": {
+            "rouge2_f": 0.4223583051445743,
+            "embedding_mpn": 0.6157855822429081
+        }
+    },
+    {
+        "image_id": "sample_000439",
+        "ppa_consistency": {
+            "rouge2_f": 0.4975365655890872,
+            "embedding_mpn": 0.7488401619959723
+        }
+    },
+    {
+        "image_id": "sample_000440",
+        "ppa_consistency": {
+            "rouge2_f": 0.8790398638810433,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000441",
+        "ppa_consistency": {
+            "rouge2_f": 0.4265840836222667,
+            "embedding_mpn": 0.669233736246411
+        }
+    },
+    {
+        "image_id": "sample_000442",
+        "ppa_consistency": {
+            "rouge2_f": 0.6022837234439467,
+            "embedding_mpn": 0.8930861629881086
+        }
+    },
+    {
+        "image_id": "sample_000443",
+        "ppa_consistency": {
+            "rouge2_f": 0.5875892277988946,
+            "embedding_mpn": 0.7460317023516709
+        }
+    },
+    {
+        "image_id": "sample_000444",
+        "ppa_consistency": {
+            "rouge2_f": 0.5885982246038464,
+            "embedding_mpn": 0.8351204394388207
+        }
+    },
+    {
+        "image_id": "sample_000445",
+        "ppa_consistency": {
+            "rouge2_f": 0.6230723271796046,
+            "embedding_mpn": 0.8335087690460424
+        }
+    },
+    {
+        "image_id": "sample_000446",
+        "ppa_consistency": {
+            "rouge2_f": 0.6600012034383731,
+            "embedding_mpn": 0.9101589388651135
+        }
+    },
+    {
+        "image_id": "sample_000447",
+        "ppa_consistency": {
+            "rouge2_f": 0.707323848655629,
+            "embedding_mpn": 0.9262464419110076
+        }
+    },
+    {
+        "image_id": "sample_000448",
+        "ppa_consistency": {
+            "rouge2_f": 0.47493228795247183,
+            "embedding_mpn": 0.6637351091384712
+        }
+    },
+    {
+        "image_id": "sample_000449",
+        "ppa_consistency": {
+            "rouge2_f": 0.6809763449762535,
+            "embedding_mpn": 0.8119602047170194
+        }
+    },
+    {
+        "image_id": "sample_000450",
+        "ppa_consistency": {
+            "rouge2_f": 0.5553009963309352,
+            "embedding_mpn": 0.7117006675912936
+        }
+    },
+    {
+        "image_id": "sample_000451",
+        "ppa_consistency": {
+            "rouge2_f": 0.5043117234402226,
+            "embedding_mpn": 0.7610188351966605
+        }
+    },
+    {
+        "image_id": "sample_000452",
+        "ppa_consistency": {
+            "rouge2_f": 0.5286648602029855,
+            "embedding_mpn": 0.7114510530923545
+        }
+    },
+    {
+        "image_id": "sample_000453",
+        "ppa_consistency": {
+            "rouge2_f": 0.2960215788530121,
+            "embedding_mpn": 0.5207967928146453
+        }
+    },
+    {
+        "image_id": "sample_000454",
+        "ppa_consistency": {
+            "rouge2_f": 0.5968226271711613,
+            "embedding_mpn": 0.9066179105694889
+        }
+    },
+    {
+        "image_id": "sample_000455",
+        "ppa_consistency": {
+            "rouge2_f": 0.4538332647570499,
+            "embedding_mpn": 0.6469822844168862
+        }
+    },
+    {
+        "image_id": "sample_000456",
+        "ppa_consistency": {
+            "rouge2_f": 0.5374075525566133,
+            "embedding_mpn": 0.8120547493424217
+        }
+    },
+    {
+        "image_id": "sample_000457",
+        "ppa_consistency": {
+            "rouge2_f": 0.4857056701419572,
+            "embedding_mpn": 0.6824469616881775
+        }
+    },
+    {
+        "image_id": "sample_000458",
+        "ppa_consistency": {
+            "rouge2_f": 0.5911844764574808,
+            "embedding_mpn": 0.7823810238468623
+        }
+    },
+    {
+        "image_id": "sample_000459",
+        "ppa_consistency": {
+            "rouge2_f": 0.43303495781742074,
+            "embedding_mpn": 0.6246803573913192
+        }
+    },
+    {
+        "image_id": "sample_000460",
+        "ppa_consistency": {
+            "rouge2_f": 0.6610447624789658,
+            "embedding_mpn": 0.7794538445143022
+        }
+    },
+    {
+        "image_id": "sample_000461",
+        "ppa_consistency": {
+            "rouge2_f": 0.5199454511220314,
+            "embedding_mpn": 0.657938202225681
+        }
+    },
+    {
+        "image_id": "sample_000462",
+        "ppa_consistency": {
+            "rouge2_f": 0.6792569943387263,
+            "embedding_mpn": 0.7678657800516998
+        }
+    },
+    {
+        "image_id": "sample_000463",
+        "ppa_consistency": {
+            "rouge2_f": 0.41616172290926173,
+            "embedding_mpn": 0.618794435413133
+        }
+    },
+    {
+        "image_id": "sample_000464",
+        "ppa_consistency": {
+            "rouge2_f": 0.7348286043851511,
+            "embedding_mpn": 0.9108835887207718
+        }
+    },
+    {
+        "image_id": "sample_000465",
+        "ppa_consistency": {
+            "rouge2_f": 0.41672007099602026,
+            "embedding_mpn": 0.7095894951624557
+        }
+    },
+    {
+        "image_id": "sample_000466",
+        "ppa_consistency": {
+            "rouge2_f": 0.2827979149375634,
+            "embedding_mpn": 0.3308695575403585
+        }
+    },
+    {
+        "image_id": "sample_000467",
+        "ppa_consistency": {
+            "rouge2_f": 0.5660021675079998,
+            "embedding_mpn": 0.7158789140468431
+        }
+    },
+    {
+        "image_id": "sample_000468",
+        "ppa_consistency": {
+            "rouge2_f": 0.346815077430393,
+            "embedding_mpn": 0.5693164642683542
+        }
+    },
+    {
+        "image_id": "sample_000469",
+        "ppa_consistency": {
+            "rouge2_f": 0.5365701070656799,
+            "embedding_mpn": 0.6827253892214762
+        }
+    },
+    {
+        "image_id": "sample_000470",
+        "ppa_consistency": {
+            "rouge2_f": 0.30795434019936585,
+            "embedding_mpn": 0.5403017798961745
+        }
+    },
+    {
+        "image_id": "sample_000471",
+        "ppa_consistency": {
+            "rouge2_f": 0.5975301766937992,
+            "embedding_mpn": 0.7715796248670361
+        }
+    },
+    {
+        "image_id": "sample_000472",
+        "ppa_consistency": {
+            "rouge2_f": 0.7769955494071499,
+            "embedding_mpn": 0.8927904634275807
+        }
+    },
+    {
+        "image_id": "sample_000473",
+        "ppa_consistency": {
+            "rouge2_f": 0.27117122436128915,
+            "embedding_mpn": 0.40965674016841447
+        }
+    },
+    {
+        "image_id": "sample_000474",
+        "ppa_consistency": {
+            "rouge2_f": 0.49316209754667534,
+            "embedding_mpn": 0.6877624645060368
+        }
+    },
+    {
+        "image_id": "sample_000475",
+        "ppa_consistency": {
+            "rouge2_f": 0.4638145913215505,
+            "embedding_mpn": 0.6649379151124083
+        }
+    },
+    {
+        "image_id": "sample_000476",
+        "ppa_consistency": {
+            "rouge2_f": 0.31226908637143336,
+            "embedding_mpn": 0.5788949626158288
+        }
+    },
+    {
+        "image_id": "sample_000477",
+        "ppa_consistency": {
+            "rouge2_f": 0.4876773232411147,
+            "embedding_mpn": 0.7347150731364023
+        }
+    },
+    {
+        "image_id": "sample_000478",
+        "ppa_consistency": {
+            "rouge2_f": 0.5514088019566556,
+            "embedding_mpn": 0.7588139951058827
+        }
+    },
+    {
+        "image_id": "sample_000479",
+        "ppa_consistency": {
+            "rouge2_f": 0.5854650920348305,
+            "embedding_mpn": 0.7923276056358695
+        }
+    },
+    {
+        "image_id": "sample_000480",
+        "ppa_consistency": {
+            "rouge2_f": 0.5964084139801316,
+            "embedding_mpn": 0.8561575657880774
+        }
+    },
+    {
+        "image_id": "sample_000481",
+        "ppa_consistency": {
+            "rouge2_f": 0.5294781754552205,
+            "embedding_mpn": 0.7520184009105312
+        }
+    },
+    {
+        "image_id": "sample_000482",
+        "ppa_consistency": {
+            "rouge2_f": 0.486539645856916,
+            "embedding_mpn": 0.7529466787838843
+        }
+    },
+    {
+        "image_id": "sample_000483",
+        "ppa_consistency": {
+            "rouge2_f": 0.39854115469110957,
+            "embedding_mpn": 0.6865975806657585
+        }
+    },
+    {
+        "image_id": "sample_000484",
+        "ppa_consistency": {
+            "rouge2_f": 0.49397630740334847,
+            "embedding_mpn": 0.5881298012762656
+        }
+    },
+    {
+        "image_id": "sample_000485",
+        "ppa_consistency": {
+            "rouge2_f": 0.5192156622366184,
+            "embedding_mpn": 0.6583525627881256
+        }
+    },
+    {
+        "image_id": "sample_000486",
+        "ppa_consistency": {
+            "rouge2_f": 0.6260965323483086,
+            "embedding_mpn": 0.7669390935901652
+        }
+    },
+    {
+        "image_id": "sample_000487",
+        "ppa_consistency": {
+            "rouge2_f": 0.43307248501778306,
+            "embedding_mpn": 0.4997000411610512
+        }
+    },
+    {
+        "image_id": "sample_000488",
+        "ppa_consistency": {
+            "rouge2_f": 0.43215405211263846,
+            "embedding_mpn": 0.4667212925149011
+        }
+    },
+    {
+        "image_id": "sample_000489",
+        "ppa_consistency": {
+            "rouge2_f": 0.2624145764771415,
+            "embedding_mpn": 0.48803945584579933
+        }
+    },
+    {
+        "image_id": "sample_000490",
+        "ppa_consistency": {
+            "rouge2_f": 0.6178700237976248,
+            "embedding_mpn": 0.8233974775047227
+        }
+    },
+    {
+        "image_id": "sample_000491",
+        "ppa_consistency": {
+            "rouge2_f": 0.35495357853061804,
+            "embedding_mpn": 0.5320908971620992
+        }
+    },
+    {
+        "image_id": "sample_000492",
+        "ppa_consistency": {
+            "rouge2_f": 0.49945961913641473,
+            "embedding_mpn": 0.6099577377848622
+        }
+    },
+    {
+        "image_id": "sample_000493",
+        "ppa_consistency": {
+            "rouge2_f": 0.7255097452650726,
+            "embedding_mpn": 0.9581514826996129
+        }
+    },
+    {
+        "image_id": "sample_000494",
+        "ppa_consistency": {
+            "rouge2_f": 0.46685537392555043,
+            "embedding_mpn": 0.6484685242652223
+        }
+    },
+    {
+        "image_id": "sample_000495",
+        "ppa_consistency": {
+            "rouge2_f": 0.5312574211921328,
+            "embedding_mpn": 0.5887533290866753
+        }
+    },
+    {
+        "image_id": "sample_000496",
+        "ppa_consistency": {
+            "rouge2_f": 0.46292339262191046,
+            "embedding_mpn": 0.6020043377420425
+        }
+    },
+    {
+        "image_id": "sample_000497",
+        "ppa_consistency": {
+            "rouge2_f": 0.3497569985157627,
+            "embedding_mpn": 0.5128909809426054
+        }
+    },
+    {
+        "image_id": "sample_000498",
+        "ppa_consistency": {
+            "rouge2_f": 0.7696529790274284,
+            "embedding_mpn": 0.9881035507034489
+        }
+    },
+    {
+        "image_id": "sample_000499",
+        "ppa_consistency": {
+            "rouge2_f": 0.4143231515325805,
+            "embedding_mpn": 0.62867811841395
+        }
+    },
+    {
+        "image_id": "sample_000500",
+        "ppa_consistency": {
+            "rouge2_f": 0.7099033154879003,
+            "embedding_mpn": 0.9453813364626664
+        }
+    },
+    {
+        "image_id": "sample_000501",
+        "ppa_consistency": {
+            "rouge2_f": 0.5089445554880261,
+            "embedding_mpn": 0.6501283488256917
+        }
+    },
+    {
+        "image_id": "sample_000502",
+        "ppa_consistency": {
+            "rouge2_f": 0.6047334970420385,
+            "embedding_mpn": 0.8083426201673435
+        }
+    },
+    {
+        "image_id": "sample_000503",
+        "ppa_consistency": {
+            "rouge2_f": 0.6342789830041599,
+            "embedding_mpn": 0.852389291105078
+        }
+    },
+    {
+        "image_id": "sample_000504",
+        "ppa_consistency": {
+            "rouge2_f": 0.6574329072979003,
+            "embedding_mpn": 0.8053187946042661
+        }
+    },
+    {
+        "image_id": "sample_000505",
+        "ppa_consistency": {
+            "rouge2_f": 0.6976091098451489,
+            "embedding_mpn": 0.8894650861266928
+        }
+    },
+    {
+        "image_id": "sample_000506",
+        "ppa_consistency": {
+            "rouge2_f": 0.8112891308937897,
+            "embedding_mpn": 0.9499378618084157
+        }
+    },
+    {
+        "image_id": "sample_000507",
+        "ppa_consistency": {
+            "rouge2_f": 0.7603945704747874,
+            "embedding_mpn": 0.9522692174825462
+        }
+    },
+    {
+        "image_id": "sample_000508",
+        "ppa_consistency": {
+            "rouge2_f": 0.40228729945783276,
+            "embedding_mpn": 0.5532541494145735
+        }
+    },
+    {
+        "image_id": "sample_000509",
+        "ppa_consistency": {
+            "rouge2_f": 0.451947903770852,
+            "embedding_mpn": 0.657397860554967
+        }
+    },
+    {
+        "image_id": "sample_000510",
+        "ppa_consistency": {
+            "rouge2_f": 0.5784253232053249,
+            "embedding_mpn": 0.7240033229690102
+        }
+    },
+    {
+        "image_id": "sample_000511",
+        "ppa_consistency": {
+            "rouge2_f": 0.49634681116085255,
+            "embedding_mpn": 0.8048830326775643
+        }
+    },
+    {
+        "image_id": "sample_000512",
+        "ppa_consistency": {
+            "rouge2_f": 0.7591314755151066,
+            "embedding_mpn": 0.9653108956955485
+        }
+    },
+    {
+        "image_id": "sample_000513",
+        "ppa_consistency": {
+            "rouge2_f": 0.5057005217252301,
+            "embedding_mpn": 0.6929024013283257
+        }
+    },
+    {
+        "image_id": "sample_000514",
+        "ppa_consistency": {
+            "rouge2_f": 0.5920276959095625,
+            "embedding_mpn": 0.7106601419976581
+        }
+    },
+    {
+        "image_id": "sample_000515",
+        "ppa_consistency": {
+            "rouge2_f": 0.46139351938649825,
+            "embedding_mpn": 0.5412784749538428
+        }
+    },
+    {
+        "image_id": "sample_000516",
+        "ppa_consistency": {
+            "rouge2_f": 0.5598834683907918,
+            "embedding_mpn": 0.7787152247729563
+        }
+    },
+    {
+        "image_id": "sample_000517",
+        "ppa_consistency": {
+            "rouge2_f": 0.4275220306550939,
+            "embedding_mpn": 0.7019612364524959
+        }
+    },
+    {
+        "image_id": "sample_000518",
+        "ppa_consistency": {
+            "rouge2_f": 0.3161351505496488,
+            "embedding_mpn": 0.40827265773705956
+        }
+    },
+    {
+        "image_id": "sample_000519",
+        "ppa_consistency": {
+            "rouge2_f": 0.5336677727839958,
+            "embedding_mpn": 0.7764936709407251
+        }
+    },
+    {
+        "image_id": "sample_000520",
+        "ppa_consistency": {
+            "rouge2_f": 0.7525891537186803,
+            "embedding_mpn": 0.9050560979465438
+        }
+    },
+    {
+        "image_id": "sample_000521",
+        "ppa_consistency": {
+            "rouge2_f": 0.6618021250146944,
+            "embedding_mpn": 0.8394916168446519
+        }
+    },
+    {
+        "image_id": "sample_000522",
+        "ppa_consistency": {
+            "rouge2_f": 0.47410590500887706,
+            "embedding_mpn": 0.7071255012580774
+        }
+    },
+    {
+        "image_id": "sample_000523",
+        "ppa_consistency": {
+            "rouge2_f": 0.597848431762013,
+            "embedding_mpn": 0.683264902342958
+        }
+    },
+    {
+        "image_id": "sample_000524",
+        "ppa_consistency": {
+            "rouge2_f": 0.7214810524588844,
+            "embedding_mpn": 0.9842865337077314
+        }
+    },
+    {
+        "image_id": "sample_000525",
+        "ppa_consistency": {
+            "rouge2_f": 0.4061655947735706,
+            "embedding_mpn": 0.6099138067798151
+        }
+    },
+    {
+        "image_id": "sample_000526",
+        "ppa_consistency": {
+            "rouge2_f": 0.5741045279424108,
+            "embedding_mpn": 0.7697449538918453
+        }
+    },
+    {
+        "image_id": "sample_000527",
+        "ppa_consistency": {
+            "rouge2_f": 0.417454226923187,
+            "embedding_mpn": 0.5571568248469039
+        }
+    },
+    {
+        "image_id": "sample_000528",
+        "ppa_consistency": {
+            "rouge2_f": 0.4961668893512832,
+            "embedding_mpn": 0.7465306305068451
+        }
+    },
+    {
+        "image_id": "sample_000529",
+        "ppa_consistency": {
+            "rouge2_f": 0.5815400231891649,
+            "embedding_mpn": 0.7393031632639985
+        }
+    },
+    {
+        "image_id": "sample_000530",
+        "ppa_consistency": {
+            "rouge2_f": 0.6157548065972517,
+            "embedding_mpn": 0.6248422493594472
+        }
+    },
+    {
+        "image_id": "sample_000531",
+        "ppa_consistency": {
+            "rouge2_f": 0.6723148550558156,
+            "embedding_mpn": 0.7479320283291295
+        }
+    },
+    {
+        "image_id": "sample_000532",
+        "ppa_consistency": {
+            "rouge2_f": 0.44563385878953016,
+            "embedding_mpn": 0.5584536651119615
+        }
+    },
+    {
+        "image_id": "sample_000533",
+        "ppa_consistency": {
+            "rouge2_f": 0.30579777864186414,
+            "embedding_mpn": 0.5554473858845753
+        }
+    },
+    {
+        "image_id": "sample_000534",
+        "ppa_consistency": {
+            "rouge2_f": 0.4298448198032163,
+            "embedding_mpn": 0.6306350527070592
+        }
+    },
+    {
+        "image_id": "sample_000535",
+        "ppa_consistency": {
+            "rouge2_f": 0.4929619131681224,
+            "embedding_mpn": 0.7015843628015097
+        }
+    },
+    {
+        "image_id": "sample_000536",
+        "ppa_consistency": {
+            "rouge2_f": 0.5115232836590383,
+            "embedding_mpn": 0.6145437502077241
+        }
+    },
+    {
+        "image_id": "sample_000537",
+        "ppa_consistency": {
+            "rouge2_f": 0.649440022917071,
+            "embedding_mpn": 0.7998146279273923
+        }
+    },
+    {
+        "image_id": "sample_000538",
+        "ppa_consistency": {
+            "rouge2_f": 0.26651271520103736,
+            "embedding_mpn": 0.4208258055430826
+        }
+    },
+    {
+        "image_id": "sample_000539",
+        "ppa_consistency": {
+            "rouge2_f": 0.7251139685951467,
+            "embedding_mpn": 0.9561272731219562
+        }
+    },
+    {
+        "image_id": "sample_000540",
+        "ppa_consistency": {
+            "rouge2_f": 0.4477021798388211,
+            "embedding_mpn": 0.6067467175797154
+        }
+    },
+    {
+        "image_id": "sample_000541",
+        "ppa_consistency": {
+            "rouge2_f": 0.4517547423173926,
+            "embedding_mpn": 0.7563596213310431
+        }
+    },
+    {
+        "image_id": "sample_000542",
+        "ppa_consistency": {
+            "rouge2_f": 0.557290317834733,
+            "embedding_mpn": 0.7630928166661972
+        }
+    },
+    {
+        "image_id": "sample_000543",
+        "ppa_consistency": {
+            "rouge2_f": 0.6545425181047764,
+            "embedding_mpn": 0.8488698676463672
+        }
+    },
+    {
+        "image_id": "sample_000544",
+        "ppa_consistency": {
+            "rouge2_f": 0.46114367812689455,
+            "embedding_mpn": 0.6293626871817959
+        }
+    },
+    {
+        "image_id": "sample_000545",
+        "ppa_consistency": {
+            "rouge2_f": 0.4892598110878904,
+            "embedding_mpn": 0.6670264768972999
+        }
+    },
+    {
+        "image_id": "sample_000546",
+        "ppa_consistency": {
+            "rouge2_f": 0.609144431545547,
+            "embedding_mpn": 0.7922611846939849
+        }
+    },
+    {
+        "image_id": "sample_000547",
+        "ppa_consistency": {
+            "rouge2_f": 0.6098960115823369,
+            "embedding_mpn": 0.785053016775822
+        }
+    },
+    {
+        "image_id": "sample_000548",
+        "ppa_consistency": {
+            "rouge2_f": 0.5117952785474136,
+            "embedding_mpn": 0.5719032374754871
+        }
+    },
+    {
+        "image_id": "sample_000549",
+        "ppa_consistency": {
+            "rouge2_f": 0.6374491512053722,
+            "embedding_mpn": 0.8382384597592517
+        }
+    },
+    {
+        "image_id": "sample_000550",
+        "ppa_consistency": {
+            "rouge2_f": 0.6497015164789478,
+            "embedding_mpn": 0.6559261937873264
+        }
+    },
+    {
+        "image_id": "sample_000551",
+        "ppa_consistency": {
+            "rouge2_f": 0.8132562057171091,
+            "embedding_mpn": 0.9848808280277986
+        }
+    },
+    {
+        "image_id": "sample_000552",
+        "ppa_consistency": {
+            "rouge2_f": 0.6662274225106275,
+            "embedding_mpn": 0.7838330668830956
+        }
+    },
+    {
+        "image_id": "sample_000553",
+        "ppa_consistency": {
+            "rouge2_f": 0.5919160857593855,
+            "embedding_mpn": 0.7087111519689662
+        }
+    },
+    {
+        "image_id": "sample_000554",
+        "ppa_consistency": {
+            "rouge2_f": 0.4064346558956292,
+            "embedding_mpn": 0.7012765371276364
+        }
+    },
+    {
+        "image_id": "sample_000555",
+        "ppa_consistency": {
+            "rouge2_f": 0.471397639885498,
+            "embedding_mpn": 0.6644436122762813
+        }
+    },
+    {
+        "image_id": "sample_000556",
+        "ppa_consistency": {
+            "rouge2_f": 0.6305101596033131,
+            "embedding_mpn": 0.8402510728816694
+        }
+    },
+    {
+        "image_id": "sample_000557",
+        "ppa_consistency": {
+            "rouge2_f": 0.5225628357715365,
+            "embedding_mpn": 0.72446049591951
+        }
+    },
+    {
+        "image_id": "sample_000558",
+        "ppa_consistency": {
+            "rouge2_f": 0.8605123377857413,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000559",
+        "ppa_consistency": {
+            "rouge2_f": 0.5301648570072451,
+            "embedding_mpn": 0.7732041207677018
+        }
+    },
+    {
+        "image_id": "sample_000560",
+        "ppa_consistency": {
+            "rouge2_f": 0.6658288899436976,
+            "embedding_mpn": 0.9170507082773204
+        }
+    },
+    {
+        "image_id": "sample_000561",
+        "ppa_consistency": {
+            "rouge2_f": 0.5958095333043777,
+            "embedding_mpn": 0.7072292385405486
+        }
+    },
+    {
+        "image_id": "sample_000562",
+        "ppa_consistency": {
+            "rouge2_f": 0.7450147298451644,
+            "embedding_mpn": 0.8562340062640431
+        }
+    },
+    {
+        "image_id": "sample_000563",
+        "ppa_consistency": {
+            "rouge2_f": 0.545395319785855,
+            "embedding_mpn": 0.6801387687846935
+        }
+    },
+    {
+        "image_id": "sample_000564",
+        "ppa_consistency": {
+            "rouge2_f": 0.4903792480110511,
+            "embedding_mpn": 0.69010499262926
+        }
+    },
+    {
+        "image_id": "sample_000565",
+        "ppa_consistency": {
+            "rouge2_f": 0.548203582317541,
+            "embedding_mpn": 0.753518827571658
+        }
+    },
+    {
+        "image_id": "sample_000566",
+        "ppa_consistency": {
+            "rouge2_f": 0.7420566903587971,
+            "embedding_mpn": 0.9492687484496358
+        }
+    },
+    {
+        "image_id": "sample_000567",
+        "ppa_consistency": {
+            "rouge2_f": 0.4633765047064027,
+            "embedding_mpn": 0.7012217348037041
+        }
+    },
+    {
+        "image_id": "sample_000568",
+        "ppa_consistency": {
+            "rouge2_f": 0.6784205733386961,
+            "embedding_mpn": 0.7847641044304765
+        }
+    },
+    {
+        "image_id": "sample_000569",
+        "ppa_consistency": {
+            "rouge2_f": 0.5896100104774787,
+            "embedding_mpn": 0.8116803750161327
+        }
+    },
+    {
+        "image_id": "sample_000570",
+        "ppa_consistency": {
+            "rouge2_f": 0.45536547449600123,
+            "embedding_mpn": 0.7179078832946983
+        }
+    },
+    {
+        "image_id": "sample_000571",
+        "ppa_consistency": {
+            "rouge2_f": 0.477491661945121,
+            "embedding_mpn": 0.6650262491534136
+        }
+    },
+    {
+        "image_id": "sample_000572",
+        "ppa_consistency": {
+            "rouge2_f": 0.4740392263574196,
+            "embedding_mpn": 0.6549739692123077
+        }
+    },
+    {
+        "image_id": "sample_000573",
+        "ppa_consistency": {
+            "rouge2_f": 0.3355587369657197,
+            "embedding_mpn": 0.42915568401006204
+        }
+    },
+    {
+        "image_id": "sample_000574",
+        "ppa_consistency": {
+            "rouge2_f": 0.7391757594837458,
+            "embedding_mpn": 0.8683580785846461
+        }
+    },
+    {
+        "image_id": "sample_000575",
+        "ppa_consistency": {
+            "rouge2_f": 0.35129114758155394,
+            "embedding_mpn": 0.40208774076533105
+        }
+    },
+    {
+        "image_id": "sample_000576",
+        "ppa_consistency": {
+            "rouge2_f": 0.40415573784657466,
+            "embedding_mpn": 0.5047703502421248
+        }
+    },
+    {
+        "image_id": "sample_000577",
+        "ppa_consistency": {
+            "rouge2_f": 0.7463022740204553,
+            "embedding_mpn": 0.9868912993810134
+        }
+    },
+    {
+        "image_id": "sample_000578",
+        "ppa_consistency": {
+            "rouge2_f": 0.39677744822334143,
+            "embedding_mpn": 0.711923596544
+        }
+    },
+    {
+        "image_id": "sample_000579",
+        "ppa_consistency": {
+            "rouge2_f": 0.6472648230487391,
+            "embedding_mpn": 0.8077749400382217
+        }
+    },
+    {
+        "image_id": "sample_000580",
+        "ppa_consistency": {
+            "rouge2_f": 0.12508914276896405,
+            "embedding_mpn": 0.44254569712440855
+        }
+    },
+    {
+        "image_id": "sample_000581",
+        "ppa_consistency": {
+            "rouge2_f": 0.2915641299854606,
+            "embedding_mpn": 0.3728402051680471
+        }
+    },
+    {
+        "image_id": "sample_000582",
+        "ppa_consistency": {
+            "rouge2_f": 0.653385564801446,
+            "embedding_mpn": 0.9797707091818024
+        }
+    },
+    {
+        "image_id": "sample_000583",
+        "ppa_consistency": {
+            "rouge2_f": 0.7076409227765778,
+            "embedding_mpn": 0.9214754699797193
+        }
+    },
+    {
+        "image_id": "sample_000584",
+        "ppa_consistency": {
+            "rouge2_f": 0.5892131512497929,
+            "embedding_mpn": 0.8204180847766114
+        }
+    },
+    {
+        "image_id": "sample_000585",
+        "ppa_consistency": {
+            "rouge2_f": 0.6138392884680147,
+            "embedding_mpn": 0.8107107739061773
+        }
+    },
+    {
+        "image_id": "sample_000586",
+        "ppa_consistency": {
+            "rouge2_f": 0.5156301655927814,
+            "embedding_mpn": 0.69187457791881
+        }
+    },
+    {
+        "image_id": "sample_000587",
+        "ppa_consistency": {
+            "rouge2_f": 0.38690531166999853,
+            "embedding_mpn": 0.5500648070579921
+        }
+    },
+    {
+        "image_id": "sample_000588",
+        "ppa_consistency": {
+            "rouge2_f": 0.24605647787069218,
+            "embedding_mpn": 0.4201561002630072
+        }
+    },
+    {
+        "image_id": "sample_000589",
+        "ppa_consistency": {
+            "rouge2_f": 0.3517113339273624,
+            "embedding_mpn": 0.4654959748944162
+        }
+    },
+    {
+        "image_id": "sample_000590",
+        "ppa_consistency": {
+            "rouge2_f": 0.5269841226730217,
+            "embedding_mpn": 0.7905042598536978
+        }
+    },
+    {
+        "image_id": "sample_000591",
+        "ppa_consistency": {
+            "rouge2_f": 0.6377474909003469,
+            "embedding_mpn": 0.7235174546829563
+        }
+    },
+    {
+        "image_id": "sample_000592",
+        "ppa_consistency": {
+            "rouge2_f": 0.3515557795144494,
+            "embedding_mpn": 0.5880020507937423
+        }
+    },
+    {
+        "image_id": "sample_000593",
+        "ppa_consistency": {
+            "rouge2_f": 0.3526268909692536,
+            "embedding_mpn": 0.5191489019694321
+        }
+    },
+    {
+        "image_id": "sample_000594",
+        "ppa_consistency": {
+            "rouge2_f": 0.5825078148536827,
+            "embedding_mpn": 0.7044071475618646
+        }
+    },
+    {
+        "image_id": "sample_000595",
+        "ppa_consistency": {
+            "rouge2_f": 0.515806325921894,
+            "embedding_mpn": 0.6157647962268018
+        }
+    },
+    {
+        "image_id": "sample_000596",
+        "ppa_consistency": {
+            "rouge2_f": 0.40979485340731797,
+            "embedding_mpn": 0.6089817694558701
+        }
+    },
+    {
+        "image_id": "sample_000597",
+        "ppa_consistency": {
+            "rouge2_f": 0.26105093997024964,
+            "embedding_mpn": 0.4674794242478736
+        }
+    },
+    {
+        "image_id": "sample_000598",
+        "ppa_consistency": {
+            "rouge2_f": 0.4970543301609978,
+            "embedding_mpn": 0.7102037274260267
+        }
+    },
+    {
+        "image_id": "sample_000599",
+        "ppa_consistency": {
+            "rouge2_f": 0.5335871201096992,
+            "embedding_mpn": 0.7954355459081299
+        }
+    },
+    {
+        "image_id": "sample_000600",
+        "ppa_consistency": {
+            "rouge2_f": 0.5187836753971861,
+            "embedding_mpn": 0.6730193429296709
+        }
+    },
+    {
+        "image_id": "sample_000601",
+        "ppa_consistency": {
+            "rouge2_f": 0.5183446254548426,
+            "embedding_mpn": 0.7309425071970259
+        }
+    },
+    {
+        "image_id": "sample_000602",
+        "ppa_consistency": {
+            "rouge2_f": 0.5073290105488556,
+            "embedding_mpn": 0.6897645120210886
+        }
+    },
+    {
+        "image_id": "sample_000603",
+        "ppa_consistency": {
+            "rouge2_f": 0.3947012468289867,
+            "embedding_mpn": 0.5349271917759298
+        }
+    },
+    {
+        "image_id": "sample_000604",
+        "ppa_consistency": {
+            "rouge2_f": 0.28960920923004596,
+            "embedding_mpn": 0.5745838138212623
+        }
+    },
+    {
+        "image_id": "sample_000605",
+        "ppa_consistency": {
+            "rouge2_f": 0.3134205146913073,
+            "embedding_mpn": 0.4518462028235528
+        }
+    },
+    {
+        "image_id": "sample_000606",
+        "ppa_consistency": {
+            "rouge2_f": 0.39223891016462037,
+            "embedding_mpn": 0.6259343727812868
+        }
+    },
+    {
+        "image_id": "sample_000607",
+        "ppa_consistency": {
+            "rouge2_f": 0.45575754825619585,
+            "embedding_mpn": 0.7106220726166199
+        }
+    },
+    {
+        "image_id": "sample_000608",
+        "ppa_consistency": {
+            "rouge2_f": 0.39897640636341974,
+            "embedding_mpn": 0.5957160560968479
+        }
+    },
+    {
+        "image_id": "sample_000609",
+        "ppa_consistency": {
+            "rouge2_f": 0.3746979420110364,
+            "embedding_mpn": 0.6834068896774397
+        }
+    },
+    {
+        "image_id": "sample_000610",
+        "ppa_consistency": {
+            "rouge2_f": 0.3218602371455731,
+            "embedding_mpn": 0.5204494797591948
+        }
+    },
+    {
+        "image_id": "sample_000611",
+        "ppa_consistency": {
+            "rouge2_f": 0.5950665321398148,
+            "embedding_mpn": 0.7998944779869046
+        }
+    },
+    {
+        "image_id": "sample_000612",
+        "ppa_consistency": {
+            "rouge2_f": 0.47220685116834377,
+            "embedding_mpn": 0.6444176091843382
+        }
+    },
+    {
+        "image_id": "sample_000613",
+        "ppa_consistency": {
+            "rouge2_f": 0.5065717207968664,
+            "embedding_mpn": 0.6777516006991571
+        }
+    },
+    {
+        "image_id": "sample_000614",
+        "ppa_consistency": {
+            "rouge2_f": 0.6445818675192364,
+            "embedding_mpn": 0.9572132476147175
+        }
+    },
+    {
+        "image_id": "sample_000615",
+        "ppa_consistency": {
+            "rouge2_f": 0.416376232248825,
+            "embedding_mpn": 0.5141880534740803
+        }
+    },
+    {
+        "image_id": "sample_000616",
+        "ppa_consistency": {
+            "rouge2_f": 0.4867576927473118,
+            "embedding_mpn": 0.821540253006571
+        }
+    },
+    {
+        "image_id": "sample_000617",
+        "ppa_consistency": {
+            "rouge2_f": 0.3794488148045404,
+            "embedding_mpn": 0.6577958231311845
+        }
+    },
+    {
+        "image_id": "sample_000618",
+        "ppa_consistency": {
+            "rouge2_f": 0.751655122111466,
+            "embedding_mpn": 0.8984398276089863
+        }
+    },
+    {
+        "image_id": "sample_000619",
+        "ppa_consistency": {
+            "rouge2_f": 0.5853474618777913,
+            "embedding_mpn": 0.8630512592655035
+        }
+    },
+    {
+        "image_id": "sample_000620",
+        "ppa_consistency": {
+            "rouge2_f": 0.44313083885187693,
+            "embedding_mpn": 0.6109160172457352
+        }
+    },
+    {
+        "image_id": "sample_000621",
+        "ppa_consistency": {
+            "rouge2_f": 0.41274786290770343,
+            "embedding_mpn": 0.5318624590661314
+        }
+    },
+    {
+        "image_id": "sample_000622",
+        "ppa_consistency": {
+            "rouge2_f": 0.40260836824009893,
+            "embedding_mpn": 0.5091719522343635
+        }
+    },
+    {
+        "image_id": "sample_000623",
+        "ppa_consistency": {
+            "rouge2_f": 0.5051125202388839,
+            "embedding_mpn": 0.6389141263753654
+        }
+    },
+    {
+        "image_id": "sample_000624",
+        "ppa_consistency": {
+            "rouge2_f": 0.5350678867686122,
+            "embedding_mpn": 0.6217141479963946
+        }
+    },
+    {
+        "image_id": "sample_000625",
+        "ppa_consistency": {
+            "rouge2_f": 0.5496320348321686,
+            "embedding_mpn": 0.7796437725287041
+        }
+    },
+    {
+        "image_id": "sample_000626",
+        "ppa_consistency": {
+            "rouge2_f": 0.20093965361428168,
+            "embedding_mpn": 0.403383047805136
+        }
+    },
+    {
+        "image_id": "sample_000627",
+        "ppa_consistency": {
+            "rouge2_f": 0.6841503488709938,
+            "embedding_mpn": 0.7915718877495215
+        }
+    },
+    {
+        "image_id": "sample_000628",
+        "ppa_consistency": {
+            "rouge2_f": 0.7508858580256554,
+            "embedding_mpn": 0.9560269985876182
+        }
+    },
+    {
+        "image_id": "sample_000629",
+        "ppa_consistency": {
+            "rouge2_f": 0.3942482216362387,
+            "embedding_mpn": 0.5709020769767763
+        }
+    },
+    {
+        "image_id": "sample_000630",
+        "ppa_consistency": {
+            "rouge2_f": 0.5837490368782583,
+            "embedding_mpn": 0.768309360363003
+        }
+    },
+    {
+        "image_id": "sample_000631",
+        "ppa_consistency": {
+            "rouge2_f": 0.5808133988669554,
+            "embedding_mpn": 0.7055729832821934
+        }
+    },
+    {
+        "image_id": "sample_000632",
+        "ppa_consistency": {
+            "rouge2_f": 0.5254041236054117,
+            "embedding_mpn": 0.6205812537911128
+        }
+    },
+    {
+        "image_id": "sample_000633",
+        "ppa_consistency": {
+            "rouge2_f": 0.48331609079769494,
+            "embedding_mpn": 0.6090816323098076
+        }
+    },
+    {
+        "image_id": "sample_000634",
+        "ppa_consistency": {
+            "rouge2_f": 0.389670508611535,
+            "embedding_mpn": 0.6438360991241612
+        }
+    },
+    {
+        "image_id": "sample_000635",
+        "ppa_consistency": {
+            "rouge2_f": 0.6636965180891403,
+            "embedding_mpn": 0.880244805343571
+        }
+    },
+    {
+        "image_id": "sample_000636",
+        "ppa_consistency": {
+            "rouge2_f": 0.33615308529911314,
+            "embedding_mpn": 0.497168578317425
+        }
+    },
+    {
+        "image_id": "sample_000637",
+        "ppa_consistency": {
+            "rouge2_f": 0.6819646549968775,
+            "embedding_mpn": 0.8704676698152718
+        }
+    },
+    {
+        "image_id": "sample_000638",
+        "ppa_consistency": {
+            "rouge2_f": 0.8478994309972541,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000639",
+        "ppa_consistency": {
+            "rouge2_f": 0.5288073674735048,
+            "embedding_mpn": 0.6902603796213547
+        }
+    },
+    {
+        "image_id": "sample_000640",
+        "ppa_consistency": {
+            "rouge2_f": 0.5200311357173424,
+            "embedding_mpn": 0.6908829455345098
+        }
+    },
+    {
+        "image_id": "sample_000641",
+        "ppa_consistency": {
+            "rouge2_f": 0.6062163015032885,
+            "embedding_mpn": 0.8436184405109636
+        }
+    },
+    {
+        "image_id": "sample_000642",
+        "ppa_consistency": {
+            "rouge2_f": 0.3821015809238076,
+            "embedding_mpn": 0.4822276037103409
+        }
+    },
+    {
+        "image_id": "sample_000643",
+        "ppa_consistency": {
+            "rouge2_f": 0.22456919403450554,
+            "embedding_mpn": 0.43504867364925814
+        }
+    },
+    {
+        "image_id": "sample_000644",
+        "ppa_consistency": {
+            "rouge2_f": 0.33449500907391894,
+            "embedding_mpn": 0.38532157349677
+        }
+    },
+    {
+        "image_id": "sample_000645",
+        "ppa_consistency": {
+            "rouge2_f": 0.5582867906796446,
+            "embedding_mpn": 0.887866761725612
+        }
+    },
+    {
+        "image_id": "sample_000646",
+        "ppa_consistency": {
+            "rouge2_f": 0.499089363269016,
+            "embedding_mpn": 0.7293988097361145
+        }
+    },
+    {
+        "image_id": "sample_000647",
+        "ppa_consistency": {
+            "rouge2_f": 0.5122744037821347,
+            "embedding_mpn": 0.6863410245906661
+        }
+    },
+    {
+        "image_id": "sample_000648",
+        "ppa_consistency": {
+            "rouge2_f": 0.6378614724481653,
+            "embedding_mpn": 0.8004449997968461
+        }
+    },
+    {
+        "image_id": "sample_000649",
+        "ppa_consistency": {
+            "rouge2_f": 0.5401088471107854,
+            "embedding_mpn": 0.7394107154825462
+        }
+    },
+    {
+        "image_id": "sample_000650",
+        "ppa_consistency": {
+            "rouge2_f": 0.3997864319535427,
+            "embedding_mpn": 0.6393089729257341
+        }
+    },
+    {
+        "image_id": "sample_000651",
+        "ppa_consistency": {
+            "rouge2_f": 0.4737560364956887,
+            "embedding_mpn": 0.608411326926118
+        }
+    },
+    {
+        "image_id": "sample_000652",
+        "ppa_consistency": {
+            "rouge2_f": 0.5804764765355606,
+            "embedding_mpn": 0.7065683976280983
+        }
+    },
+    {
+        "image_id": "sample_000653",
+        "ppa_consistency": {
+            "rouge2_f": 0.5042271736053693,
+            "embedding_mpn": 0.683680033806717
+        }
+    },
+    {
+        "image_id": "sample_000654",
+        "ppa_consistency": {
+            "rouge2_f": 0.6628843348747367,
+            "embedding_mpn": 0.8713662288475339
+        }
+    },
+    {
+        "image_id": "sample_000655",
+        "ppa_consistency": {
+            "rouge2_f": 0.4962459561882284,
+            "embedding_mpn": 0.7253119341402456
+        }
+    },
+    {
+        "image_id": "sample_000656",
+        "ppa_consistency": {
+            "rouge2_f": 0.708531132352597,
+            "embedding_mpn": 0.9219997507337088
+        }
+    },
+    {
+        "image_id": "sample_000657",
+        "ppa_consistency": {
+            "rouge2_f": 0.5015528929765071,
+            "embedding_mpn": 0.6028427190354975
+        }
+    },
+    {
+        "image_id": "sample_000658",
+        "ppa_consistency": {
+            "rouge2_f": 0.3402329505386941,
+            "embedding_mpn": 0.5019194682774141
+        }
+    },
+    {
+        "image_id": "sample_000659",
+        "ppa_consistency": {
+            "rouge2_f": 0.4085731696761075,
+            "embedding_mpn": 0.5773548914969807
+        }
+    },
+    {
+        "image_id": "sample_000660",
+        "ppa_consistency": {
+            "rouge2_f": 0.5084974887345661,
+            "embedding_mpn": 0.72027905399597
+        }
+    },
+    {
+        "image_id": "sample_000661",
+        "ppa_consistency": {
+            "rouge2_f": 0.4894251832911363,
+            "embedding_mpn": 0.6986152819207084
+        }
+    },
+    {
+        "image_id": "sample_000662",
+        "ppa_consistency": {
+            "rouge2_f": 0.509671162221518,
+            "embedding_mpn": 0.5711431682402857
+        }
+    },
+    {
+        "image_id": "sample_000663",
+        "ppa_consistency": {
+            "rouge2_f": 0.35909969092718685,
+            "embedding_mpn": 0.5304544375838899
+        }
+    },
+    {
+        "image_id": "sample_000664",
+        "ppa_consistency": {
+            "rouge2_f": 0.31854578857383387,
+            "embedding_mpn": 0.5345415123736061
+        }
+    },
+    {
+        "image_id": "sample_000665",
+        "ppa_consistency": {
+            "rouge2_f": 0.7296126248515546,
+            "embedding_mpn": 0.9827383359533937
+        }
+    },
+    {
+        "image_id": "sample_000666",
+        "ppa_consistency": {
+            "rouge2_f": 0.4679835693604688,
+            "embedding_mpn": 0.7374271375714659
+        }
+    },
+    {
+        "image_id": "sample_000667",
+        "ppa_consistency": {
+            "rouge2_f": 0.5223001185803168,
+            "embedding_mpn": 0.6820749603132344
+        }
+    },
+    {
+        "image_id": "sample_000668",
+        "ppa_consistency": {
+            "rouge2_f": 0.407989600468859,
+            "embedding_mpn": 0.5698414192795713
+        }
+    },
+    {
+        "image_id": "sample_000669",
+        "ppa_consistency": {
+            "rouge2_f": 0.44177347721881566,
+            "embedding_mpn": 0.631998450561345
+        }
+    },
+    {
+        "image_id": "sample_000670",
+        "ppa_consistency": {
+            "rouge2_f": 0.5240860971574797,
+            "embedding_mpn": 0.7042688583666845
+        }
+    },
+    {
+        "image_id": "sample_000671",
+        "ppa_consistency": {
+            "rouge2_f": 0.5655407254619524,
+            "embedding_mpn": 0.8169795019491329
+        }
+    },
+    {
+        "image_id": "sample_000672",
+        "ppa_consistency": {
+            "rouge2_f": 0.6424331203161986,
+            "embedding_mpn": 0.7333392422092044
+        }
+    },
+    {
+        "image_id": "sample_000673",
+        "ppa_consistency": {
+            "rouge2_f": 0.11691182976470677,
+            "embedding_mpn": 0.35297102443906314
+        }
+    },
+    {
+        "image_id": "sample_000674",
+        "ppa_consistency": {
+            "rouge2_f": 0.2949681952376868,
+            "embedding_mpn": 0.46148227112412576
+        }
+    },
+    {
+        "image_id": "sample_000675",
+        "ppa_consistency": {
+            "rouge2_f": 0.3244830460910961,
+            "embedding_mpn": 0.3963642198362949
+        }
+    },
+    {
+        "image_id": "sample_000676",
+        "ppa_consistency": {
+            "rouge2_f": 0.5812194092307182,
+            "embedding_mpn": 0.806768718848877
+        }
+    },
+    {
+        "image_id": "sample_000677",
+        "ppa_consistency": {
+            "rouge2_f": 0.4135234398909921,
+            "embedding_mpn": 0.4380609023622975
+        }
+    },
+    {
+        "image_id": "sample_000678",
+        "ppa_consistency": {
+            "rouge2_f": 0.4180633327621276,
+            "embedding_mpn": 0.6215715730862804
+        }
+    },
+    {
+        "image_id": "sample_000679",
+        "ppa_consistency": {
+            "rouge2_f": 0.2781632646838807,
+            "embedding_mpn": 0.46916485987063006
+        }
+    },
+    {
+        "image_id": "sample_000680",
+        "ppa_consistency": {
+            "rouge2_f": 0.49770352262405065,
+            "embedding_mpn": 0.712461012600116
+        }
+    },
+    {
+        "image_id": "sample_000681",
+        "ppa_consistency": {
+            "rouge2_f": 0.517937055262123,
+            "embedding_mpn": 0.6395529188092296
+        }
+    },
+    {
+        "image_id": "sample_000682",
+        "ppa_consistency": {
+            "rouge2_f": 0.6794857252496737,
+            "embedding_mpn": 0.8499739508680555
+        }
+    },
+    {
+        "image_id": "sample_000683",
+        "ppa_consistency": {
+            "rouge2_f": 0.49590431907351024,
+            "embedding_mpn": 0.6199082415291185
+        }
+    },
+    {
+        "image_id": "sample_000684",
+        "ppa_consistency": {
+            "rouge2_f": 0.43350766232127347,
+            "embedding_mpn": 0.5604194994796594
+        }
+    },
+    {
+        "image_id": "sample_000685",
+        "ppa_consistency": {
+            "rouge2_f": 0.47405809101148655,
+            "embedding_mpn": 0.7567605998200271
+        }
+    },
+    {
+        "image_id": "sample_000686",
+        "ppa_consistency": {
+            "rouge2_f": 0.29421482856029657,
+            "embedding_mpn": 0.3774011446876921
+        }
+    },
+    {
+        "image_id": "sample_000687",
+        "ppa_consistency": {
+            "rouge2_f": 0.7206755491240413,
+            "embedding_mpn": 0.8881161284949293
+        }
+    },
+    {
+        "image_id": "sample_000688",
+        "ppa_consistency": {
+            "rouge2_f": 0.39963908920101254,
+            "embedding_mpn": 0.6420333704447772
+        }
+    },
+    {
+        "image_id": "sample_000689",
+        "ppa_consistency": {
+            "rouge2_f": 0.4091576690394704,
+            "embedding_mpn": 0.6987182518522865
+        }
+    },
+    {
+        "image_id": "sample_000690",
+        "ppa_consistency": {
+            "rouge2_f": 0.6016888807008903,
+            "embedding_mpn": 0.7524141962121482
+        }
+    },
+    {
+        "image_id": "sample_000691",
+        "ppa_consistency": {
+            "rouge2_f": 0.8235962319898256,
+            "embedding_mpn": 0.9672533366096252
+        }
+    },
+    {
+        "image_id": "sample_000692",
+        "ppa_consistency": {
+            "rouge2_f": 0.611314305801396,
+            "embedding_mpn": 0.8092718606257855
+        }
+    },
+    {
+        "image_id": "sample_000693",
+        "ppa_consistency": {
+            "rouge2_f": 0.6952611934098197,
+            "embedding_mpn": 0.9689518652134309
+        }
+    },
+    {
+        "image_id": "sample_000694",
+        "ppa_consistency": {
+            "rouge2_f": 0.504800622359865,
+            "embedding_mpn": 0.639595550139094
+        }
+    },
+    {
+        "image_id": "sample_000695",
+        "ppa_consistency": {
+            "rouge2_f": 0.5689958214408675,
+            "embedding_mpn": 0.7083328992557412
+        }
+    },
+    {
+        "image_id": "sample_000696",
+        "ppa_consistency": {
+            "rouge2_f": 0.8020080871289934,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000697",
+        "ppa_consistency": {
+            "rouge2_f": 0.4452017673031837,
+            "embedding_mpn": 0.6362825856550782
+        }
+    },
+    {
+        "image_id": "sample_000698",
+        "ppa_consistency": {
+            "rouge2_f": 0.2979310565705455,
+            "embedding_mpn": 0.41963421425990644
+        }
+    },
+    {
+        "image_id": "sample_000699",
+        "ppa_consistency": {
+            "rouge2_f": 0.6800620861916638,
+            "embedding_mpn": 0.82064842945338
+        }
+    },
+    {
+        "image_id": "sample_000700",
+        "ppa_consistency": {
+            "rouge2_f": 0.34296335259770905,
+            "embedding_mpn": 0.5551625177493462
+        }
+    },
+    {
+        "image_id": "sample_000701",
+        "ppa_consistency": {
+            "rouge2_f": 0.6778556231994495,
+            "embedding_mpn": 0.9009928218393535
+        }
+    },
+    {
+        "image_id": "sample_000702",
+        "ppa_consistency": {
+            "rouge2_f": 0.6494071528708725,
+            "embedding_mpn": 0.7839994475567048
+        }
+    },
+    {
+        "image_id": "sample_000703",
+        "ppa_consistency": {
+            "rouge2_f": 0.28672839998872346,
+            "embedding_mpn": 0.5568084191060527
+        }
+    },
+    {
+        "image_id": "sample_000704",
+        "ppa_consistency": {
+            "rouge2_f": 0.45159802417367967,
+            "embedding_mpn": 0.6165480431863768
+        }
+    },
+    {
+        "image_id": "sample_000705",
+        "ppa_consistency": {
+            "rouge2_f": 0.6992291212773587,
+            "embedding_mpn": 0.9126029218413982
+        }
+    },
+    {
+        "image_id": "sample_000706",
+        "ppa_consistency": {
+            "rouge2_f": 0.5683831658122411,
+            "embedding_mpn": 0.8782833065063061
+        }
+    },
+    {
+        "image_id": "sample_000707",
+        "ppa_consistency": {
+            "rouge2_f": 0.40347226544297854,
+            "embedding_mpn": 0.6391426731278528
+        }
+    },
+    {
+        "image_id": "sample_000708",
+        "ppa_consistency": {
+            "rouge2_f": 0.5085519687345627,
+            "embedding_mpn": 0.704667505466358
+        }
+    },
+    {
+        "image_id": "sample_000709",
+        "ppa_consistency": {
+            "rouge2_f": 0.7292702639618798,
+            "embedding_mpn": 0.9397404093392572
+        }
+    },
+    {
+        "image_id": "sample_000710",
+        "ppa_consistency": {
+            "rouge2_f": 0.580744411857445,
+            "embedding_mpn": 0.8250948520960331
+        }
+    },
+    {
+        "image_id": "sample_000711",
+        "ppa_consistency": {
+            "rouge2_f": 0.4452570905685672,
+            "embedding_mpn": 0.5749045105282269
+        }
+    },
+    {
+        "image_id": "sample_000712",
+        "ppa_consistency": {
+            "rouge2_f": 0.34327862089684497,
+            "embedding_mpn": 0.4052972255342849
+        }
+    },
+    {
+        "image_id": "sample_000713",
+        "ppa_consistency": {
+            "rouge2_f": 0.8084310694910484,
+            "embedding_mpn": 0.9222385675477474
+        }
+    },
+    {
+        "image_id": "sample_000714",
+        "ppa_consistency": {
+            "rouge2_f": 0.4668119564621342,
+            "embedding_mpn": 0.6302031584687989
+        }
+    },
+    {
+        "image_id": "sample_000715",
+        "ppa_consistency": {
+            "rouge2_f": 0.5461110046713651,
+            "embedding_mpn": 0.775055237423723
+        }
+    },
+    {
+        "image_id": "sample_000716",
+        "ppa_consistency": {
+            "rouge2_f": 0.6290710232539618,
+            "embedding_mpn": 0.7740863769398255
+        }
+    },
+    {
+        "image_id": "sample_000717",
+        "ppa_consistency": {
+            "rouge2_f": 0.47493174293203827,
+            "embedding_mpn": 0.6718865399613363
+        }
+    },
+    {
+        "image_id": "sample_000718",
+        "ppa_consistency": {
+            "rouge2_f": 0.46269633107246794,
+            "embedding_mpn": 0.7391370656336675
+        }
+    },
+    {
+        "image_id": "sample_000719",
+        "ppa_consistency": {
+            "rouge2_f": 0.5736462427457377,
+            "embedding_mpn": 0.7977389099087268
+        }
+    },
+    {
+        "image_id": "sample_000720",
+        "ppa_consistency": {
+            "rouge2_f": 0.5994321903001119,
+            "embedding_mpn": 0.8498406217492314
+        }
+    },
+    {
+        "image_id": "sample_000721",
+        "ppa_consistency": {
+            "rouge2_f": 0.527153233805556,
+            "embedding_mpn": 0.6293433169282052
+        }
+    },
+    {
+        "image_id": "sample_000722",
+        "ppa_consistency": {
+            "rouge2_f": 0.5599531927628962,
+            "embedding_mpn": 0.7008717791353865
+        }
+    },
+    {
+        "image_id": "sample_000723",
+        "ppa_consistency": {
+            "rouge2_f": 0.42070749773753646,
+            "embedding_mpn": 0.635889338862842
+        }
+    },
+    {
+        "image_id": "sample_000724",
+        "ppa_consistency": {
+            "rouge2_f": 0.6857424607150453,
+            "embedding_mpn": 0.867018755319209
+        }
+    },
+    {
+        "image_id": "sample_000725",
+        "ppa_consistency": {
+            "rouge2_f": 0.5463249518898445,
+            "embedding_mpn": 0.8284578485679588
+        }
+    },
+    {
+        "image_id": "sample_000726",
+        "ppa_consistency": {
+            "rouge2_f": 0.5361129769232852,
+            "embedding_mpn": 0.8722139637741089
+        }
+    },
+    {
+        "image_id": "sample_000727",
+        "ppa_consistency": {
+            "rouge2_f": 0.5848264468447316,
+            "embedding_mpn": 0.6591806812953825
+        }
+    },
+    {
+        "image_id": "sample_000728",
+        "ppa_consistency": {
+            "rouge2_f": 0.6130012431656798,
+            "embedding_mpn": 0.8158707462586465
+        }
+    },
+    {
+        "image_id": "sample_000729",
+        "ppa_consistency": {
+            "rouge2_f": 0.6934629131124118,
+            "embedding_mpn": 0.9138537941886093
+        }
+    },
+    {
+        "image_id": "sample_000730",
+        "ppa_consistency": {
+            "rouge2_f": 0.47923160240243395,
+            "embedding_mpn": 0.585773708225072
+        }
+    },
+    {
+        "image_id": "sample_000731",
+        "ppa_consistency": {
+            "rouge2_f": 0.46864651140709623,
+            "embedding_mpn": 0.5976152841545382
+        }
+    },
+    {
+        "image_id": "sample_000732",
+        "ppa_consistency": {
+            "rouge2_f": 0.4129214825292916,
+            "embedding_mpn": 0.6282361867945282
+        }
+    },
+    {
+        "image_id": "sample_000733",
+        "ppa_consistency": {
+            "rouge2_f": 0.750485675652711,
+            "embedding_mpn": 0.9541659674420898
+        }
+    },
+    {
+        "image_id": "sample_000734",
+        "ppa_consistency": {
+            "rouge2_f": 0.32061754069472237,
+            "embedding_mpn": 0.5272937007879308
+        }
+    },
+    {
+        "image_id": "sample_000735",
+        "ppa_consistency": {
+            "rouge2_f": 0.6794947229968477,
+            "embedding_mpn": 0.8229077487376847
+        }
+    },
+    {
+        "image_id": "sample_000736",
+        "ppa_consistency": {
+            "rouge2_f": 0.47989742499906235,
+            "embedding_mpn": 0.6607787166828142
+        }
+    },
+    {
+        "image_id": "sample_000737",
+        "ppa_consistency": {
+            "rouge2_f": 0.382265253037664,
+            "embedding_mpn": 0.6011620790682956
+        }
+    },
+    {
+        "image_id": "sample_000738",
+        "ppa_consistency": {
+            "rouge2_f": 0.48185777770883276,
+            "embedding_mpn": 0.6870297243432544
+        }
+    },
+    {
+        "image_id": "sample_000739",
+        "ppa_consistency": {
+            "rouge2_f": 0.36687617332968503,
+            "embedding_mpn": 0.5206286753102805
+        }
+    },
+    {
+        "image_id": "sample_000740",
+        "ppa_consistency": {
+            "rouge2_f": 0.6083572036741657,
+            "embedding_mpn": 0.7659872145486597
+        }
+    },
+    {
+        "image_id": "sample_000741",
+        "ppa_consistency": {
+            "rouge2_f": 0.7590445776850108,
+            "embedding_mpn": 0.9150664065481346
+        }
+    },
+    {
+        "image_id": "sample_000742",
+        "ppa_consistency": {
+            "rouge2_f": 0.5337027088627829,
+            "embedding_mpn": 0.7696581587751683
+        }
+    },
+    {
+        "image_id": "sample_000743",
+        "ppa_consistency": {
+            "rouge2_f": 0.28724514006004526,
+            "embedding_mpn": 0.3615966113411987
+        }
+    },
+    {
+        "image_id": "sample_000744",
+        "ppa_consistency": {
+            "rouge2_f": 0.2711515528144858,
+            "embedding_mpn": 0.5269065990201167
+        }
+    },
+    {
+        "image_id": "sample_000745",
+        "ppa_consistency": {
+            "rouge2_f": 0.41722127811613297,
+            "embedding_mpn": 0.7507132352562281
+        }
+    },
+    {
+        "image_id": "sample_000746",
+        "ppa_consistency": {
+            "rouge2_f": 0.4153628602013917,
+            "embedding_mpn": 0.6064359383932139
+        }
+    },
+    {
+        "image_id": "sample_000747",
+        "ppa_consistency": {
+            "rouge2_f": 0.7313164928851813,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000748",
+        "ppa_consistency": {
+            "rouge2_f": 0.8092255364954597,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000749",
+        "ppa_consistency": {
+            "rouge2_f": 0.6536093788717193,
+            "embedding_mpn": 0.8691609958237903
+        }
+    },
+    {
+        "image_id": "sample_000750",
+        "ppa_consistency": {
+            "rouge2_f": 0.6167541614249956,
+            "embedding_mpn": 0.7636830184452836
+        }
+    },
+    {
+        "image_id": "sample_000751",
+        "ppa_consistency": {
+            "rouge2_f": 0.37727016748665393,
+            "embedding_mpn": 0.5570677000419968
+        }
+    },
+    {
+        "image_id": "sample_000752",
+        "ppa_consistency": {
+            "rouge2_f": 0.4744723066212607,
+            "embedding_mpn": 0.6272786236616242
+        }
+    },
+    {
+        "image_id": "sample_000753",
+        "ppa_consistency": {
+            "rouge2_f": 0.6044581171185073,
+            "embedding_mpn": 0.8417764296327379
+        }
+    },
+    {
+        "image_id": "sample_000754",
+        "ppa_consistency": {
+            "rouge2_f": 0.5132610329437771,
+            "embedding_mpn": 0.7819128378070928
+        }
+    },
+    {
+        "image_id": "sample_000755",
+        "ppa_consistency": {
+            "rouge2_f": 0.32874663287997424,
+            "embedding_mpn": 0.4971270653231912
+        }
+    },
+    {
+        "image_id": "sample_000756",
+        "ppa_consistency": {
+            "rouge2_f": 0.39247665190957925,
+            "embedding_mpn": 0.4604844548851956
+        }
+    },
+    {
+        "image_id": "sample_000757",
+        "ppa_consistency": {
+            "rouge2_f": 0.48759789712359514,
+            "embedding_mpn": 0.6602930466205981
+        }
+    },
+    {
+        "image_id": "sample_000758",
+        "ppa_consistency": {
+            "rouge2_f": 0.7270174614863196,
+            "embedding_mpn": 0.9448661625596062
+        }
+    },
+    {
+        "image_id": "sample_000759",
+        "ppa_consistency": {
+            "rouge2_f": 0.3463719763506192,
+            "embedding_mpn": 0.6376175303306705
+        }
+    },
+    {
+        "image_id": "sample_000760",
+        "ppa_consistency": {
+            "rouge2_f": 0.683155054328803,
+            "embedding_mpn": 0.8980809165369199
+        }
+    },
+    {
+        "image_id": "sample_000761",
+        "ppa_consistency": {
+            "rouge2_f": 0.46602738517252523,
+            "embedding_mpn": 0.5884610309691165
+        }
+    },
+    {
+        "image_id": "sample_000762",
+        "ppa_consistency": {
+            "rouge2_f": 0.44416898358934204,
+            "embedding_mpn": 0.6894939007715932
+        }
+    },
+    {
+        "image_id": "sample_000763",
+        "ppa_consistency": {
+            "rouge2_f": 0.7826879458901914,
+            "embedding_mpn": 0.99
+        }
+    },
+    {
+        "image_id": "sample_000764",
+        "ppa_consistency": {
+            "rouge2_f": 0.4266725867320589,
+            "embedding_mpn": 0.5394955407347182
+        }
+    },
+    {
+        "image_id": "sample_000765",
+        "ppa_consistency": {
+            "rouge2_f": 0.5211329370366806,
+            "embedding_mpn": 0.5950265751029096
+        }
+    },
+    {
+        "image_id": "sample_000766",
+        "ppa_consistency": {
+            "rouge2_f": 0.5484751571277172,
+            "embedding_mpn": 0.7196190019497971
+        }
+    },
+    {
+        "image_id": "sample_000767",
+        "ppa_consistency": {
+            "rouge2_f": 0.43009452471976367,
+            "embedding_mpn": 0.514412340683756
+        }
+    },
+    {
+        "image_id": "sample_000768",
+        "ppa_consistency": {
+            "rouge2_f": 0.5770400159854575,
+            "embedding_mpn": 0.7250779656057429
+        }
+    },
+    {
+        "image_id": "sample_000769",
+        "ppa_consistency": {
+            "rouge2_f": 0.3245124746434568,
+            "embedding_mpn": 0.3321767418465578
+        }
+    },
+    {
+        "image_id": "sample_000770",
+        "ppa_consistency": {
+            "rouge2_f": 0.49587276424240456,
+            "embedding_mpn": 0.7822078600425892
+        }
+    },
+    {
+        "image_id": "sample_000771",
+        "ppa_consistency": {
+            "rouge2_f": 0.7491888821821805,
+            "embedding_mpn": 0.9017631067870042
+        }
+    },
+    {
+        "image_id": "sample_000772",
+        "ppa_consistency": {
+            "rouge2_f": 0.4096681909457329,
+            "embedding_mpn": 0.6177946463102344
+        }
+    },
+    {
+        "image_id": "sample_000773",
+        "ppa_consistency": {
+            "rouge2_f": 0.3502421841217563,
+            "embedding_mpn": 0.5483496981109243
+        }
+    },
+    {
+        "image_id": "sample_000774",
+        "ppa_consistency": {
+            "rouge2_f": 0.6149120417577035,
+            "embedding_mpn": 0.868528035190762
+        }
+    },
+    {
+        "image_id": "sample_000775",
+        "ppa_consistency": {
+            "rouge2_f": 0.4849768885280071,
+            "embedding_mpn": 0.6527564635173891
+        }
+    },
+    {
+        "image_id": "sample_000776",
+        "ppa_consistency": {
+            "rouge2_f": 0.3683026119865158,
+            "embedding_mpn": 0.49868979074412423
+        }
+    },
+    {
+        "image_id": "sample_000777",
+        "ppa_consistency": {
+            "rouge2_f": 0.466028166214771,
+            "embedding_mpn": 0.6680700966237416
+        }
+    },
+    {
+        "image_id": "sample_000778",
+        "ppa_consistency": {
+            "rouge2_f": 0.6370376939349874,
+            "embedding_mpn": 0.7688469568941667
+        }
+    },
+    {
+        "image_id": "sample_000779",
+        "ppa_consistency": {
+            "rouge2_f": 0.7239032853439282,
+            "embedding_mpn": 0.8876358692813741
+        }
+    },
+    {
+        "image_id": "sample_000780",
+        "ppa_consistency": {
+            "rouge2_f": 0.49679490584773456,
+            "embedding_mpn": 0.6319622050988651
+        }
+    },
+    {
+        "image_id": "sample_000781",
+        "ppa_consistency": {
+            "rouge2_f": 0.13636396095905878,
+            "embedding_mpn": 0.36940668474072175
+        }
+    },
+    {
+        "image_id": "sample_000782",
+        "ppa_consistency": {
+            "rouge2_f": 0.610526584563865,
+            "embedding_mpn": 0.7736469311367722
+        }
+    },
+    {
+        "image_id": "sample_000783",
+        "ppa_consistency": {
+            "rouge2_f": 0.5100486075837308,
+            "embedding_mpn": 0.7210049606459767
+        }
+    },
+    {
+        "image_id": "sample_000784",
+        "ppa_consistency": {
+            "rouge2_f": 0.2656181214670186,
+            "embedding_mpn": 0.41387496082624087
+        }
+    },
+    {
+        "image_id": "sample_000785",
+        "ppa_consistency": {
+            "rouge2_f": 0.6191397019432741,
+            "embedding_mpn": 0.7238823365531191
+        }
+    },
+    {
+        "image_id": "sample_000786",
+        "ppa_consistency": {
+            "rouge2_f": 0.5440336898249944,
+            "embedding_mpn": 0.6426387815475901
+        }
+    },
+    {
+        "image_id": "sample_000787",
+        "ppa_consistency": {
+            "rouge2_f": 0.569964497365029,
+            "embedding_mpn": 0.74782600842718
+        }
+    },
+    {
+        "image_id": "sample_000788",
+        "ppa_consistency": {
+            "rouge2_f": 0.2577302276141736,
+            "embedding_mpn": 0.5076145888816038
+        }
+    },
+    {
+        "image_id": "sample_000789",
+        "ppa_consistency": {
+            "rouge2_f": 0.3898112634802926,
+            "embedding_mpn": 0.5211961172594297
+        }
+    },
+    {
+        "image_id": "sample_000790",
+        "ppa_consistency": {
+            "rouge2_f": 0.5300853795846414,
+            "embedding_mpn": 0.7790036205503643
+        }
+    },
+    {
+        "image_id": "sample_000791",
+        "ppa_consistency": {
+            "rouge2_f": 0.3476267271532405,
+            "embedding_mpn": 0.5313275181441188
+        }
+    },
+    {
+        "image_id": "sample_000792",
+        "ppa_consistency": {
+            "rouge2_f": 0.5643224750495859,
+            "embedding_mpn": 0.7859088114853745
+        }
+    },
+    {
+        "image_id": "sample_000793",
+        "ppa_consistency": {
+            "rouge2_f": 0.5264662332915838,
+            "embedding_mpn": 0.6844445629465845
+        }
+    },
+    {
+        "image_id": "sample_000794",
+        "ppa_consistency": {
+            "rouge2_f": 0.37586146690269207,
+            "embedding_mpn": 0.5610300998854745
+        }
+    },
+    {
+        "image_id": "sample_000795",
+        "ppa_consistency": {
+            "rouge2_f": 0.339179148202159,
+            "embedding_mpn": 0.3438981191924826
+        }
+    },
+    {
+        "image_id": "sample_000796",
+        "ppa_consistency": {
+            "rouge2_f": 0.5654839706236502,
+            "embedding_mpn": 0.7997200610888219
+        }
+    },
+    {
+        "image_id": "sample_000797",
+        "ppa_consistency": {
+            "rouge2_f": 0.14556013466872425,
+            "embedding_mpn": 0.26497629238612797
+        }
+    },
+    {
+        "image_id": "sample_000798",
+        "ppa_consistency": {
+            "rouge2_f": 0.5928731391507797,
+            "embedding_mpn": 0.8963228673334815
+        }
+    },
+    {
+        "image_id": "sample_000799",
+        "ppa_consistency": {
+            "rouge2_f": 0.5031190561513111,
+            "embedding_mpn": 0.6394388796775631
+        }
+    }
+]

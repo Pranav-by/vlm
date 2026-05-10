@@ -1,0 +1,3402 @@
+[
+  {
+    "image_id": "sample_000027",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "small dining on near plates in were and glasses including were Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000644",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "seems scene is performing small present have a was has"
+      },
+      {
+        "from": "ground truth",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000704",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "the are bright on in telephone are in on beside sky. The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000742",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A person are standing small to were visible with scene visible was small"
+      },
+      {
+        "from": "ground truth",
+        "value": "A person is standing next to a red car in a parking lot."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000912",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A present seems surfing appears a large wave in beside appears The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000903",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "from couple is showing hand in by the the a at sunset."
+      },
+      {
+        "from": "ground truth",
+        "value": "A couple is walking hand in hand on the beach at sunset."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000990",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "featuring bathroom seems a bright bathtub is a tile were"
+      },
+      {
+        "from": "ground truth",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000112",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "at at room has picture was featuring scene and a an screen TV. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000689",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A at is on on a large showing outside scene showing picture The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "A cat is sitting on a windowsill looking outside at the birds."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000339",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "image near at from an beside was looking outside at large birds. The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "A cat is sitting on a windowsill looking outside at the birds."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000377",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "is scene from has near appears leather couch and has has screen appears"
+      },
+      {
+        "from": "ground truth",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000017",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A near is surfing on foreground seems visible in bright visible The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000486",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A were on foreground have a has of background featuring"
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000822",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "showing a are visible from beside appears of from showing town."
+      },
+      {
+        "from": "ground truth",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000576",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A an is has image featuring large foreground appears street."
+      },
+      {
+        "from": "ground truth",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000725",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "at appears from small scene near with slides foreground swings."
+      },
+      {
+        "from": "ground truth",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000501",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "an background is a a visible over a the The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000545",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The bedroom has an image large with the on white bedding. The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000846",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "by couple is near hand were large have the has by from"
+      },
+      {
+        "from": "ground truth",
+        "value": "A couple is walking hand in hand on the beach at sunset."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000519",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "small skateboarder is has foreground trick beside was was scene"
+      },
+      {
+        "from": "ground truth",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000344",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A at in seems are from background in a park showing beside sunny present"
+      },
+      {
+        "from": "ground truth",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000607",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "from including is crossing a by featuring is river. The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000306",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "present picture by traffic light an has from with several an waiting."
+      },
+      {
+        "from": "ground truth",
+        "value": "There is a traffic light at the intersection with several cars waiting."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000757",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "appears beside is small have on field of including grass."
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000631",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "including present and vegetables background background at was appears market."
+      },
+      {
+        "from": "ground truth",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000908",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "by beside small dark visible a dark wave foreground was ocean."
+      },
+      {
+        "from": "ground truth",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000166",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A the of at by playing image featuring bright scene by in sunny in The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000944",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "an an is including on has beside background in with ocean. The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000627",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "has near is background through dark are of beside grass."
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000924",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "an woman featuring riding a bicycle in a at were"
+      },
+      {
+        "from": "ground truth",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000143",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A large scene was a seems dark a a scene The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000916",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "Birds were perched on from large wire against large have from"
+      },
+      {
+        "from": "ground truth",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000620",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "scene featuring visible has image by a and glasses of wine. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000152",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "beside by an featuring were telephone near by a cloudy sky."
+      },
+      {
+        "from": "ground truth",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000467",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A present scene scene beside trick are a dark park."
+      },
+      {
+        "from": "ground truth",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000531",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "is dark of picture are are small in large park beside an image day. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000485",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "seems are perched on has telephone an by a cloudy image"
+      },
+      {
+        "from": "ground truth",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000823",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "small present picture showing in at showing intersection foreground several cars was The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "There is a traffic light at the intersection with several cars waiting."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000341",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "dark showing is the a bridge over a featuring Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000730",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A have beside riding bright bicycle down a appears are"
+      },
+      {
+        "from": "ground truth",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000140",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The kitchen from white appears and was stainless at were"
+      },
+      {
+        "from": "ground truth",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000039",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A appears background stopped are an bus stop with bright has"
+      },
+      {
+        "from": "ground truth",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000879",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A featuring is showing bright background picture of was small"
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000041",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "seems present foreground surfing on in large picture in the showing"
+      },
+      {
+        "from": "ground truth",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000512",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "large beside the a queen-sized in by picture and in bedding. The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000411",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "at group of were are by from in bright were image was sunny showing The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000521",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "There picture visible traffic light has background intersection beside an present a"
+      },
+      {
+        "from": "ground truth",
+        "value": "There is a traffic light at the intersection with several cars waiting."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000616",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "was living showing was near brown an featuring and a flat screen TV."
+      },
+      {
+        "from": "ground truth",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000203",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A woman large riding dark bicycle visible from beside street. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000959",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "Fresh fruits large seems picture a at bright in dark"
+      },
+      {
+        "from": "ground truth",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000773",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "picture large is performing has dark at seems are park. The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000880",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "Birds has small in foreground telephone near background a cloudy sky."
+      },
+      {
+        "from": "ground truth",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000571",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "Children was playing have with small with present and swings."
+      },
+      {
+        "from": "ground truth",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000347",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "small was dark sitting beside with appears looking outside at has birds."
+      },
+      {
+        "from": "ground truth",
+        "value": "A cat is sitting on a windowsill looking outside at the birds."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000813",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "at woman is riding bright an on appears tree-lined beside"
+      },
+      {
+        "from": "ground truth",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000382",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The bathroom small a showing featuring picture blue visible the Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000403",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "have in is surfing was have are wave in the foreground"
+      },
+      {
+        "from": "ground truth",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000936",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "in living background has a brown image couch and foreground is picture were"
+      },
+      {
+        "from": "ground truth",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000131",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "scene dark was showing on a bus stop at visible were"
+      },
+      {
+        "from": "ground truth",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000121",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "The bathroom near a was were and is tile walls."
+      },
+      {
+        "from": "ground truth",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000625",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "has the and large at from including dark farmers market. The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000696",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "has visible has a scene featuring bright at tile walls. The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000638",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "present visible in has cabinets and background a steel refrigerator."
+      },
+      {
+        "from": "ground truth",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000845",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "small with have a white seems and were picture scene"
+      },
+      {
+        "from": "ground truth",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000286",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "A dog foreground running through background field background tall are The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000563",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "bright a is present is from a red car from was scene lot."
+      },
+      {
+        "from": "ground truth",
+        "value": "A person is standing next to a red car in a parking lot."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000957",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A from foreground at bright picture large image seems are ocean."
+      },
+      {
+        "from": "ground truth",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000461",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "Birds appears perched on a picture have against a beside appears"
+      },
+      {
+        "from": "ground truth",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000516",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A picture with seems showing bridge appears a were Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000395",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "by an and dark are were scene a small with The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000075",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A woman background featuring a including beside a an street."
+      },
+      {
+        "from": "ground truth",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000295",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "A bus is is at the image stop has on by"
+      },
+      {
+        "from": "ground truth",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000566",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A dog with from by a field appears tall a"
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000371",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "present dog including foreground with a field at tall was Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000199",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "Birds beside perched has a telephone including a visible featuring an"
+      },
+      {
+        "from": "ground truth",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000946",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "bright person small standing next present a red bright large a a has"
+      },
+      {
+        "from": "ground truth",
+        "value": "A person is standing next to a red car in a parking lot."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000583",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "bright with beside on was trick at background near picture The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000052",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "at bright present showing a bridge over with river. The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000410",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "at at beside bright near appears over a river."
+      },
+      {
+        "from": "ground truth",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000046",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A at bright surfing have near large wave large the ocean. The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000883",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "is couple including walking hand in hand on bright appears at picture"
+      },
+      {
+        "from": "ground truth",
+        "value": "A couple is walking hand in hand on the beach at sunset."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000412",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A foreground are small on small windowsill was outside a the birds."
+      },
+      {
+        "from": "ground truth",
+        "value": "A cat is sitting on a windowsill looking outside at the birds."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000782",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The foreground table has was beside food and appears foreground the Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000374",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "Children the playing visible a near by slides and by"
+      },
+      {
+        "from": "ground truth",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000744",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A present is was a trick featuring near a park. The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000270",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "with skateboarder have on beside on foreground on skate park. The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000137",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The featuring table including plates featuring at and glasses is scene The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000441",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "dark train appears picture at small small picture river. The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000110",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "were have table including with on food and glasses of foreground"
+      },
+      {
+        "from": "ground truth",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000867",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "bright a was on a by large are at swings."
+      },
+      {
+        "from": "ground truth",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000008",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "in present is walking hand a hand large the scene from featuring"
+      },
+      {
+        "from": "ground truth",
+        "value": "A couple is walking hand in hand on the beach at sunset."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000549",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "A bright small standing appears dark large large car showing a scene lot. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "A person is standing next to a red car in a parking lot."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000292",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "beside dining table has plates featuring food with glasses scene wine."
+      },
+      {
+        "from": "ground truth",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000481",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A present image including next in a dark featuring appears a parking lot. The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "A person is standing next to a red car in a parking lot."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000688",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "Fresh present background vegetables are picture at a bright market. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000669",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "a image small large beside telephone wire against image near sky."
+      },
+      {
+        "from": "ground truth",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000863",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The the large a were bathtub and blue dark walls. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000611",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The the are white were and visible foreground near near Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000506",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "near at and present are beside at featuring is market."
+      },
+      {
+        "from": "ground truth",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000288",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "A including of appears are playing showing background featuring including were a is on Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000935",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "featuring dog from running large seems at of has grass. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000049",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "foreground showing small an small bathtub large blue beside walls. The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000361",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "have with appears a queen-sized bed with image and on including The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000597",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "A by bright an large playing frisbee in image park have near by near The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000220",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "small bathroom bright a seems bathtub large blue near walls."
+      },
+      {
+        "from": "ground truth",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000246",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "an foreground appears large seems was background near with small present"
+      },
+      {
+        "from": "ground truth",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000468",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A man bright surfing near a an near in small are"
+      },
+      {
+        "from": "ground truth",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000517",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "large appears is in on background at on an the appears seems Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "A cat is sitting on a windowsill looking outside at the birds."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000402",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "The present in small are bed with at including at bedding. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000092",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "The near was by with small appears including background including flat screen scene The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000023",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "showing cat is sitting was was is looking in large at birds. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "A cat is sitting on a windowsill looking outside at the birds."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000986",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "including background is seems picture background field of including grass. The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000315",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A dark visible has a large picture with skate park."
+      },
+      {
+        "from": "ground truth",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000900",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "visible dining beside in near bright featuring beside in appears wine. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000917",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "bright are perched on present beside is against small cloudy from"
+      },
+      {
+        "from": "ground truth",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000478",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "including fruits visible appears by at at from farmers the"
+      },
+      {
+        "from": "ground truth",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000947",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The bedroom has a present small with present and were foreground"
+      },
+      {
+        "from": "ground truth",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000510",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "near at is with scene in field were tall grass. The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000926",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "image is has white have featuring a bright steel refrigerator. The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000781",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "showing skateboarder is visible a at featuring image skate park."
+      },
+      {
+        "from": "ground truth",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000194",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "near a dark an cabinets showing a stainless small present The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000958",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A background of an in playing appears in background park near a seems day."
+      },
+      {
+        "from": "ground truth",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000738",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "dark train featuring crossing by visible over were at The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000591",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "seems small appears crossing a background over was river."
+      },
+      {
+        "from": "ground truth",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000335",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "showing are has background a near are a showing beside"
+      },
+      {
+        "from": "ground truth",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000833",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The living background has an by scene couch and background background foreground TV. The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000163",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "an seems visible have are displayed scene a image featuring"
+      },
+      {
+        "from": "ground truth",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000923",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "small mountains are in in beside background large background small are"
+      },
+      {
+        "from": "ground truth",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000886",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "with featuring is bright including including bus dark with passengers a"
+      },
+      {
+        "from": "ground truth",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000254",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "Children small by on in dark with visible visible swings."
+      },
+      {
+        "from": "ground truth",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000428",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "on skateboarder scene near foreground trick visible present skate park."
+      },
+      {
+        "from": "ground truth",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000630",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "a is with by light was picture intersection with several foreground waiting. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "There is a traffic light at the intersection with several cars waiting."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000884",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "small present appears walking appears in were near the were seems sunset. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "A couple is walking hand in hand on the beach at sunset."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000393",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The small with has a picture leather showing and dark flat visible featuring"
+      },
+      {
+        "from": "ground truth",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000297",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "the are playing on has playground from large beside with"
+      },
+      {
+        "from": "ground truth",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000051",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "with dark with vegetables are displayed have showing farmers near"
+      },
+      {
+        "from": "ground truth",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000099",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "present is scene running through the at of a bright"
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000144",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "are foreground large image hand a hand on the beach on including Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "A couple is walking hand in hand on the beach at sunset."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000253",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "the image in an present seems frisbee has a are are near sunny day."
+      },
+      {
+        "from": "ground truth",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000460",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "on visible featuring in foreground bed background blue and in bedding. The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000273",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "by seems are from in the near present were foreground town. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000125",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "large fruits present small on have bright a the market. The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000477",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The large near in plates of picture including foreground by small The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "The dining table has plates of food and glasses of wine."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000247",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "the including beside picture a foreground at a skate visible The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000955",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "seems in showing performing on have at at present park. The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000108",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "a background dark a a appears is blue were white seems"
+      },
+      {
+        "from": "ground truth",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000575",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "dark at is by on a visible wave picture visible image"
+      },
+      {
+        "from": "ground truth",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000527",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "is bedroom has visible queen-sized scene at near the showing beside"
+      },
+      {
+        "from": "ground truth",
+        "value": "The bedroom has a queen-sized bed with blue and white bedding."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000379",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "have living background visible foreground brown bright near picture a in screen TV. The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000778",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "on the is with hand in an appears the beach including an The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "A couple is walking hand in hand on the beach at sunset."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000133",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "appears is is an scene small were near skate park. The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000408",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "featuring train is bright a small over background beside The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000353",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "A on is on in background at a skate park."
+      },
+      {
+        "from": "ground truth",
+        "value": "A skateboarder is performing a trick at a skate park."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000881",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A at of bright have playing frisbee was from park by a sunny with The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000751",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "an present is the near a field has tall grass."
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000326",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A from is running through in with a tall grass."
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000735",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "The kitchen the has seems scene are have steel scene The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000882",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The an at were a brown the picture picture is flat screen on"
+      },
+      {
+        "from": "ground truth",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000320",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "near fruits with an are visible foreground background farmers market. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000147",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "in dark by running through a field of including appears The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000621",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A small is image next have bright red is the seems parking lot."
+      },
+      {
+        "from": "ground truth",
+        "value": "A person is standing next to a red car in a parking lot."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000348",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "background living the has scene an near dark bright a flat an with Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000208",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A small is scene at showing large picture tall grass."
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000475",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "Snow-covered a picture was in the background by have small in Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000495",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "large have beside visible in are background of a small was"
+      },
+      {
+        "from": "ground truth",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000425",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "scene background small riding a bicycle is from image has Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000450",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The bathroom a was white bathtub has are is background"
+      },
+      {
+        "from": "ground truth",
+        "value": "The bathroom has a white bathtub and blue tile walls."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000161",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "Snow-covered including featuring visible in the background from showing in from"
+      },
+      {
+        "from": "ground truth",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000061",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "were bus is has visible a bright stop with passengers by"
+      },
+      {
+        "from": "ground truth",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000705",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A with from surfing by large large wave bright foreground beside Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000074",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "There has a present light foreground featuring intersection dark several is is"
+      },
+      {
+        "from": "ground truth",
+        "value": "There is a traffic light at the intersection with several cars waiting."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000464",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "on on perched have on telephone wire against appears visible with Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000304",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "A man is including on a the in with are ocean."
+      },
+      {
+        "from": "ground truth",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000415",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "present dog foreground running through a beside of the is The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000701",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "were picture an beside light at is intersection with in has picture The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "There is a traffic light at the intersection with several cars waiting."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000826",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "The kitchen has from scene present on featuring steel refrigerator."
+      },
+      {
+        "from": "ground truth",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000824",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A woman is by an bicycle were are bright street."
+      },
+      {
+        "from": "ground truth",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000250",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "the dark visible riding featuring bicycle down has beside street. The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000494",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "with featuring is are seems a bus stop seems passengers image"
+      },
+      {
+        "from": "ground truth",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000309",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "at the is by on foreground over an river. The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000979",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "featuring featuring with a at displayed at a farmers were The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000657",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "scene fruits the vegetables visible picture with present are a"
+      },
+      {
+        "from": "ground truth",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000296",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A background has standing next to has near with in dark visible lot."
+      },
+      {
+        "from": "ground truth",
+        "value": "A person is standing next to a red car in a parking lot."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000558",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "A showing at running scene from on of has grass. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000642",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The has an by large present featuring near and bright flat screen on The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000910",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "at are have has foreground telephone showing were a cloudy has The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "Birds are perched on a telephone wire against a cloudy sky."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000509",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "is train is beside beside large seems a river."
+      },
+      {
+        "from": "ground truth",
+        "value": "A train is crossing a bridge over a river."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000031",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "A bus beside near is a scene stop on passengers with The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000654",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "There with picture background visible present has intersection with several are waiting."
+      },
+      {
+        "from": "ground truth",
+        "value": "There is a traffic light at the intersection with several cars waiting."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000632",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What is happening in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "a woman an riding small was in a has street. The lighting suggests daytime."
+      },
+      {
+        "from": "ground truth",
+        "value": "A woman is riding a bicycle down a tree-lined street."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000426",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Can you describe the scene in the picture?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "image group of people have with showing the by park on background have at The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "A group of people are playing frisbee in a park on a sunny day."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000585",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "including bus is seems at were bus dark featuring passengers near"
+      },
+      {
+        "from": "ground truth",
+        "value": "A bus is stopped at a bus stop with passengers waiting."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000785",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "present from beside an cabinets by appears stainless steel a"
+      },
+      {
+        "from": "ground truth",
+        "value": "The kitchen has white cabinets and a stainless steel refrigerator."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000215",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The living room an image on showing present bright dark the showing visible"
+      },
+      {
+        "from": "ground truth",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000666",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "by were is surfing scene was large scene in background were The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "A man is surfing on a large wave in the ocean."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000271",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "on near including vegetables an bright picture featuring farmers at"
+      },
+      {
+        "from": "ground truth",
+        "value": "Fresh fruits and vegetables are displayed at a farmers market."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000590",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What do you see in this photograph?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "The living room are a with leather is at near flat bright TV. The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "The living room has a brown leather couch and a flat screen TV."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000789",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "at featuring in at has a field of tall by The colors are vivid."
+      },
+      {
+        "from": "ground truth",
+        "value": "A dog is running through a field of tall grass."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000656",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "What objects can you identify in this image?"
+      },
+      {
+        "from": "vlm_1",
+        "value": "beside from an featuring in the background of a have town. Overall a clear image."
+      },
+      {
+        "from": "ground truth",
+        "value": "Snow-covered mountains are visible in the background of a small town."
+      }
+    ]
+  },
+  {
+    "image_id": "sample_000971",
+    "conversations_0.1": [
+      {
+        "from": "human",
+        "value": "Please describe this image in detail."
+      },
+      {
+        "from": "vlm_1",
+        "value": "from are an on beside was with featuring the in The scene appears to be outdoors."
+      },
+      {
+        "from": "ground truth",
+        "value": "Children are playing on a playground with slides and swings."
+      }
+    ]
+  }
+]
